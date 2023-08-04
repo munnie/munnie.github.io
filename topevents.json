@@ -5,23 +5,23 @@
         "previous": null
     },
     "data": [
-         {
-            "id": "helsinki:agdg5xjj5a",
+          {
+            "id": "helsinki:agdkopipzy",
             "location": {
-                "@id": "https://api.hel.fi/linkedevents/v1/place/matko:732/"
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20861/"
             },
             "keywords": [
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/matko:festivaali/"
-                },
                 {
                     "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1828/"
                 },
                 {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2402/"
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2851/"
                 },
                 {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p6889/"
                 }
             ],
             "super_event": null,
@@ -29,8 +29,18 @@
             "type_id": "General",
             "external_links": [
                 {
+                    "name": "extlink_twitter",
+                    "link": "https://twitter.com/KiasmaMuseum",
+                    "language": "fi"
+                },
+                {
+                    "name": "extlink_instagram",
+                    "link": "https://www.instagram.com/kiasmamuseum/",
+                    "language": "fi"
+                },
+                {
                     "name": "extlink_facebook",
-                    "link": "https://www.facebook.com/helsinkiprideyhteiso",
+                    "link": "https://www.facebook.com/KiasmaMuseum/",
                     "language": "fi"
                 }
             ],
@@ -38,14 +48,14 @@
                 {
                     "is_free": false,
                     "info_url": {
-                        "fi": "https://pride.fi/",
-                        "sv": "https://pride.fi/",
-                        "en": "https://pride.fi/"
+                        "fi": "https://kiasma.fi/liput-aukiolo-ja-saapuminen/",
+                        "sv": "https://kiasma.fi/liput-aukiolo-ja-saapuminen/",
+                        "en": "https://kiasma.fi/liput-aukiolo-ja-saapuminen/"
                     },
                     "price": {
-                        "fi": "https://pride.fi/",
-                        "sv": "https://pride.fi/",
-                        "en": "https://pride.fi/"
+                        "fi": "12/20€",
+                        "sv": "12/20€",
+                        "en": "12/20€"
                     },
                     "description": {
                         "fi": "",
@@ -58,35 +68,23 @@
             "publisher": "ytj:0586977-6",
             "sub_events": [
                 {
-                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agepyqfqey/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agepymthdq/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agepwy26ru/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agenrjzem4/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6drkjvu/"
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd3dtrwv4/"
                 }
             ],
             "images": [
                 {
-                    "id": 70179,
+                    "id": 90378,
                     "license": "event_only",
-                    "created_time": "2021-05-10T11:49:52.319930Z",
-                    "last_modified_time": "2021-12-02T11:21:12.622007Z",
-                    "name": "Helsinki Pride",
-                    "url": "https://api.hel.fi/linkedevents/media/images/5d583929-460f-4774-a674-068.jpg",
-                    "cropping": "320,0,1600,1280",
-                    "photographer_name": "Helsinki Pride (c) Kimmo Brandt",
-                    "alt_text": "Kaupungintalo ja Pride-liputus",
+                    "created_time": "2023-03-03T11:30:04.568599Z",
+                    "last_modified_time": "2023-03-03T11:30:41.898076Z",
+                    "name": "Tom of Finland",
+                    "url": "https://api.hel.fi/linkedevents/media/images/TOM-OF-FINLAND-Untitled-197.jpg",
+                    "cropping": "164,0,819,656",
+                    "photographer_name": "Kiasma (c) Jenni Nurminen",
+                    "alt_text": "Piirros kolmesta miehestä",
                     "data_source": "helsinki",
                     "publisher": "ytj:0586977-6",
-                    "@id": "https://api.hel.fi/linkedevents/v1/image/70179/",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/90378/",
                     "@context": "http://schema.org",
                     "@type": "ImageObject"
                 }
@@ -94,13 +92,13 @@
             "videos": [],
             "in_language": [],
             "audience": [],
-            "created_time": "2023-02-20T12:47:13.408194Z",
-            "last_modified_time": "2023-06-20T11:59:36.561696Z",
+            "created_time": "2023-03-03T11:30:42.274552Z",
+            "last_modified_time": "2023-04-24T05:30:15.592997Z",
             "date_published": null,
-            "start_time": "2023-06-25T21:01:00Z",
-            "end_time": "2023-07-02T20:59:00Z",
+            "start_time": "2023-04-28T07:00:00Z",
+            "end_time": "2023-10-29T15:00:00Z",
             "custom_data": null,
-            "audience_min_age": null,
+            "audience_min_age": 15,
             "audience_max_age": null,
             "super_event_type": "umbrella",
             "deleted": false,
@@ -110,25 +108,25 @@
             "enrolment_start_time": null,
             "enrolment_end_time": null,
             "local": false,
-            "search_vector_fi": "'-18':60C '1.7':51C '12':54C '14':59C '2.7.2023':63C '2023':3A '26.6':62C 'aja':34C 'heinäku':45C 'helsink':1A,4B,15C,36C,61C 'huipentu':39C 'ihmisoikeustapahtum':14B,25C 'kaivopuisto':56C 'kesä':44C 'kesä-heinäku':43C 'kesäku':33C 'klo':53C,58C 'koko':32C 'kulkue':49C 'kulttuur':12B,23C 'kuukaut':30C 'läht':50C 'pride':2A,5B,16C,29C,37C,41C,48C 'pride-kulkue':47C 'pride-kuukaut':28C 'pride-viiko':40C 'puistojuhl':57C 'päätye':55C 'seksuaal':9B,20C 'senaatintor':52C 'sukupuolivähemmistöj':11B,22C 'suome':7B,18C 'suur':8B,19C 'tapahtum':38C 'vaiht':46C 'viete':31C 'viiko':42C 'vuon':27C",
-            "search_vector_en": "'-18.00':66C '12noon':52C '14.00':65C '1st':45C '2.7.2023':69C '2023':3A '26.6':68C 'arrang':42C 'biggest':8B,25C 'cultur':9B,26C 'event':13B,30C 'finland':20B,37C 'gender':15B,32C 'head':53C 'held':64C 'helsinki':1A,4B,21C,67C 'human':11B,28C 'juli':44C 'kaivopuisto':55C 'leav':46C 'minor':18B,35C 'parad':39C 'park':56C,60C 'parti':61C 'pride':2A,5B,22C,38C,59C 'right':12B,29C 'senat':49C 'sexual':17B,34C 'squar':50C",
-            "search_vector_sv": "'-18':52C '1.7':38C '12':40C '14':51C '2.7.2023':55C '2023':3A '26.6':54C 'arranger':47C 'avgår':37C 'brunnspark':49C 'evenemang':9B,25C 'finland':7B,23C 'helsingfor':53C 'helsinki':1A,4B,20C 'kl':39C,50C 'kultur':11B,27C 'könsminoritet':19B,35C 'minoritet':17B,33C 'mänsk':13B,29C 'parkfest':45C 'prid':2A,5B,21C,44C 'prideparad':36C 'rätt':14B,30C 'senatstorget':42C 'sexuell':16B,32C 'störst':8B,24C",
+            "search_vector_fi": "'10':143C,147C,151C '12/20':154C '1421':119C '17':152C '18':148C,156C '1900':48C '20.30':144C '28.4':138C '29.10.2023':139C 'al':155C 'angeles':61C,117C 'arkistomateriaal':89C 'asem':46C 'asu':91C 'asui':129C 'donkey':103C 'elokuv':98C 'eläm':132C 'entis':114C 'es':37C,58C,88C 'finland':3A,12B,26C,40C,65C,113C 'hotel':104C 'house':125C 'huoltaj':178C 'ikonis':18B,32C 'ikäraj':163C 'julkaisu':95C 'julkis':77C 'kansallisgalleria':70C 'katso':108C 'keskeis':54C 'kiasm':34C,137C 'kirj':94C 'klo':142C,146C,150C 'kokoelm':67C,71C,80C 'kulttuur':53C 'kuuluis':14B,28C 'kuuluv':9B,23C 'kuv':19B,33C 'kuvantekij':42C 'kuvasto':171C 'la':145C 'laps':174C 'lave':120C 'leht':96C 'lisä':73C 'los':60C,116C 'luvu':49C 'maailm':6B,20C 'matk':5A 'muistoesin':93C 'museo':136C 'myös':75C,101C 'nost':36C 'nykyis':122C 'nykytait':135C 'nähd':74C 'näyttely':35C,56C,165C,175C 'näyttelyy':99C,160C 'of':2A,11B,25C,39C,64C,112C 'ohe':86C 'omaleimais':15B,29C 'osoit':44C,118C 'pe':141C 'piirustust':85C 'pääse':109C 'pääsy':159C 'rohk':4A 'seksuaalis':170C 'sijaitsev':62C 'sisältyy':100C 'sisältäm':168C 'sisäänpääsy':153C 'su':149C 'suomalaistaiteilij':8B,22C 'suome':69C,82C 'suorasukais':169C 'suosit':173C 'säätiö':66C 'taite':50C 'taiteilij':90C,128C 'taituruud':41C 'talo':127C 'tekijö':55C 'teoks':59C,76C 'terrac':121C 'ti':140C 'tom':1A,10B,24C,38C,63C,111C,124C 'tunnetu':7B,21C,126C 'tuotantoyhtiö':102C 'tuottam':105C 'tutustum':110C 'tyyl':16B,30C 'työhuon':115C 'työskentel':131C 'ulkom':84C 'v':157C 'vapa':158C 'vastu':179C 'vierailu':176C 'viimeis':133C 'virtuaaliympäristö':106C 'visuaalis':52C 'vuoks':172C 'vuosikymmen':134C 'yht':47C 'yksityis':79C 'yleis':123C",
+            "search_vector_en": "'-20.30':193C '10.00':192C,195C,198C '12/20':202C '1421':154C '17.00':199C '18':204C '18.00':196C '20th':75C '28.4':187C '29.10.2023':188C 'admiss':200C 'advis':234C 'age':211C 'alongsid':119C 'also':106C 'angel':93C,171C 'archiv':124C 'art':57C,78C 'artist':16B,38C,66C 'artwork':176C 'better':157C 'bold':4A 'centuri':76C 'children':220C 'cloth':129C 'collect':99C,115C 'contain':228C 'contemporari':56C,77C 'cultur':81C 'decad':182C 'discret':232C 'donkey':143C 'draw':120C 'due':221C 'entri':207C 'establish':68C 'exhibit':51C,83C,118C,122C,215C 'experi':140C,146C 'explicit':224C 'featur':123C 'fee':201C 'figur':73C 'film':135C 'finland':3A,8B,30C,64C,89C,168C 'finnish':15B,37C,101C,109C 'former':163C 'foundat':90C 'free':206C 'fri':191C 'galleri':103C 'guardian':231C 'helsinki':60C 'highlight':61C 'hotel':144C 'hous':161C 'icon':26B,48C 'imag':27B,49C 'imageri':226C 'immers':147C 'intern':111C 'journey':5A 'kiasma':58C,186C 'known':158C 'last':181C 'laveta':155C 'letter':132C 'life':185C 'limit':212C 'live':178C 'los':92C,170C 'magazin':134C 'major':72C 'master':174C 'masteri':67C 'materi':125C 'memorabilia':131C 'museum':54C 'nation':102C 'new':138C 'one':10B,32C 'parent':229C 'person':128C 'present':84C 'privat':114C 'produc':141C 'public':112C,133C 'recogn':14B,36C 'recommend':218C 'renown':20B,42C 'resid':164C 'room':152C 'sat':194C 'sexual':225C 'signatur':23B,45C 'style':24B,46C 'sun':197C 'terrac':156C 'togeth':94C 'tom':1A,6B,28C,62C,87C,126C,160C,166C 'tue':190C 'tue-fri':189C 'viewer':149C 'visual':80C 'vr':139C 'work':85C,96C,107C 'world':19B,41C 'yrs':205C",
+            "search_vector_sv": "'10':173C,177C,181C '12/20':184C '1421':141C '17':182C '18':178C,186C '1900':61C '20.30':174C '28.4':168C '29.10.2023':169C 'adress':140C 'aktör':59C 'allmänt':162C 'andr':92C 'angel':75C,146C 'ansvar':208C 'arbet':156C 'arbetsrum':138C 'arkivmaterial':106C 'barn':205C 'barnet':206C 'bekantskap':132C 'berömd':9B,27C 'besöket':210C 'bild':40C,199C 'bildskap':49C 'bodd':154C 'brev':111C 'central':58C 'demonstrer':51C 'donkey':126C 'därför':202C 'explicit':197C 'film':115C 'finland':3A,14B,22C,46C,80C,85C,98C,136C 'finland-stift':79C 'finn':118C 'finsk':10B,28C 'fram':43C 'fre':171C 'fritt':188C 'får':130C 'hotel':127C 'hous':166C 'huset':159C 'hämt':5B 'ikonisk':39C 'innehåll':196C 'inträd':183C,189C 'karakteristisk':35C 'kiasm':19B,167C 'kl':172C,176C,180C 'kläd':108C 'konst':63C 'konstnär':11B,29C,107C,157C 'kultur':66C 'känd':32C 'känt':163C 'lavet':142C 'levnadshistori':17B 'liv':153C 'los':74C,145C 'lyft':42C 'lö':175C 'miljö':122C 'minnesföremål':110C 'museibesök':129C 'nationalgalleris':86C 'också':89C,119C 'of':2A,13B,21C,45C,78C,135C 'offent':95C 'oh':114C 'privat':93C 'producer':123C 'produktionsbolaget':125C 'publikation':112C 'rekommender':201C 'samling':82C,87C,96C 'sexuell':198C 'sidan':102C 'sist':149C 'sitt':152C 'stift':81C,131C 'stil':36C 'ställning':53C 'sö':179C 'talet':62C 'teckning':104C 'terrac':143C 'ti':170C 'tid':137C 'tidskrift':113C 'tom':1A,12B,20C,44C,77C,134C,165C 'ur':71C,84C,91C 'utomland':100C 'utställning':4B,41C,68C,117C,190C,212C 'verk':15B,70C,90C 'verksamm':76C 'virtuell':121C 'virtuositet':47C 'vis':69C,105C 'visuell':65C 'värld':8B,31C 'vårdnadshav':207C 'åldersgrän':193C 'år':187C 'årtiondet':150C",
             "replaced_by": null,
             "provider_contact_info": null,
             "description": {
-                "fi": "<p>Helsinki Pride on Suomen suurin seksuaali- ja sukupuolivähemmistöjen kulttuuri- ja ihmisoikeustapahtuma.&nbsp;</p><p>Tänä vuonna Pride-kuukautta vietetään koko kesäkuun ajan ja Helsinki Pride -tapahtuma huipentuu Pride-viikkoon kesä-heinäkuun vaihteessa.</p><p>Pride-kulkue lähtee 1.7. Senaatintorilta klo 12 päättyen Kaivopuiston puistojuhliin klo 14-18.</p><p>&nbsp;</p><p>Helsinki<br>26.6.-2.7.2023</p>",
-                "sv": "<p>Helsinki Pride är Finlands största evenemang inom kultur och mänskliga rättigheter för sexuella minoriteter och könsminoriteter.</p><p>Prideparaden avgår 1.7. kl 12 från Senatstorget till Pride parkfest, som arrangeras i Brunnsparken kl 14-18.</p><p>&nbsp;</p><p>Helsingfors<br>26.6.-2.7.2023</p>",
-                "en": "<p>Helsinki Pride is the biggest cultural and human rights event for gender and sexual minorities in Finland.&nbsp;</p><p>Pride parade will be arranged on July 1st leaving from the Senate Square at 12noon heading for Kaivopuisto Park where the Pride Park Party will be held 14.00-18.00.</p><p>&nbsp;</p><p>Helsinki<br>26.6.-2.7.2023</p>"
+                "fi": "<p>Maailman tunnetuimpiin suomalaistaiteilijoihin kuuluva Tom of Finland on kuuluisa omaleimaisesta tyylistään ja ikonisista kuvistaan. Kiasman näyttely nostaa esiin Tom of Finlandin taituruuden kuvantekijänä ja osoittaa hänen asemansa yhtenä 1900-luvun taiteen ja visuaalisen kulttuurin keskeisistä tekijöistä.&nbsp;</p><p>Näyttelyssä on esillä teoksia Los Angelesissa sijaitsevan Tom of Finland -säätiön kokoelmista sekä Suomen Kansallisgallerian kokoelmista, minkä lisäksi nähdään myös teoksia julkisista ja yksityisistä kokoelmista niin Suomesta kuin ulkomailta. Piirustusten ohessa on esillä arkistomateriaalia, taiteilijan asuja ja muistoesineitä, kirjeitä, julkaisuja, lehtiä ja elokuva.&nbsp;</p><p>Näyttelyyn sisältyy myös tuotantoyhtiö Donkey Hotelin tuottama virtuaaliympäristö, jossa katsoja pääsee tutustumaan Tom of Finlandin entiseen työhuoneeseen Los Angelesissa osoitteessa 1421 Laveta Terrace. Nykyisin yleisesti TOM Housena tunnetussa talossa taiteilija asui ja työskenteli elämänsä viimeisen vuosikymmenen.&nbsp;</p><p>&nbsp;</p><p>Nykytaiteen museo Kiasma</p><p>28.4.–29.10.2023<br>ti–pe klo 10–20.30, la klo 10–18, su klo 10–17</p><p>Sisäänpääsy 12/20 €, alle 18-v. vapaa pääsy&nbsp;</p><p>Näyttelyyn ei ole ikärajaa, mutta näyttelyä ei sen sisältämän suorasukaisen seksuaalisen kuvaston vuoksi suositella lapsille. Näyttelyssä vierailu on huoltajan vastuulla.&nbsp;</p>",
+                "sv": "<p>Tom of Finland är en av de berömdaste finska konstnärerna i världen, känd för sin karakteristiska stil och sina ikoniska bilder. Utställningen lyfter fram Tom of Finlands virtuositet som bildskapare och demonstrerar hans ställning som en av de centrala aktörerna inom 1900-talets konst och visuella kultur.<br>På utställningen visas verk ur den i Los Angeles verksamma Tom of Finland-stiftelsens samlingar och ur Finlands Nationalgalleris samlingar, men också verk ur andra privata och offentliga samlingar i Finland och utomlands. Vid sidan av teckningarna visas arkivmaterial, konstnärens kläder och minnesföremål, brev, publikationer, tidskrifter oh filmer.<br>På utställningen finns också en virtuell miljö producerad av produktionsbolaget Donkey Hotel där museibesökarna får stifta bekantskap med Tom of Finlands tidigare arbetsrum på adressen 1421 Laveta Terrace i Los Angeles. Under det sista årtiondet av sitt liv bodde och arbetade konstnären i huset som är allmänt känt som TOM House.</p><p>&nbsp;</p><p>&nbsp;Kiasma</p><p>28.4.-29.10.2023</p><p>Ti–fre kl 10–20.30, lö kl 10–18, sö kl 10–17</p><p>Inträde 12/20€, under 18 år fritt inträde</p><p>Utställningen har ingen åldersgräns, med den innehåller explicit sexuella bilder och rekommenderas därför inte för barn. Barnets vårdnadshavare ansvarar för besöket på utställningen.&nbsp;</p>",
+                "en": "<p>Tom of Finland is one of the most recognized Finnish artists in the world, renowned for his signature style and iconic images.&nbsp;</p><p>The exhibition in the Museum of Contemporary Art Kiasma in Helsinki highlights Tom of Finland’s artistic mastery, establishing him as a major figure in 20th century contemporary art and visual culture.&nbsp;</p><p>The exhibition presents works from Tom of Finland Foundation in Los Angeles together with works from the collection of Finnish National Gallery. There are also works from Finnish and international public and private collections in the exhibition.&nbsp;</p><p>Alongside drawings, the exhibition features archive material, Tom’s personal clothing and memorabilia, letters, publications, magazines, films, and a new VR experience produced by Donkey Hotel. The experience immerses the viewer into the rooms of 1421 Laveta Terrace, better known as TOM House, the former residence of Tom of Finland in Los Angeles, where he mastered his artwork and lived over the last decade of his life.</p><p>&nbsp;</p><p>Kiasma</p><p>28.4.-29.10.2023&nbsp;</p><p>Tue-Fri 10.00-20.30</p><p>Sat 10.00–18.00</p><p>Sun 10.00–17.00</p><p>Admission fee 12/20€ under 18 yrs free entry</p><p>There is no age limit, but the exhibition is not recommended for children due to the explicit sexual imagery it contains. Parental or guardian discretion is advised.&nbsp;</p>"
             },
             "name": {
-                "fi": "Helsinki Pride 2023",
-                "sv": "Helsinki Pride 2023",
-                "en": "Helsinki Pride 2023"
+                "fi": "Tom of Finland: Rohkea matka",
+                "sv": "Tom of Finland",
+                "en": "Tom of Finland: Bold Journey"
             },
             "info_url": {
-                "fi": "https://pride.fi/",
-                "sv": "https://pride.fi/",
-                "en": "https://pride.fi/"
+                "fi": "https://kiasma.fi/nayttelyt/tom-of-finland/",
+                "sv": "https://kiasma.fi/sv/utstallningar/tom-of-finland/",
+                "en": "https://kiasma.fi/en/exhibitions/tom-of-finland/"
             },
             "location_extra_info": {
                 "fi": "",
@@ -136,16 +134,16 @@
                 "en": ""
             },
             "short_description": {
-                "fi": "Helsinki Pride on Suomen suurin seksuaali- ja sukupuolivähemmistöjen kulttuuri- ja ihmisoikeustapahtuma.",
-                "sv": "Helsinki Pride är Finlands största evenemang inom kultur och mänskliga rättigheter för sexuella minoriteter och könsminoriteter.",
-                "en": "Helsinki Pride is the biggest cultural and human rights event for gender and sexual minorities in Finland. "
+                "fi": "Maailman tunnetuimpiin suomalaistaiteilijoihin kuuluva Tom of Finland on kuuluisa omaleimaisesta tyylistään ja ikonisista kuvistaan.",
+                "sv": "Utställningen hämtar en av världens berömdaste finska konstnärer, Tom of Finlands, verk och levnadshistoria till Kiasma.",
+                "en": "Tom of Finland is one of the most recognized Finnish artists in the world, renowned for his signature style and iconic images. "
             },
             "provider": {
-                "fi": "Heseta",
-                "sv": "Heseta",
-                "en": "Heseta"
+                "fi": "Kiasma",
+                "sv": "Kiasma",
+                "en": "Kiasma"
             },
-            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agdg5xjj5a/",
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agdkopipzy/",
             "@context": "http://schema.org",
             "@type": "Event/LinkedEvent"
         },
