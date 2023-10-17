@@ -6,82 +6,78 @@
     },
     "data": [
         {
-                   "id": "helsinki:agd3pffa6e",
+                   "id": "helsinki:agdmcmv67e",
                    "location": {
-                       "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:32362/"
+                       "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20895/"
                    },
                    "keywords": [
                        {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3670/"
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1304/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2771/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p316/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
                        }
                    ],
                    "registration": null,
                    "super_event": null,
                    "event_status": "EventScheduled",
                    "type_id": "General",
-                   "external_links": [
-                       {
-                           "name": "extlink_facebook",
-                           "link": "https://www.facebook.com/stadinsilakkamarkkinat",
-                           "language": "fi"
-                       },
-                       {
-                           "name": "extlink_instagram",
-                           "link": "https://www.instagram.com/stadinsilakkamarkkinat/",
-                           "language": "fi"
-                       }
-                   ],
+                   "external_links": [],
                    "offers": [
                        {
-                           "is_free": true,
-                           "description": null,
-                           "info_url": {
+                           "is_free": false,
+                           "description": {
                                "fi": "",
                                "sv": "",
                                "en": ""
                            },
-                           "price": null
+                           "price": {
+                               "fi": "20/47€",
+                               "sv": "20/47€",
+                               "en": "20/47€"
+                           },
+                           "info_url": {
+                               "fi": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/",
+                               "sv": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/",
+                               "en": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/"
+                           }
                        }
                    ],
                    "data_source": "helsinki",
-                   "publisher": "ytj:0224232-9",
+                   "publisher": "ytj:0586977-6",
                    "sub_events": [],
                    "images": [
                        {
-                           "id": 83542,
-                           "license": "cc_by",
-                           "created_time": "2022-09-06T10:09:26.840033Z",
-                           "last_modified_time": "2022-09-06T10:10:32.711637Z",
-                           "name": "Stadin Silakkamarkkinat",
-                           "url": "https://api.hel.fi/linkedevents/media/images/L1020985-scaled-aspect-ratio-1-1.jpeg",
-                           "cropping": "0,0,1200,1200",
-                           "photographer_name": "Kim Öhman",
-                           "alt_text": "Stadin Silakkamarkkinat",
+                           "id": 39333,
+                           "license": "event_only",
+                           "created_time": "2017-09-29T10:32:58.502233Z",
+                           "last_modified_time": "2021-06-28T11:44:01.361683Z",
+                           "name": "Valokarnevaali",
+                           "url": "https://api.hel.fi/linkedevents/media/images/20141011_2000_L1020849_4378.jpg",
+                           "cropping": "324,0,1596,1272",
+                           "photographer_name": "Helsinki Marketing (c) Jussi Hellsten",
+                           "alt_text": "Linnanmäen maailmanpyörä Rinkeli",
                            "data_source": "helsinki",
-                           "publisher": "ytj:0224232-9",
-                           "@id": "https://api.hel.fi/linkedevents/v1/image/83542/",
+                           "publisher": "ytj:0586977-6",
+                           "@id": "https://api.hel.fi/linkedevents/v1/image/39333/",
                            "@context": "http://schema.org",
                            "@type": "ImageObject"
                        }
                    ],
                    "videos": [],
-                   "in_language": [
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/language/en/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/language/fi/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
-                       }
-                   ],
+                   "in_language": [],
                    "audience": [],
-                   "created_time": "2023-04-25T08:43:03.822630Z",
-                   "last_modified_time": "2023-04-25T08:43:03.822670Z",
+                   "created_time": "2023-03-08T12:29:33.840528Z",
+                   "last_modified_time": "2023-10-02T10:32:04.402322Z",
                    "date_published": null,
-                   "start_time": "2023-10-01T06:00:00Z",
-                   "end_time": "2023-10-07T14:00:00Z",
+                   "start_time": "2023-10-11T21:01:00Z",
+                   "end_time": "2023-10-22T20:59:00Z",
                    "custom_data": null,
                    "environmental_certificate": null,
                    "environment": null,
@@ -100,33 +96,33 @@
                        "sv": "",
                        "en": ""
                    },
-                   "info_url": {
-                       "fi": "https://silakkamarkkinat.fi/",
-                       "sv": "https://silakkamarkkinat.fi/sv/",
-                       "en": "https://silakkamarkkinat.fi/en/"
-                   },
-                   "name": {
-                       "fi": "Stadin Silakkamarkkinat 2023",
-                       "sv": "Helsingfors Strömmingsmarknad 2023",
-                       "en": "The Helsinki Baltic Herring Market 2023"
-                   },
-                   "short_description": {
-                       "fi": "Stadin Silakkamarkkinat on yksi Suomen vanhimmista yleisötapahtumista, jota on juhlittu Helsingissä jo vuodesta 1743.",
-                       "sv": "Helsingfors Strömmingsmarknad är ett av Finlands äldsta traditionella evenemang sedan år 1743.",
-                       "en": "The Helsinki Baltic Herring Market is one of the oldest ongoing event traditions in Finland. It has been held since 1743."
-                   },
                    "description": {
-                       "fi": "<p></p><p>Stadin Silakkamarkkinat on yksi Suomen vanhimmista yleisötapahtumista, jota on juhlittu Helsingissä jo vuodesta 1743. Silakkamarkkinat on vuosien mittaan muuttunut kaupunkilaisten ruoanhakumatkasta syyskauden tunnelmalliseksi virstanpylvääksi, jossa yhdistyvät Helsingin merellinen saaristolaisperinne ja moderni ruokakulttuuri. Silakkamarkkinoiden tavoitteena on tukea kalastajien elinkeinoa ja nostaa esiin silakkaa ja särkikalaa vastuullisena, terveellisenä ja herkullisena ruokavalintana.</p><p></p>",
-                       "sv": "<p>Helsingfors Strömmingsmarknad är ett av Finlands äldsta traditionella evenemang sedan år 1743. Strömmingsmarknaden har under årens lopp förvandlats från en matmarknad till ett evenemang för allmänheten där skärgårdstraditioner och modern matkultur möter varandra.</p>\n<p>Helsingfors stad har som mål att även i framtiden bibehålla strömmingsmarknadens traditionella stämning och att stöda strömmingsfiskarnas levebröd. Strömmingsfiske bidrar till att minska övergödningen i Östersjön och därför är det också en ekologisk gärning att äta strömming.</p>",
-                       "en": "<p>The Helsinki Baltic Herring Market is one of the oldest ongoing event traditions in Finland. It has been held since 1743. Throughout the years, the Market has evolved to a beloved public event bringing together old archipelago traditions and modern food culture.</p>\n<p>The aim of the event is to hold on to the tradition, and to support the livelihood of fishers. The Baltic Herring Market celebrates herring as a sustainable and tasty food choice. Fishing and eating herring also helps maintain a healthier Baltic Sea.</p>"
+                       "fi": "<p>Linnanmäen kauden päätösviikko sytyttää huvipuiston kirkkaaseen loimuun, kun lokakuun Valokarnevaali kylvettää kävijöitä puiston tuhansien lamppujen loisteessa.&nbsp;</p><p>Jokaisena tapahtumapäivänä on luvassa laadukasta viihdettä sekä isolle että pienemmälle karnevaalikansalle, kun Lintsin lavoille nousee toinen toistaan valovoimaisempia esiintyjiä.&nbsp;</p><p>Kaikki huvipuiston palvelut panevat parastaan tarjoten iloisen elämyksen hämärtyvään syksyyn.</p><p>&nbsp;</p><p>Linnanmäen huvipuisto</p><p>12.-22.10.2023</p><p>Sisäänpääsy 20€, ranneke 47€&nbsp;</p><p>HUOM! Jokaisella huvipuistovieraalla tulee olla paikkavarauslippu ja ranneke TAI sisäänpääsylippu 20 € (sis. paikkavarauksen) erikseen ostettuina Linnanmäen verkkokaupasta</p>",
+                       "sv": "<p>Under säsongens avslutningsvecka lyser nöjesparken upp i ett klart sken.&nbsp;</p><p>Under ljuskarnevalen i oktober badar nöjesparksbesökarna i ett ljus från tusentals lampor. Varje dag under evenemanget bjuds det på underhållning av hög kvalitet för yngre och äldre, då populära artister uppträder på Borgbackens estrader.&nbsp;</p><p>Samtliga attraktioner i nöjesparken ger sitt bästa och bjuder på skojiga upplevelser i höstmörkret.&nbsp;</p><p>&nbsp;</p><p>Borgbackens nöjespark</p><p>12.-22.10.2023, öppningstiderna informeras senare</p><p>Inträde 20€ / 47€ armband</p><p>OBS! Varje besökare måste ha platsbokningsbiljett och armband ELLER inträdesbiljett 20€ (inkl. platsbokningen) köpt separat från Borgbackens webbsidor</p>",
+                       "en": "<p>The Carnival of Lights at Linnanmäki illuminates Helsinki's legendary amusement park on the closing week of the summer-long season.&nbsp;</p><p>Visitors are entertained throughout the carnival by quality entertainment for older and younger audiences alike, as brilliant performers take to the stage. All of the services at the amusement park show their best to provide a fun experience as the winter approaches.&nbsp;</p><p>&nbsp;</p><p>Linnanmäki Amusement Park</p><p>12.-22.10.2023</p><p>Admission fee 20€ / wristband 47€&nbsp;</p><p>ATT! Every visitor should have a seat reservation and a wristband OR admission ticket 20€ (incl. seat reservation) bought separately from Linnanmäki online shop</p>"
                    },
-                   "provider": {
-                       "fi": "Helsingin tapahtumasäätiö",
-                       "sv": "Helsingfors evenemangsstiftelse",
-                       "en": "Helsinki Events Foundation"
+                   "info_url": {
+                       "fi": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/",
+                       "sv": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/",
+                       "en": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/"
                    },
                    "provider_contact_info": null,
-                   "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd3pffa6e/",
+                   "short_description": {
+                       "fi": "Linnanmäen kauden päätösviikko sytyttää huvipuiston kirkkaaseen loimuun, kun lokakuun Valokarnevaali kylvettää kävijöitä puiston tuhansien lamppujen loisteessa",
+                       "sv": "Under säsongens avslutningsvecka lyser nöjesparken upp i ett klart sken. Under ljuskarnevalen i oktober badar nöjesparksbesökarna i ett ljus",
+                       "en": "The Carnival of Lights at Linnanmäki illuminates Helsinki's legendary amusement park on the closing week of the summer-long season. "
+                   },
+                   "name": {
+                       "fi": "Valokarnevaali 2023",
+                       "sv": "Ljuskarneval 2023",
+                       "en": "Carnival of Lights 2023"
+                   },
+                   "provider": {
+                       "fi": "Linnanmäki",
+                       "sv": "Linnanmäki",
+                       "en": "Linnanmäki"
+                   },
+                   "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agdmcmv67e/",
                    "@context": "http://schema.org",
                    "@type": "Event/LinkedEvent"
                },
