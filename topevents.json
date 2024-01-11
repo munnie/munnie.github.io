@@ -6,22 +6,22 @@
     },
     "data": [
         {
-                   "id": "helsinki:agdmcmv67e",
+                   "id": "helsinki:agf5pkoobm",
                    "location": {
-                       "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20895/"
+                       "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:8675/"
                    },
                    "keywords": [
                        {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1304/"
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p14722/"
                        },
                        {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2771/"
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2851/"
                        },
                        {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p316/"
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
                        },
                        {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p9593/"
                        }
                    ],
                    "registration": null,
@@ -38,49 +38,81 @@
                                "en": ""
                            },
                            "price": {
-                               "fi": "20/47€",
-                               "sv": "20/47€",
-                               "en": "20/47€"
+                               "fi": "0-20€",
+                               "sv": "0-20€",
+                               "en": "0-20€"
                            },
                            "info_url": {
-                               "fi": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/",
-                               "sv": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/",
-                               "en": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/"
+                               "fi": "",
+                               "sv": "",
+                               "en": ""
                            }
                        }
                    ],
                    "data_source": "helsinki",
-                   "publisher": "ytj:0586977-6",
+                   "publisher": "ytj:3272340-6",
                    "sub_events": [],
                    "images": [
                        {
-                           "id": 39333,
+                           "id": 99393,
                            "license": "event_only",
-                           "created_time": "2017-09-29T10:32:58.502233Z",
-                           "last_modified_time": "2021-06-28T11:44:01.361683Z",
-                           "name": "Valokarnevaali",
-                           "url": "https://api.hel.fi/linkedevents/media/images/20141011_2000_L1020849_4378.jpg",
-                           "cropping": "324,0,1596,1272",
-                           "photographer_name": "Helsinki Marketing (c) Jussi Hellsten",
-                           "alt_text": "Linnanmäen maailmanpyörä Rinkeli",
+                           "created_time": "2023-11-16T10:17:08.114652Z",
+                           "last_modified_time": "2023-11-16T10:55:30.113715Z",
+                           "name": "Haegue Yang: Sonic Medicine Man – Hairy Mad Joint, 2023. Courtesy of the artist. Photo: Studio Haegue Yang",
+                           "url": "https://api.hel.fi/linkedevents/media/images/Haegue0-8M.jpg",
+                           "cropping": "313,0,1560,1247",
+                           "photographer_name": "Haegue Yang: Sonic Medicine Man – Hairy Mad Joint, 2023. Courtesy of the artist. Photo: Studio Haegue Yang",
+                           "alt_text": "Kulho, jossa erivärisiä tupsuja",
                            "data_source": "helsinki",
-                           "publisher": "ytj:0586977-6",
-                           "@id": "https://api.hel.fi/linkedevents/v1/image/39333/",
+                           "publisher": "ytj:3272340-6",
+                           "@id": "https://api.hel.fi/linkedevents/v1/image/99393/",
                            "@context": "http://schema.org",
                            "@type": "ImageObject"
                        }
                    ],
                    "videos": [],
-                   "in_language": [],
-                   "audience": [],
-                   "created_time": "2023-03-08T12:29:33.840528Z",
-                   "last_modified_time": "2023-10-02T10:32:04.402322Z",
+                   "in_language": [
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/language/en/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/language/fi/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                       }
+                   ],
+                   "audience": [
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/helsinki:aflfbatkwe/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p16486/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p23886/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3128/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p7179/"
+                       },
+                       {
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p7708/"
+                       }
+                   ],
+                   "created_time": "2023-11-16T10:25:11.707437Z",
+                   "last_modified_time": "2023-11-22T08:02:56.878338Z",
                    "date_published": null,
-                   "start_time": "2023-10-11T21:01:00Z",
-                   "end_time": "2023-10-22T20:59:00Z",
+                   "start_time": "2023-11-24T09:30:00Z",
+                   "end_time": "2024-04-07T16:00:00Z",
                    "custom_data": null,
-                   "environmental_certificate": null,
-                   "environment": null,
+                   "environmental_certificate": "",
+                   "environment": "in",
                    "audience_min_age": null,
                    "audience_max_age": null,
                    "super_event_type": null,
@@ -96,701 +128,469 @@
                        "sv": "",
                        "en": ""
                    },
-                   "description": {
-                       "fi": "<p>Linnanmäen kauden päätösviikko sytyttää huvipuiston kirkkaaseen loimuun, kun lokakuun Valokarnevaali kylvettää kävijöitä puiston tuhansien lamppujen loisteessa.&nbsp;</p><p>Jokaisena tapahtumapäivänä on luvassa laadukasta viihdettä sekä isolle että pienemmälle karnevaalikansalle, kun Lintsin lavoille nousee toinen toistaan valovoimaisempia esiintyjiä.&nbsp;</p><p>Kaikki huvipuiston palvelut panevat parastaan tarjoten iloisen elämyksen hämärtyvään syksyyn.</p><p>&nbsp;</p><p>Linnanmäen huvipuisto</p><p>12.-22.10.2023</p><p>Sisäänpääsy 20€, ranneke 47€&nbsp;</p><p>HUOM! Jokaisella huvipuistovieraalla tulee olla paikkavarauslippu ja ranneke TAI sisäänpääsylippu 20 € (sis. paikkavarauksen) erikseen ostettuina Linnanmäen verkkokaupasta</p>",
-                       "sv": "<p>Under säsongens avslutningsvecka lyser nöjesparken upp i ett klart sken.&nbsp;</p><p>Under ljuskarnevalen i oktober badar nöjesparksbesökarna i ett ljus från tusentals lampor. Varje dag under evenemanget bjuds det på underhållning av hög kvalitet för yngre och äldre, då populära artister uppträder på Borgbackens estrader.&nbsp;</p><p>Samtliga attraktioner i nöjesparken ger sitt bästa och bjuder på skojiga upplevelser i höstmörkret.&nbsp;</p><p>&nbsp;</p><p>Borgbackens nöjespark</p><p>12.-22.10.2023, öppningstiderna informeras senare</p><p>Inträde 20€ / 47€ armband</p><p>OBS! Varje besökare måste ha platsbokningsbiljett och armband ELLER inträdesbiljett 20€ (inkl. platsbokningen) köpt separat från Borgbackens webbsidor</p>",
-                       "en": "<p>The Carnival of Lights at Linnanmäki illuminates Helsinki's legendary amusement park on the closing week of the summer-long season.&nbsp;</p><p>Visitors are entertained throughout the carnival by quality entertainment for older and younger audiences alike, as brilliant performers take to the stage. All of the services at the amusement park show their best to provide a fun experience as the winter approaches.&nbsp;</p><p>&nbsp;</p><p>Linnanmäki Amusement Park</p><p>12.-22.10.2023</p><p>Admission fee 20€ / wristband 47€&nbsp;</p><p>ATT! Every visitor should have a seat reservation and a wristband OR admission ticket 20€ (incl. seat reservation) bought separately from Linnanmäki online shop</p>"
-                   },
-                   "info_url": {
-                       "fi": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/",
-                       "sv": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/",
-                       "en": "https://www.linnanmaki.fi/fi/hupitekemista/tapahtumat/valokarnevaali-2023/"
+                   "provider": {
+                       "fi": "",
+                       "sv": "HAM Helsingfors konstmuseum",
+                       "en": "HAM Helsinki Art Museum"
                    },
                    "provider_contact_info": null,
+                   "description": {
+                       "fi": "<p>Kansainvälisesti tunnetun nykytaiteilija Haegue Yangin ensimmäinen soolonäyttely Suomessa.</p><p>Loputon uteliaisuus on johdattanut Haegue Yangin (Soul, 1971) yhteiskunnan, tieteen ja ihmisyyden tutkimiseen – ja asemoinut hänet nykytaiteen tunnetuimpien nimien joukkoon. Saksassa ja Etelä-Koreassa 1990-luvun puolivälistä toiminut Yang on jatkuvassa liikkeessä ja kerää inspiraatiota erilaisista ympäristöistä. HAMiin hän tuo useita aisteja ruokkivan elämyksen.</p><p>Haegue Yang rakentaa Tennispalatsin suuriin kaarihalleihin kiehtovan veistoksellisen näyttämön, joka käsittelee toistamisen ja uudelleen esittämisen teemoja. Mukana on myös mukana ääntä ja teosten liikutteluun perustuvaa aktivointia, jota voi liittyä seuraamaan kahdesti kuukaudessa.</p><p>Näyttelyn ytimen muodostaa kaksi monumentaalista veistosryhmää: Handles (Kahvat) (2019) ja Warrior Believer Lover – Version Sonic (Soturi Uskova Rakastaja – Soiva versio) (2023).&nbsp;</p><p>Handles on kuudesta veistoksesta, seinille ripustetuista elementeistä, ja äänimaisemasta koostuva moniaistillinen kokemus. Kokonaisuus muuttaa arkiset esineet visuaalisesti vaikuttaviksi liikuteltaviksi teoksiksi, joita voidaan pitää inhimillisten ja mekaanisten olentojen hybrideinä<i>.&nbsp;</i></p><p>Warrior Believer Lover – Version Sonic<i>&nbsp;</i>on uudelleentulkinta vuonna 2011 nähdystä kunnianhimoisesta veistoskokonaisuudesta, joka koostui 33 valoveistoksesta. Nyt nähtävä soiva versio esittelee 21 kulkusilla päällystettyä ja peruukeilla, muovikasveilla, aurinkopaneeleilla, LED-valoilla ja erilaisilla luonnonmateriaaleilla kuten kävyillä koristeltua teosta.&nbsp;&nbsp;</p><p>Teoksia Handles ja Warrior Believer Lover – Version Sonic säestää ajoittain Isang Yunin<strong>&nbsp;</strong>(1917–1995) ja Igor Stravinskyn (1882–1971) musiikki, luoden immersiivisiä veistoksellisia sinfonioita.</p><p>&nbsp;</p><p>Helsingin taidemuseo HAM</p><p>24.11.2023-7.4.2024</p><p>Siasäänpääsy 0-20€</p>",
+                       "sv": "<p>På HAM visas den internationellt kända nutidskonstnären Haegue Yangs första separatutställning i Finland.&nbsp;</p><p>Haegue Yangs (Seoul, 1971) ändlösa nyfikenhet har lett henne till ett utforskande av samhället, vetenskapen och människans varande – och placerat henne bland de mest kända namnen inom nutidskonsten. Yang som har verkat i Tyskland och Sydkorea sedan mitten av 1990-talet, befinner sig i ständig rörelse och samlar inspiration ur olika miljöer.</p><p>Haegue Yang är känd för sin arbetsamma och på samma gång fria teknik som öser ur olika kulturers hantverkstraditioner, och i vilken industriellt framställda och naturliga material förenas. Hennes uttryckssätt överskrider gränser, föder immersiva och sinnliga upplevelser samt inspirerar till att se nya synvinklar.</p><p>Utställningens kärna utgörs av två monumentala skulpturgrupper: Handles (Handtag) (2019) och Warrior Believer Lover – Version Sonic (Krigare Troende Älskande – Sonisk version) (2023).&nbsp;</p><p>Handtag som visades första gången på MoMa i New York år 2019 är en multisensorisk upplevelse som består av sex skulpturer, element som är upphängda på väggarna samt ett ljudlandskap. Helheten förvandlar vardagliga föremål till visuellt imponerande rörliga verk som kan ses som hybrider mellan mänskliga och mekaniska varelser.&nbsp;</p><p>Warrior Believer Lover – Version Sonic är en nytolkning av en ambitiös skulpturhelhet som visades år 2011, och som består av 33 ljusskulpturer. Sonisk version som vi nu ser visar 21 verk täckta med bjällror och dekorerade med peruker, plastväxter, solpaneler, LED-ljus och olika slags naturmaterial som tex kottar. Verken Handles och Warrior Believer Lover – Version Sonic ackompanjeras emellanåt av Isang Yuns (1917–1995) och Igor Stravinskijs (1882–1971) musik, och skapar därigenom immersiva skulpturala symfonier.</p><p>&nbsp;</p><p>Helsingfors konstmuseum HAM</p><p>27.11.2023-7.4.2024</p><p>Inträde 0-20€</p>",
+                       "en": "<p>HAM is delighted to present Haegue Yang’s first solo exhibition in Finland. Taking over HAM’s two main exhibition halls.</p><p>Dividing her time between Germany and Korea since the mid-1990s, Haegue Yang (Seoul, 1971) has been gathering inspiration from a wide range of social, historical, and cultural environments.  Her relentless curiosity has led to philosophical inquiries into diverse fields, including socio-political narratives, scientific phenomena, and anthropological perspectives, positioning her at the forefront of the contemporary art world today. &nbsp;</p><p>For HAM’s main exhibition halls, Yang builds an enthralling arena with sonic and performative elements to examine the concepts of recurrence and reenactment.&nbsp;</p><p>At the heart of the exhibition, visitors will encounter two monumental sculptural ensembles: Handles (2019) and Warrior Believer Lover – Version Sonic (2023).&nbsp;</p><p> Handles is a multisensory installation comprising six sculptures with elements of wall objects and floor graphic adhesives, and an intricate soundscape. These sculptures are transformative, turning mundane objects into visually striking, movable artworks, and can be seen as hybrids, blurring the distinctions between human and technological beings.&nbsp;</p><p>Warrior Believer Lover – Version Sonic is a reenactment of Warrior Believer Lover, Yang’s ambitious sculptural ensemble from 2011. While the predecessor consists of 33 anthropomorphic light sculptures, the new <i>Version Sonic</i> has so far evolved into a group of 21 sculptures, still in process of its completion. Their skin is covered with bells and festooned with wigs, artificial plants, solar panels, and LED lights alongside authentic organic materials such as dried pinecones.&nbsp;</p><p>Periodically, music by Isang Yun (1917–1995) and Igor Stravinsky (1882–1971) will accompany Handles and Warrior Believer Lover – Version Sonic respectively, creating immersive sculptural symphonies.&nbsp;&nbsp;</p><p>&nbsp;</p><p>Helsinki Art Museum HAM</p><p>27.11.2023-7.4.2024</p><p>Admission fee 0-20€</p>"
+                   },
                    "short_description": {
-                       "fi": "Linnanmäen kauden päätösviikko sytyttää huvipuiston kirkkaaseen loimuun, kun lokakuun Valokarnevaali kylvettää kävijöitä puiston tuhansien lamppujen loisteessa",
-                       "sv": "Under säsongens avslutningsvecka lyser nöjesparken upp i ett klart sken. Under ljuskarnevalen i oktober badar nöjesparksbesökarna i ett ljus",
-                       "en": "The Carnival of Lights at Linnanmäki illuminates Helsinki's legendary amusement park on the closing week of the summer-long season. "
+                       "fi": "Kansainvälisesti tunnetun nykytaiteilija Haegue Yangin ensimmäinen soolonäyttely Suomessa.",
+                       "sv": "På HAM visas den internationellt kända nutidskonstnären Haegue Yangs första separatutställning i Finland. ",
+                       "en": "HAM is delighted to present Haegue Yang’s first solo exhibition in Finland. Taking over HAM’s two main exhibition halls."
                    },
                    "name": {
-                       "fi": "Valokarnevaali 2023",
-                       "sv": "Ljuskarneval 2023",
-                       "en": "Carnival of Lights 2023"
+                       "fi": "Haegue Yang: Kerroksellisia uudelleentulkintoja",
+                       "sv": "Haegue Yang: Kontinuerliga återskapanden",
+                       "en": "Haegue Yang: Continuous Reenactments"
                    },
-                   "provider": {
-                       "fi": "Linnanmäki",
-                       "sv": "Linnanmäki",
-                       "en": "Linnanmäki"
+                   "info_url": {
+                       "fi": "https://www.hamhelsinki.fi/exhibitions/haegue-yang/",
+                       "sv": "https://www.hamhelsinki.fi/sv/exhibitions/haegue-yang/",
+                       "en": "https://www.hamhelsinki.fi/en/exhibitions/haegue-yang/"
                    },
-                   "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agdmcmv67e/",
+                   "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf5pkoobm/",
                    "@context": "http://schema.org",
                    "@type": "Event/LinkedEvent"
                },
-          {
-            "id": "helsinki:agdkopipzy",
-            "location": {
-                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20861/"
-            },
-            "keywords": [
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1828/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2851/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p6889/"
-                }
-            ],
-            "super_event": null,
-            "event_status": "EventScheduled",
-            "type_id": "General",
-            "external_links": [
-                {
-                    "name": "extlink_twitter",
-                    "link": "https://twitter.com/KiasmaMuseum",
-                    "language": "fi"
-                },
-                {
-                    "name": "extlink_instagram",
-                    "link": "https://www.instagram.com/kiasmamuseum/",
-                    "language": "fi"
-                },
-                {
-                    "name": "extlink_facebook",
-                    "link": "https://www.facebook.com/KiasmaMuseum/",
-                    "language": "fi"
-                }
-            ],
-            "offers": [
-                {
-                    "is_free": false,
-                    "info_url": {
-                        "fi": "https://kiasma.fi/liput-aukiolo-ja-saapuminen/",
-                        "sv": "https://kiasma.fi/liput-aukiolo-ja-saapuminen/",
-                        "en": "https://kiasma.fi/liput-aukiolo-ja-saapuminen/"
-                    },
-                    "price": {
-                        "fi": "12/20€",
-                        "sv": "12/20€",
-                        "en": "12/20€"
-                    },
-                    "description": {
-                        "fi": "",
-                        "sv": "",
-                        "en": ""
-                    }
-                }
-            ],
-            "data_source": "helsinki",
-            "publisher": "ytj:0586977-6",
-            "sub_events": [
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd3dtrwv4/"
-                }
-            ],
-            "images": [
-                {
-                    "id": 90378,
-                    "license": "event_only",
-                    "created_time": "2023-03-03T11:30:04.568599Z",
-                    "last_modified_time": "2023-03-03T11:30:41.898076Z",
-                    "name": "Tom of Finland",
-                    "url": "https://api.hel.fi/linkedevents/media/images/TOM-OF-FINLAND-Untitled-197.jpg",
-                    "cropping": "164,0,819,656",
-                    "photographer_name": "Kiasma (c) Jenni Nurminen",
-                    "alt_text": "Piirros kolmesta miehestä",
-                    "data_source": "helsinki",
-                    "publisher": "ytj:0586977-6",
-                    "@id": "https://api.hel.fi/linkedevents/v1/image/90378/",
-                    "@context": "http://schema.org",
-                    "@type": "ImageObject"
-                }
-            ],
-            "videos": [],
-            "in_language": [],
-            "audience": [],
-            "created_time": "2023-03-03T11:30:42.274552Z",
-            "last_modified_time": "2023-04-24T05:30:15.592997Z",
-            "date_published": null,
-            "start_time": "2023-04-28T07:00:00Z",
-            "end_time": "2023-10-29T15:00:00Z",
-            "custom_data": null,
-            "audience_min_age": 15,
-            "audience_max_age": null,
-            "super_event_type": "umbrella",
-            "deleted": false,
-            "maximum_attendee_capacity": null,
-            "remaining_attendee_capacity": null,
-            "minimum_attendee_capacity": null,
-            "enrolment_start_time": null,
-            "enrolment_end_time": null,
-            "local": false,
-            "search_vector_fi": "'10':143C,147C,151C '12/20':154C '1421':119C '17':152C '18':148C,156C '1900':48C '20.30':144C '28.4':138C '29.10.2023':139C 'al':155C 'angeles':61C,117C 'arkistomateriaal':89C 'asem':46C 'asu':91C 'asui':129C 'donkey':103C 'elokuv':98C 'eläm':132C 'entis':114C 'es':37C,58C,88C 'finland':3A,12B,26C,40C,65C,113C 'hotel':104C 'house':125C 'huoltaj':178C 'ikonis':18B,32C 'ikäraj':163C 'julkaisu':95C 'julkis':77C 'kansallisgalleria':70C 'katso':108C 'keskeis':54C 'kiasm':34C,137C 'kirj':94C 'klo':142C,146C,150C 'kokoelm':67C,71C,80C 'kulttuur':53C 'kuuluis':14B,28C 'kuuluv':9B,23C 'kuv':19B,33C 'kuvantekij':42C 'kuvasto':171C 'la':145C 'laps':174C 'lave':120C 'leht':96C 'lisä':73C 'los':60C,116C 'luvu':49C 'maailm':6B,20C 'matk':5A 'muistoesin':93C 'museo':136C 'myös':75C,101C 'nost':36C 'nykyis':122C 'nykytait':135C 'nähd':74C 'näyttely':35C,56C,165C,175C 'näyttelyy':99C,160C 'of':2A,11B,25C,39C,64C,112C 'ohe':86C 'omaleimais':15B,29C 'osoit':44C,118C 'pe':141C 'piirustust':85C 'pääse':109C 'pääsy':159C 'rohk':4A 'seksuaalis':170C 'sijaitsev':62C 'sisältyy':100C 'sisältäm':168C 'sisäänpääsy':153C 'su':149C 'suomalaistaiteilij':8B,22C 'suome':69C,82C 'suorasukais':169C 'suosit':173C 'säätiö':66C 'taite':50C 'taiteilij':90C,128C 'taituruud':41C 'talo':127C 'tekijö':55C 'teoks':59C,76C 'terrac':121C 'ti':140C 'tom':1A,10B,24C,38C,63C,111C,124C 'tunnetu':7B,21C,126C 'tuotantoyhtiö':102C 'tuottam':105C 'tutustum':110C 'tyyl':16B,30C 'työhuon':115C 'työskentel':131C 'ulkom':84C 'v':157C 'vapa':158C 'vastu':179C 'vierailu':176C 'viimeis':133C 'virtuaaliympäristö':106C 'visuaalis':52C 'vuoks':172C 'vuosikymmen':134C 'yht':47C 'yksityis':79C 'yleis':123C",
-            "search_vector_en": "'-20.30':193C '10.00':192C,195C,198C '12/20':202C '1421':154C '17.00':199C '18':204C '18.00':196C '20th':75C '28.4':187C '29.10.2023':188C 'admiss':200C 'advis':234C 'age':211C 'alongsid':119C 'also':106C 'angel':93C,171C 'archiv':124C 'art':57C,78C 'artist':16B,38C,66C 'artwork':176C 'better':157C 'bold':4A 'centuri':76C 'children':220C 'cloth':129C 'collect':99C,115C 'contain':228C 'contemporari':56C,77C 'cultur':81C 'decad':182C 'discret':232C 'donkey':143C 'draw':120C 'due':221C 'entri':207C 'establish':68C 'exhibit':51C,83C,118C,122C,215C 'experi':140C,146C 'explicit':224C 'featur':123C 'fee':201C 'figur':73C 'film':135C 'finland':3A,8B,30C,64C,89C,168C 'finnish':15B,37C,101C,109C 'former':163C 'foundat':90C 'free':206C 'fri':191C 'galleri':103C 'guardian':231C 'helsinki':60C 'highlight':61C 'hotel':144C 'hous':161C 'icon':26B,48C 'imag':27B,49C 'imageri':226C 'immers':147C 'intern':111C 'journey':5A 'kiasma':58C,186C 'known':158C 'last':181C 'laveta':155C 'letter':132C 'life':185C 'limit':212C 'live':178C 'los':92C,170C 'magazin':134C 'major':72C 'master':174C 'masteri':67C 'materi':125C 'memorabilia':131C 'museum':54C 'nation':102C 'new':138C 'one':10B,32C 'parent':229C 'person':128C 'present':84C 'privat':114C 'produc':141C 'public':112C,133C 'recogn':14B,36C 'recommend':218C 'renown':20B,42C 'resid':164C 'room':152C 'sat':194C 'sexual':225C 'signatur':23B,45C 'style':24B,46C 'sun':197C 'terrac':156C 'togeth':94C 'tom':1A,6B,28C,62C,87C,126C,160C,166C 'tue':190C 'tue-fri':189C 'viewer':149C 'visual':80C 'vr':139C 'work':85C,96C,107C 'world':19B,41C 'yrs':205C",
-            "search_vector_sv": "'10':173C,177C,181C '12/20':184C '1421':141C '17':182C '18':178C,186C '1900':61C '20.30':174C '28.4':168C '29.10.2023':169C 'adress':140C 'aktör':59C 'allmänt':162C 'andr':92C 'angel':75C,146C 'ansvar':208C 'arbet':156C 'arbetsrum':138C 'arkivmaterial':106C 'barn':205C 'barnet':206C 'bekantskap':132C 'berömd':9B,27C 'besöket':210C 'bild':40C,199C 'bildskap':49C 'bodd':154C 'brev':111C 'central':58C 'demonstrer':51C 'donkey':126C 'därför':202C 'explicit':197C 'film':115C 'finland':3A,14B,22C,46C,80C,85C,98C,136C 'finland-stift':79C 'finn':118C 'finsk':10B,28C 'fram':43C 'fre':171C 'fritt':188C 'får':130C 'hotel':127C 'hous':166C 'huset':159C 'hämt':5B 'ikonisk':39C 'innehåll':196C 'inträd':183C,189C 'karakteristisk':35C 'kiasm':19B,167C 'kl':172C,176C,180C 'kläd':108C 'konst':63C 'konstnär':11B,29C,107C,157C 'kultur':66C 'känd':32C 'känt':163C 'lavet':142C 'levnadshistori':17B 'liv':153C 'los':74C,145C 'lyft':42C 'lö':175C 'miljö':122C 'minnesföremål':110C 'museibesök':129C 'nationalgalleris':86C 'också':89C,119C 'of':2A,13B,21C,45C,78C,135C 'offent':95C 'oh':114C 'privat':93C 'producer':123C 'produktionsbolaget':125C 'publikation':112C 'rekommender':201C 'samling':82C,87C,96C 'sexuell':198C 'sidan':102C 'sist':149C 'sitt':152C 'stift':81C,131C 'stil':36C 'ställning':53C 'sö':179C 'talet':62C 'teckning':104C 'terrac':143C 'ti':170C 'tid':137C 'tidskrift':113C 'tom':1A,12B,20C,44C,77C,134C,165C 'ur':71C,84C,91C 'utomland':100C 'utställning':4B,41C,68C,117C,190C,212C 'verk':15B,70C,90C 'verksamm':76C 'virtuell':121C 'virtuositet':47C 'vis':69C,105C 'visuell':65C 'värld':8B,31C 'vårdnadshav':207C 'åldersgrän':193C 'år':187C 'årtiondet':150C",
-            "replaced_by": null,
-            "provider_contact_info": null,
-            "description": {
-                "fi": "<p>Maailman tunnetuimpiin suomalaistaiteilijoihin kuuluva Tom of Finland on kuuluisa omaleimaisesta tyylistään ja ikonisista kuvistaan. Kiasman näyttely nostaa esiin Tom of Finlandin taituruuden kuvantekijänä ja osoittaa hänen asemansa yhtenä 1900-luvun taiteen ja visuaalisen kulttuurin keskeisistä tekijöistä.&nbsp;</p><p>Näyttelyssä on esillä teoksia Los Angelesissa sijaitsevan Tom of Finland -säätiön kokoelmista sekä Suomen Kansallisgallerian kokoelmista, minkä lisäksi nähdään myös teoksia julkisista ja yksityisistä kokoelmista niin Suomesta kuin ulkomailta. Piirustusten ohessa on esillä arkistomateriaalia, taiteilijan asuja ja muistoesineitä, kirjeitä, julkaisuja, lehtiä ja elokuva.&nbsp;</p><p>Näyttelyyn sisältyy myös tuotantoyhtiö Donkey Hotelin tuottama virtuaaliympäristö, jossa katsoja pääsee tutustumaan Tom of Finlandin entiseen työhuoneeseen Los Angelesissa osoitteessa 1421 Laveta Terrace. Nykyisin yleisesti TOM Housena tunnetussa talossa taiteilija asui ja työskenteli elämänsä viimeisen vuosikymmenen.&nbsp;</p><p>&nbsp;</p><p>Nykytaiteen museo Kiasma</p><p>28.4.–29.10.2023<br>ti–pe klo 10–20.30, la klo 10–18, su klo 10–17</p><p>Sisäänpääsy 12/20 €, alle 18-v. vapaa pääsy&nbsp;</p><p>Näyttelyyn ei ole ikärajaa, mutta näyttelyä ei sen sisältämän suorasukaisen seksuaalisen kuvaston vuoksi suositella lapsille. Näyttelyssä vierailu on huoltajan vastuulla.&nbsp;</p>",
-                "sv": "<p>Tom of Finland är en av de berömdaste finska konstnärerna i världen, känd för sin karakteristiska stil och sina ikoniska bilder. Utställningen lyfter fram Tom of Finlands virtuositet som bildskapare och demonstrerar hans ställning som en av de centrala aktörerna inom 1900-talets konst och visuella kultur.<br>På utställningen visas verk ur den i Los Angeles verksamma Tom of Finland-stiftelsens samlingar och ur Finlands Nationalgalleris samlingar, men också verk ur andra privata och offentliga samlingar i Finland och utomlands. Vid sidan av teckningarna visas arkivmaterial, konstnärens kläder och minnesföremål, brev, publikationer, tidskrifter oh filmer.<br>På utställningen finns också en virtuell miljö producerad av produktionsbolaget Donkey Hotel där museibesökarna får stifta bekantskap med Tom of Finlands tidigare arbetsrum på adressen 1421 Laveta Terrace i Los Angeles. Under det sista årtiondet av sitt liv bodde och arbetade konstnären i huset som är allmänt känt som TOM House.</p><p>&nbsp;</p><p>&nbsp;Kiasma</p><p>28.4.-29.10.2023</p><p>Ti–fre kl 10–20.30, lö kl 10–18, sö kl 10–17</p><p>Inträde 12/20€, under 18 år fritt inträde</p><p>Utställningen har ingen åldersgräns, med den innehåller explicit sexuella bilder och rekommenderas därför inte för barn. Barnets vårdnadshavare ansvarar för besöket på utställningen.&nbsp;</p>",
-                "en": "<p>Tom of Finland is one of the most recognized Finnish artists in the world, renowned for his signature style and iconic images.&nbsp;</p><p>The exhibition in the Museum of Contemporary Art Kiasma in Helsinki highlights Tom of Finland’s artistic mastery, establishing him as a major figure in 20th century contemporary art and visual culture.&nbsp;</p><p>The exhibition presents works from Tom of Finland Foundation in Los Angeles together with works from the collection of Finnish National Gallery. There are also works from Finnish and international public and private collections in the exhibition.&nbsp;</p><p>Alongside drawings, the exhibition features archive material, Tom’s personal clothing and memorabilia, letters, publications, magazines, films, and a new VR experience produced by Donkey Hotel. The experience immerses the viewer into the rooms of 1421 Laveta Terrace, better known as TOM House, the former residence of Tom of Finland in Los Angeles, where he mastered his artwork and lived over the last decade of his life.</p><p>&nbsp;</p><p>Kiasma</p><p>28.4.-29.10.2023&nbsp;</p><p>Tue-Fri 10.00-20.30</p><p>Sat 10.00–18.00</p><p>Sun 10.00–17.00</p><p>Admission fee 12/20€ under 18 yrs free entry</p><p>There is no age limit, but the exhibition is not recommended for children due to the explicit sexual imagery it contains. Parental or guardian discretion is advised.&nbsp;</p>"
-            },
-            "name": {
-                "fi": "Tom of Finland: Rohkea matka",
-                "sv": "Tom of Finland",
-                "en": "Tom of Finland: Bold Journey"
-            },
-            "info_url": {
-                "fi": "https://kiasma.fi/nayttelyt/tom-of-finland/",
-                "sv": "https://kiasma.fi/sv/utstallningar/tom-of-finland/",
-                "en": "https://kiasma.fi/en/exhibitions/tom-of-finland/"
-            },
-            "location_extra_info": {
-                "fi": "",
-                "sv": "",
-                "en": ""
-            },
-            "short_description": {
-                "fi": "Maailman tunnetuimpiin suomalaistaiteilijoihin kuuluva Tom of Finland on kuuluisa omaleimaisesta tyylistään ja ikonisista kuvistaan.",
-                "sv": "Utställningen hämtar en av världens berömdaste finska konstnärer, Tom of Finlands, verk och levnadshistoria till Kiasma.",
-                "en": "Tom of Finland is one of the most recognized Finnish artists in the world, renowned for his signature style and iconic images. "
-            },
-            "provider": {
-                "fi": "Kiasma",
-                "sv": "Kiasma",
-                "en": "Kiasma"
-            },
-            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agdkopipzy/",
-            "@context": "http://schema.org",
-            "@type": "Event/LinkedEvent"
-        },
-          {
-                      "id": "helsinki:agd6lxkomy",
-                      "location": {
-                          "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20784/"
-                      },
-                      "keywords": [
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p10218/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1278/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1808/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
-                          }
-                      ],
-                      "registration": null,
-                      "super_event": null,
-                      "event_status": "EventScheduled",
-                      "type_id": "General",
-                      "external_links": [],
-                      "offers": [
-                          {
-                              "is_free": false,
-                              "price": {
-                                  "fi": "20-122€",
-                                  "sv": "20-122€",
-                                  "en": "20-122€"
-                              },
-                              "info_url": {
-                                  "fi": "https://oopperabaletti.fi/ohjelmisto/joutsenlampi/#osta-lippuja",
-                                  "sv": "https://oopperabaletti.fi/sv/repertoar/svansjon/#kop-biljetter",
-                                  "en": "https://oopperabaletti.fi/en/repertoire/swan-lake/#buy"
-                              },
-                              "description": {
-                                  "fi": "",
-                                  "sv": "",
-                                  "en": ""
-                              }
-                          }
-                      ],
-                      "data_source": "helsinki",
-                      "publisher": "ytj:0586977-6",
-                      "sub_events": [
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkfpa/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkgci/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkgla/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkgyy/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkhdy/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkhmy/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkhwm/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkiaa/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkika/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkitm/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxki3a/"
-                          },
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkje4/"
-                          }
-                      ],
-                      "images": [
-                          {
-                              "id": 92016,
-                              "license": "event_only",
-                              "created_time": "2023-04-27T08:53:22.629507Z",
-                              "last_modified_time": "2023-05-04T08:15:35.963641Z",
-                              "name": "Suomen kansallisooppera ja -baletti: Joutsenlampi",
-                              "url": "https://api.hel.fi/linkedevents/media/images/Joutsenlampi_1200x800_cRoosaOksaharju.jpg",
-                              "cropping": "250,0,1249,999",
-                              "photographer_name": "Suomen kansallisooppera ja -baletti (c) Roosa Oksaharju",
-                              "alt_text": "Balettitanssija valkoisessa puvussa istuu heijastavan pinnan päällä ja katsoo alaspäin.",
-                              "data_source": "helsinki",
-                              "publisher": "ytj:0116936-9",
-                              "@id": "https://api.hel.fi/linkedevents/v1/image/92016/",
-                              "@context": "http://schema.org",
-                              "@type": "ImageObject"
-                          }
-                      ],
-                      "videos": [],
-                      "in_language": [],
-                      "audience": [
-                          {
-                              "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5590/"
-                          }
-                      ],
-                      "created_time": "2023-05-04T08:24:58.746076Z",
-                      "last_modified_time": "2023-05-04T08:24:58.746113Z",
-                      "date_published": null,
-                      "start_time": "2023-09-15T16:00:00Z",
-                      "end_time": "2024-05-29T18:45:00Z",
-                      "custom_data": null,
-                      "environmental_certificate": null,
-                      "environment": null,
-                      "audience_min_age": 7,
-                      "audience_max_age": null,
-                      "super_event_type": "recurring",
-                      "deleted": false,
-                      "maximum_attendee_capacity": null,
-                      "minimum_attendee_capacity": null,
-                      "enrolment_start_time": null,
-                      "enrolment_end_time": null,
-                      "local": false,
-                      "replaced_by": null,
-                      "provider": {
-                          "fi": "Suomen kansallisooppera ja -baletti",
-                          "sv": "Finlands nationalopera och -balett",
-                          "en": "Finnish National Opera and -ballet"
-                      },
-                      "name": {
-                          "fi": "Joutsenlampi",
-                          "sv": "Svansjön",
-                          "en": "Swan Lake"
-                      },
-                      "info_url": {
-                          "fi": "https://oopperabaletti.fi/ohjelmisto/joutsenlampi/",
-                          "sv": "https://oopperabaletti.fi/en/repertoire/swan-lake/",
-                          "en": "https://oopperabaletti.fi/sv/repertoar/svansjon/"
-                      },
-                      "location_extra_info": {
-                          "fi": "",
-                          "sv": "",
-                          "en": ""
-                      },
-                      "short_description": {
-                          "fi": "Joutsenlampi on maailman kuuluisin baletti, jossa yhdistyvät Tšaikovskin loistelias musiikki ja ikonisen kaunis visuaalinen maailma.",
-                          "sv": "Svansjön, världens mest berömda balett, kombinerar Tjajkovskijs storslagna musik och en legendariskt vacker visuell värld.",
-                          "en": "Swan Lake is the world’s most famous ballet, which combined Tchaikovsky’s magnificent music with a visual world of iconic beauty."
-                      },
-                      "description": {
-                          "fi": "<p>Joutsenlampi on maailman kuuluisin baletti, jossa yhdistyvät Tšaikovskin loistelias musiikki ja ikonisen kaunis visuaalinen maailma.&nbsp;</p><p>Teoksella on pitkä historia myös Suomen kansallisbaletissa, joka esitti sen ensimmäisenä teoksenaan vuonna 1922. Kansallisbaletin 100-vuotisjuhlavuonna 2022 ensi-iltansa saanut David McAllisterin uusi versio kunnioittaa teoksen pitkiä perinteitä.</p><p>&nbsp;</p><p>Suomen kansallisooppera ja -baletti</p><p>9.9.2023-29.5.2024</p><p>&nbsp;</p><p>Esitykset:</p><p>9.9. / 15.9. / 21.9. / 22.9. / 23.9. / 26.9. / 28.9.2023 klo 19</p><p>16.9. / 30.9.2023 klo 14</p><p>21.5. / 23.5. / 24.5. / 29.5.2024 klo 19</p><p>Liput 20-122€, kesto 2 h 45 min, ikäsuositus 7+</p>",
-                          "sv": "<p>Svansjön, världens mest berömda balett, kombinerar Tjajkovskijs storslagna musik och en legendariskt vacker visuell värld.&nbsp;</p><p>Verket har en lång historia även på Finlands nationalbalett, som inledde sin verksamhet med Svansjön för hundra år sedan. David McAllisters nya version, som hade premiär under Nationalbalettens 100-årsjubileum 2022, respekterar verkets långa traditioner.</p><p>&nbsp;</p><p>Finlands nationalopera och -balett</p><p>9.9.2023-29.5.2024</p><p>&nbsp;</p><p>Föreställningar:</p><p>9.9. / 15.9. / 21.9. / 22.9. / 23.9. / 26.9. / 28.9.2023 kl 19</p><p>16.9. / 30.9.2023 kl 14</p><p>21.5. / 23.5. / 24.5. / 29.5.2024 kl 19</p><p>Biljetter 20-122€, längd 2 h 45 min, åldersrekommendation 7+</p>",
-                          "en": "<p>Swan Lake is the world’s most famous ballet, which combined Tchaikovsky’s magnificent music with a visual world of iconic beauty.&nbsp;</p><p>It also has a long history at the Finnish National Ballet, where it was performed as its first production a hundred years ago. David McAllister’s new version, commissioned for the centenary of the Finnish National Ballet in 2022, honours the rich tradition of the ballet.</p><p>&nbsp;</p><p>Finnish National Opera and Ballet</p><p>9.9.2023-29.5.2024</p><p>&nbsp;</p><p>Performances:</p><p>9.9. / 15.9. / 21.9. / 22.9. / 23.9. / 26.9. / 28.9.2023 at 19.00</p><p>16.9. / 30.9.2023 at 14.00</p><p>21.5. / 23.5. / 24.5. / 29.5.2024 at 19.00</p><p>Tickets 20-122€, duration 2 h 45 min, age recommendation 7+</p>"
-                      },
-                      "provider_contact_info": null,
-                      "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agd6lxkomy/",
-                      "@context": "http://schema.org",
-                      "@type": "Event/LinkedEvent"
-                  },
-          {
-                     "id": "matko:16273",
-                     "location": {
-                         "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20643/"
-                     },
-                     "keywords": [
-                         {
-                             "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4934/"
-                         },
-                         {
-                             "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
-                         },
-                         {
-                             "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8025/"
-                         }
-                     ],
-                     "registration": null,
-                     "super_event": null,
-                     "event_status": "EventRescheduled",
-                     "type_id": "General",
-                     "external_links": [],
-                     "offers": [
-                         {
-                             "is_free": false,
-                             "price": {
-                                 "fi": "10€",
-                                 "sv": "10€",
-                                 "en": "10€"
-                             },
-                             "description": {
-                                 "fi": "",
-                                 "sv": "",
-                                 "en": ""
-                             },
-                             "info_url": {
-                                 "fi": "http://www.mfa.fi",
-                                 "sv": "http://www.mfa.fi",
-                                 "en": "http://www.mfa.fi"
-                             }
-                         }
-                     ],
-                     "data_source": "matko",
-                     "publisher": "ytj:0586977-6",
-                     "sub_events": [],
-                     "images": [
-                         {
-                             "id": 43572,
-                             "license": "event_only",
-                             "created_time": "2018-04-20T11:03:48.634438Z",
-                             "last_modified_time": "2021-12-27T08:33:58.702272Z",
-                             "name": "Arkkitehtuurimme vuosikymmenet 1900-1970",
-                             "url": "https://api.hel.fi/linkedevents/media/images/20141002_1537_L1005693_4371.jpg",
-                             "cropping": "318,0,1602,1283",
-                             "photographer_name": "Helsinki Marketing (c) Jussi Hellsten",
-                             "alt_text": "Temppeliaukion kirkko sisältä",
-                             "data_source": "helsinki",
-                             "publisher": "ytj:0586977-6",
-                             "@id": "https://api.hel.fi/linkedevents/v1/image/43572/",
-                             "@context": "http://schema.org",
-                             "@type": "ImageObject"
-                         }
-                     ],
-                     "videos": [],
-                     "in_language": [],
-                     "audience": [],
-                     "created_time": null,
-                     "last_modified_time": "2022-11-24T10:24:50.903801Z",
-                     "date_published": "2010-03-26T22:00:00Z",
-                     "start_time": "2010-03-26T22:01:00Z",
-                     "end_time": "2023-12-31T21:59:00Z",
-                     "custom_data": null,
-                     "environmental_certificate": null,
-                     "environment": null,
-                     "audience_min_age": null,
-                     "audience_max_age": null,
-                     "super_event_type": null,
-                     "deleted": false,
-                     "maximum_attendee_capacity": null,
-                     "minimum_attendee_capacity": null,
-                     "enrolment_start_time": null,
-                     "enrolment_end_time": null,
-                     "local": true,
-                     "replaced_by": null,
-                     "name": {
-                         "fi": "Arkkitehtuurimme vuosikymmenet 1900-1970",
-                         "sv": "Vår arkitekturs årtionden 1900-1970",
-                         "en": "Decades of Finnish Architecture 1900-1970"
-                     },
-                     "description": {
-                         "fi": "<p>Arkkitehtuurimuseon kauan kaivattu, pysyvä historianäyttely vie matkalle Suomen arkkitehtuurin vuosikymmeniin. Eri kausien tyylipiirteitä, teknisiä ratkaisuja, materiaaleja ja sisustuksia seurataan ensimmäisten kotimaassa valmistuneiden arkkitehtien edustamasta kansallisromantiikasta klassismin, funktionalismin ja kansainvälisen maineemme luoneen modernismin kautta 1970-luvulle.</p>\n<p>Arkkitehtuurimuseo<br>Ti-su  klo 11-18, ke klo 11-20</p>",
-                         "sv": "<p>Utställningen presenterar Finlands arkitekturhistoria på Arkitekturmuseet.</p>\n<p>Arkitekturmuseet<br>ti-sö kl 11-18, ons kl 11-20</p>",
-                         "en": "<p>The permanent exhibition in the Museum of Finnish Architecture takes its visitors on a journey into the Finnish architecture of the 20th century. Different features, technical solutions, materials and interior design are followed from decade to decade; from National Romanticism to Classicism and Functionalism, through the Modernism that created the country's international reputation to the architecture of the 1970's.</p>\n<p>Museum of Finnish Architecture<br>Tue-Sun 11.00-18.00, Wed 11.00-20.00</p>"
-                     },
-                     "provider": {
-                         "fi": "Arkkitehtuurimuseo",
-                         "sv": "Arkitekturmuseet",
-                         "en": "Museum of Finnish Architecture"
-                     },
-                     "short_description": {
-                         "fi": "Arkkitehtuurimuseon kauan kaivattu, pysyvä historianäyttely vie matkalle Suomen arkkitehtuurin vuosikymmeniin.",
-                         "sv": "Utställningen presenterar Finlands arkitekturhistoria på Arkitekturmuseet.",
-                         "en": "The permanent exhibition in the Museum of Finnish Architecture takes its visitors on a journey into the Finnish architecture of the 20th century. "
-                     },
-                     "provider_contact_info": null,
-                     "location_extra_info": {
-                         "fi": "",
-                         "sv": "",
-                         "en": ""
-                     },
-                     "info_url": {
-                         "fi": "http://www.mfa.fi/nayttelyesittely?nid=13642975",
-                         "sv": "http://www.mfa.fi/exhibition?nid=13642975",
-                         "en": "http://www.mfa.fi/exhibition?nid=13642975"
-                     },
-                     "@id": "https://api.hel.fi/linkedevents/v1/event/matko:16273/",
-                     "@context": "http://schema.org",
-                     "@type": "Event/LinkedEvent"
-                 },
         {
-            "id": "helsinki:agcrj7tbwe",
-            "location": {
-                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:41176/"
-            },
-            "keywords": [
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15427/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1934/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p6963/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p965/"
-                }
-            ],
-            "super_event": null,
-            "event_status": "EventScheduled",
-            "type_id": "General",
-            "external_links": [],
-            "offers": [
-                {
-                    "is_free": false,
-                    "info_url": {
-                        "fi": "https://www.ticketmaster.fi/artist/helsinki-international-horse-show-lippuja/872853",
-                        "sv": "https://www.ticketmaster.fi/artist/helsinki-international-horse-show-lippuja/872853",
-                        "en": "https://www.ticketmaster.fi/artist/helsinki-international-horse-show-lippuja/872853"
+                    "id": "helsinki:aggo4iz67m",
+                    "location": {
+                        "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:55959/"
                     },
-                    "price": {
-                        "fi": "alk. 16,50€",
-                        "sv": "från 16,50€",
-                        "en": "from 16,50€"
-                    },
-                    "description": {
+                    "keywords": [
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2149/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
+                        }
+                    ],
+                    "registration": null,
+                    "super_event": null,
+                    "event_status": "EventScheduled",
+                    "type_id": "General",
+                    "external_links": [],
+                    "offers": [
+                        {
+                            "is_free": false,
+                            "description": {
+                                "fi": "",
+                                "sv": "",
+                                "en": ""
+                            },
+                            "price": {
+                                "fi": "20€",
+                                "sv": "20€",
+                                "en": "20€"
+                            },
+                            "info_url": {
+                                "fi": "https://amosrex.johku.com/fi_FI/tapahtumat/ryoji-ikeda-avoin-intro",
+                                "sv": "https://amosrex.johku.com/sv_SE/evenemang/ryoji-ikeda-oppen-intro",
+                                "en": "https://amosrex.johku.com/en_US/events/ryoji-ikeda-open-intro"
+                            }
+                        }
+                    ],
+                    "data_source": "helsinki",
+                    "publisher": "ytj:0586977-6",
+                    "sub_events": [],
+                    "images": [
+                        {
+                            "id": 101194,
+                            "license": "event_only",
+                            "created_time": "2024-01-09T12:11:02.622631Z",
+                            "last_modified_time": "2024-01-09T12:12:15.749271Z",
+                            "name": "Intro-opastukset Ryoji Ikedaan",
+                            "url": "https://api.hel.fi/linkedevents/media/images/Ryoji_Ikeda_data-verse_1_2019-Tuomas_Uusheimo-1920x1280.jpg",
+                            "cropping": "289,0,1439,1150",
+                            "photographer_name": "© Tuomas Uusheimo / Amos Rex",
+                            "alt_text": "Näyttelytila, jossa kaksi henkilöä seisoo taideteoksen edessä",
+                            "data_source": "helsinki",
+                            "publisher": "ytj:0586977-6",
+                            "@id": "https://api.hel.fi/linkedevents/v1/image/101194/",
+                            "@context": "http://schema.org",
+                            "@type": "ImageObject"
+                        }
+                    ],
+                    "videos": [],
+                    "in_language": [],
+                    "audience": [],
+                    "created_time": "2024-01-09T12:12:16.516203Z",
+                    "last_modified_time": "2024-01-09T12:12:16.516225Z",
+                    "date_published": null,
+                    "start_time": "2024-02-06T22:01:00Z",
+                    "end_time": "2024-02-09T21:59:00Z",
+                    "custom_data": null,
+                    "environmental_certificate": null,
+                    "environment": null,
+                    "audience_min_age": null,
+                    "audience_max_age": null,
+                    "super_event_type": null,
+                    "deleted": false,
+                    "maximum_attendee_capacity": null,
+                    "minimum_attendee_capacity": null,
+                    "enrolment_start_time": null,
+                    "enrolment_end_time": null,
+                    "local": false,
+                    "replaced_by": null,
+                    "location_extra_info": {
                         "fi": "",
                         "sv": "",
                         "en": ""
-                    }
-                }
-            ],
-            "data_source": "helsinki",
-            "publisher": "ytj:0586977-6",
-            "sub_events": [],
-            "images": [
-                {
-                    "id": 89668,
-                    "license": "event_only",
-                    "created_time": "2023-02-09T11:21:36.323501Z",
-                    "last_modified_time": "2023-02-09T11:22:59.600343Z",
-                    "name": "Jack Whitaker & Equine America Valmy de la Lande",
-                    "url": "https://api.hel.fi/linkedevents/media/images/Jack-Whitaker-Equine-Americ.jpg",
-                    "cropping": "380,0,1900,1521",
-                    "photographer_name": "Jack Whitaker & Equine America Valmy de la Lande - Helsinki International Horse Show (c) Satu Pirinen",
-                    "alt_text": "Ratsukko hyppää esteen yli",
-                    "data_source": "helsinki",
-                    "publisher": "ytj:0586977-6",
-                    "@id": "https://api.hel.fi/linkedevents/v1/image/89668/",
-                    "@context": "http://schema.org",
-                    "@type": "ImageObject"
-                }
-            ],
-            "videos": [],
-            "in_language": [],
-            "audience": [],
-            "created_time": "2022-12-15T08:54:53.636552Z",
-            "last_modified_time": "2023-02-09T11:23:50.680356Z",
-            "date_published": null,
-            "start_time": "2023-10-17T21:01:00Z",
-            "end_time": "2023-10-22T20:59:00Z",
-            "custom_data": null,
-            "audience_min_age": null,
-            "audience_max_age": null,
-            "super_event_type": null,
-            "deleted": false,
-            "maximum_attendee_capacity": null,
-            "remaining_attendee_capacity": null,
-            "minimum_attendee_capacity": 1000,
-            "enrolment_start_time": null,
-            "enrolment_end_time": null,
-            "local": false,
-            "search_vector_fi": "'000':49C '16':59C '18':55C '2023':5A '22.10.2023':56C '50':48C,60C 'alk':58C 'elämyks':37C 'esteratsastuks':11B,20C 'helsing':31C,53C 'helsink':1A,6B,15C 'hevos':29C 'hors':3A,8B,17C 'huippu-urheilu':38C 'huipu':39C 'international':2A,7B,16C 'jännity':35C 'jäähal':32C,54C 'koe':34C 'kävij':51C 'lipu':57C 'lokaku':33C 'maailm':24C 'maailmancup':12B,21C 'muun':50C 'n':44C 'osakilpailu':14B,23C 'par':45C 'parh':25C 'ratsastaj':26C 'sarj':13B,22C 'show':4A,9B,18C,43C 'sykähdyttäv':42C 'ticketmaster':61C 'upea':28C 'urheilu':40C 'valtaav':30C 'yhd':46C",
-            "search_vector_en": "'000':48C '16':80C '18':75C '2023':5A '22.10.2023':76C '50':47C,81C 'best':62C 'communiti':13B,25C 'compet':64C 'crowd':44C 'cup':71C 'eager':56C 'entertain':41C 'equestrian':12B,24C 'excit':34C 'fan':55C 'fei':68C 'hall':74C 'helsinki':1A,6B,15B,18C,27C,72C 'hors':3A,8B,20C,52C 'huge':43C 'ice':73C 'intern':2A,7B,19C 'jump':69C 'longin':67C 'lover':53C 'meet':58C 'mix':35C 'octob':17B,29C 'rider':63C 'show':4A,9B,21C,31C 'sport':39C 'start':78C 'ticket':77C 'ticketmast':83C 'top':38C 'true':51C 'ultim':37C 'visitor':49C 'welcom':10B,22C 'world':60C,70C",
-            "search_vector_sv": "'16':63C '18':58C '2023':5A '22.10.2023':59C '50':64C 'alternativ':44C 'biljet':60C 'bjud':47C 'börj':61C 'helsingfor':17B,32C,56C 'helsinki':1A 'hors':3A,12B,27C 'häst':53C 'högklassisk':37C 'inomhusevenemang':11B,26C 'international':2A 'ishall':18B,33C,57C 'landet':8B,23C 'läckr':43C 'mest':9B,24C 'mäng':42C 'oförglöm':49C 'oktob':20B,35C 'populär':10B,25C 'restaurang':46C 'rum':15B,30C 'show':4A,13B,28C 'showprogram':38C 'sportentusiast':55C 'ticketmast':66C 'upplev':50C 'varv':39C 'äger':14B,29C",
-            "replaced_by": null,
-            "provider_contact_info": null,
-            "description": {
-                "fi": "<p>Helsinki International Horse Show on esteratsastuksen maailmancup -sarjan osakilpailu. Maailman parhaat ratsastajat ja upeat hevoset valtaavat Helsingin Jäähallin lokakuussa. Koe jännitystä ja elämyksiä huippu-urheilun ja sykähdyttävän show’n parissa yhdessä yli 50 000 muun kävijän kanssa.</p><p>&nbsp;</p><p>Helsingin Jäähalli</p><p>18.-22.10.2023</p><p>Liput alk. 16,50 € Ticketmasterista&nbsp;</p>",
-                "sv": "<p>Ett av landets mest populära inomhusevenemang – Horse Show – äger rum i Helsingfors Ishall i Oktober.</p><p>Ett högklassiskt showprogram, varvat med en mängd läckra alternativ i restaurangerna, bjuder på oförglömliga upplevelser åt alla häst- och sportentusiaster.</p><p>&nbsp;</p><p>Helsingfors ishall<br>18.-22.10.2023</p><p>Biljetter börjar från 16,50€ från Ticketmaster</p>",
-                "en": "<p>Helsinki International Horse Show welcomes the equestrian community to Helsinki in October!&nbsp;</p><p>The show is an exciting mix of ultimate top sport and entertainment. The huge crowd of over 50 000 visitors are true horse lovers and fans, eager to meet the world´s best riders competing in the Longines FEI Jumping World Cup™.<br>&nbsp;</p><p>Helsinki Ice Hall<br>18.-22.10.2023</p><p>Tickets starting from 16,50€ from Ticketmaster</p>"
-            },
-            "name": {
-                "fi": "Helsinki International Horse Show 2023",
-                "sv": "Helsinki International Horse Show 2023",
-                "en": "Helsinki International Horse Show 2023"
-            },
-            "info_url": {
-                "fi": "http://www.helsinkihorseshow.fi",
-                "sv": "https://helsinkihorseshow.fi/en/helsinki-international-horse/",
-                "en": "https://helsinkihorseshow.fi/en/helsinki-international-horse/"
-            },
-            "location_extra_info": {
-                "fi": "",
-                "sv": "",
-                "en": ""
-            },
-            "short_description": {
-                "fi": "Helsinki International Horse Show on esteratsastuksen maailmancup -sarjan osakilpailu. ",
-                "sv": "Ett av landets mest populära inomhusevenemang – Horse Show – äger rum i Helsingfors Ishall i Oktober.",
-                "en": "Helsinki International Horse Show welcomes the equestrian community to Helsinki in October!"
-            },
-            "provider": {
-                "fi": "Helsinki International Horse Show",
-                "sv": "Helsinki International Horse Show",
-                "en": "Helsinki International Horse Show"
-            },
-            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agcrj7tbwe/",
-            "@context": "http://schema.org",
-            "@type": "Event/LinkedEvent"
-        },
-        {
-            "id": "helsinki:agde7fz5zi",
-            "location": {
-                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:59857/"
-            },
-            "keywords": [
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p14004/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15875/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p21131/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p28114/"
-                }
-            ],
-            "super_event": null,
-            "event_status": "EventScheduled",
-            "type_id": "General",
-            "external_links": [],
-            "offers": [
-                {
-                    "is_free": false,
-                    "info_url": {
-                        "fi": "http://www.slush.org",
-                        "sv": "http://www.slush.org",
-                        "en": "http://www.slush.org"
                     },
-                    "price": {
-                        "fi": "http://www.slush.org",
-                        "sv": "http://www.slush.org",
-                        "en": "http://www.slush.org"
+                    "provider": {
+                        "fi": "Amos Rex",
+                        "sv": "Amos Rex",
+                        "en": "Amos Rex"
                     },
+                    "provider_contact_info": null,
                     "description": {
+                        "fi": "<p>Amos Rexin järjestämällä intro-opastuksella pääsee kuulemaan lisää Ryoji Ikeadasta ja hänen taiteestaan, ja saada oppailta vinkkejä näyttelyvierailuun ennen näyttelyyn uppoutumista. Helmikuussa 2024 Amos Rex tarjoaa intro-opastuksia pääsylipun hinnalla.&nbsp;<br><br>Intro kestää noin 20 minuuttia, ja pidetään museon taidepajatila Studio Rexissä. Intron jälkeen voit vierailla näyttelyssä vapaasti.<br><br>Varaa paikkasi opastukselle ennakkoon; intro-opastusten pääsyliput myydään netissä. Introlle pääset museon pääsylipunhinnalla. Ennen varaamista, tarkista, minkä kieliselle opastukselle olet tulossa.<br><br>Amos Rex<br>Ke 7.2.2024<br>Klo 17.00 suomeksi<br>Klo 17.30 ruotsiksi<br>Klo 18.00 englanniksi<br><br>To 8.2.2024<br>Klo 17.00 suomeksi<br>Klo 17.30 ruotsiksi<br>Klo 18.00 englanniksi<br><br>Pe 9.2.2024<br>Klo 17.00 suomeksi<br>Klo 17.30 ruotsiksi<br>Klo 18.00 englanniksi<br><br>Liput:<br>20 € - normaalihintainen<br>15 € - eläkeläinen<br>5 € - opiskelijat / alle 30-vuotiaat / työttömät<br>0 € - museokortti / alle 18-vuotiaat</p>",
+                        "sv": "<p>Under intro-guidningen som ordnas av Amos Rex får man veta mer om konstnären Ryoji Ikeda och hans verk, och få tips av museets guider inför besöket innan man upplever utställningen. Under den andra veckan i februari erbjuder Amos Rex intro-guidningar till priset av en inträdesbiljett.<br><br>Introt tar ungefär 20 minuter och arrangeras i museets konstverkstad Studio Rex. Efter introt kan man besöka utställningen fritt.&nbsp;<br><br>Boka din plats för guidningen i förväg. Själva introduktionen är gratis, men man behöver en inträdesbiljett från Amos Rex nätsida. Innan du bokar, observera språket då du bokar guidningen.<br><br>Öppna intro-guidningar hålls:<br><br>Onsdag 7.2.2024<br>kl. 17.00 på finska<br>kl. 17.30 på svenska<br>kl. 18.00 på engelska<br><br>Torsdag 8.2.2024<br>kl. 17.00 på finska<br>kl. 17.30 på svenska<br>kl. 18.00 på engelska<br><br>Fredag 9.2.2024<br>kl. 17.00 på finska<br>kl. 17.30 på svenska<br>kl. 18.00 på engelska<br><br>Biljettpriser:<br>20 € - normalpris<br>15 € - pensionärer<br>5 € - studerande, arbetslösa och alla under 30 år<br>0 € - med museikort och alla under 18 år</p>",
+                        "en": "<p>During the guided introduction you can hear more about Ryoji Ikeda and his art before visiting the exhibition. During the second week of February, Amos Rex offers guided introductions to the exhibition for the price of your entrance ticket.<br><br>The guided introds are approximately 20 minutes long. They are held in Amos Rex’s art workshop space Studio Rex. After the intro, you can visit Amos Rex and the exhibition freely.<br><br>Book your intro tickets in advance online. Intro tickets cost the same as Amos Rex’s admission. Before booking, please check what language your guided introduction is held in.<br><br>Wednesday 7 February 2024<br>5:00 PM in Finnish<br>5:30 PM in Swedish<br>6:00 PM in English</p><p>Thursday 8 February 2024<br>5:00 PM in Finnish<br>5:30 PM in Swedish<br>6:00 PM in English</p><p>Friday 9 February 2024<br>5:00 PM in Finnish<br>5:30 PM in Swedish<br>6:00 PM in English<br><br>Tickets:&nbsp;<br>20 € – General admission<br>15 € – Reduced price<br>5 € – Students, unemployed and everyone under 30 years old<br>0 € – Museum Card/children 0-17 years/ICOM card/press card</p>"
+                    },
+                    "short_description": {
+                        "fi": "Amos Rexin järjestämällä intro-opastuksella pääsee kuulemaan lisää Ryoji Ikeadasta",
+                        "sv": "Under intro-guidningen som ordnas av Amos Rex får man veta mer om konstnären Ryoji Ikeda och hans verk",
+                        "en": "During the guided introduction you can hear more about Ryoji Ikeda and his art"
+                    },
+                    "name": {
+                        "fi": "Intro-opastukset Ryoji Ikedaan",
+                        "sv": "Öppna intro-guidningar till Ryoji Ikeda",
+                        "en": "Guided introductions to Ryoji Ikeda"
+                    },
+                    "info_url": {
+                        "fi": "https://amosrex.fi/tapahtumat/intro-opastukset/",
+                        "sv": "https://amosrex.fi/sv/evenemang/intro-guidningar/",
+                        "en": "https://amosrex.fi/en/events/guided-introductions/"
+                    },
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggo4iz67m/",
+                    "@context": "http://schema.org",
+                    "@type": "Event/LinkedEvent"
+                },
+                {
+                    "id": "helsinki:agfiiynbvi",
+                    "location": {
+                        "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:55959/"
+                    },
+                    "keywords": [
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p11955/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15737/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2739/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2851/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4934/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5450/"
+                        }
+                    ],
+                    "registration": null,
+                    "super_event": null,
+                    "event_status": "EventScheduled",
+                    "type_id": "General",
+                    "external_links": [],
+                    "offers": [
+                        {
+                            "is_free": false,
+                            "description": {
+                                "fi": "Normaali sisäänpääsy",
+                                "sv": "Biljettpris",
+                                "en": "General admission"
+                            },
+                            "price": {
+                                "fi": "20 €",
+                                "sv": "20 €",
+                                "en": "20 €"
+                            },
+                            "info_url": {
+                                "fi": "https://amosrex.fi/tule-meille/#liput",
+                                "sv": "https://amosrex.fi/sv/besok-oss/#Biljetter",
+                                "en": "https://amosrex.fi/en/visit-us/#tickets"
+                            }
+                        },
+                        {
+                            "is_free": false,
+                            "description": {
+                                "fi": "Alennettu hinta: \tEläkeläiset, opettajat OAJ -kortilla sekä vammaiskortilla",
+                                "sv": "Rabatterat pris: Pensioner, lärare med OAJ-kort, eller med funktionshinderkort.",
+                                "en": "Reduced price: For pensioners, teachers with a union card, conscripts, non-military servicemen, or with an EU disability card."
+                            },
+                            "price": {
+                                "fi": "15 €",
+                                "sv": "15 €",
+                                "en": "15 €"
+                            },
+                            "info_url": {
+                                "fi": "",
+                                "sv": "",
+                                "en": ""
+                            }
+                        },
+                        {
+                            "is_free": false,
+                            "description": {
+                                "fi": "Alle 30-vuotiaat, työttömät, varushenkilöt, siviilipalvelushenkilöt sekä opiskelijat",
+                                "sv": "Studerande, arbetslösa, beväringar, civiltjänstepliktiga och alla under 30 år",
+                                "en": "Students, unemployed, conscripts, non-military servicemen and everyone under 30 years old:"
+                            },
+                            "price": {
+                                "fi": "5 €",
+                                "sv": "5 €",
+                                "en": "5 €"
+                            },
+                            "info_url": {
+                                "fi": "",
+                                "sv": "",
+                                "en": ""
+                            }
+                        },
+                        {
+                            "is_free": false,
+                            "description": {
+                                "fi": "Alle 18-vuotiaat & muut: Museokortti, lapset ja nuoret (0–17v.), henkilökohtainen avustaja, Helsinki Card, ICOM-kortti, pressikortti.",
+                                "sv": "Under 18 år och övriga: \tMuseikort, barn (0–17 år), Helsinki Card, personliga assistenter, ICOM-kort, presskort.",
+                                "en": "Under 18 year olds & others: Museum Card, children (0–17 years), personal assistant, Helsinki Card, press card, ICOM card"
+                            },
+                            "price": {
+                                "fi": "0 €",
+                                "sv": "0 €",
+                                "en": "0 €"
+                            },
+                            "info_url": {
+                                "fi": "",
+                                "sv": "",
+                                "en": ""
+                            }
+                        }
+                    ],
+                    "data_source": "helsinki",
+                    "publisher": "kultus:39",
+                    "sub_events": [
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfp7oh2ha/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfwcxwsye/"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "id": 97598,
+                            "license": "cc_by",
+                            "created_time": "2023-10-12T09:24:03.039844Z",
+                            "last_modified_time": "2023-10-12T09:25:35.729454Z",
+                            "name": "Ryoji Ikeda",
+                            "url": "https://api.hel.fi/linkedevents/media/images/Ryoji-Ikeda-data-verse-1-20.jpg",
+                            "cropping": "338,0,1687,1348",
+                            "photographer_name": "Ryoji Ikeda, data-verse 2, 2019  (c) Tuomas Uusheimo / Amos Rex",
+                            "alt_text": "Kaksi ihmistä ja valotaideteos",
+                            "data_source": "helsinki",
+                            "publisher": "kultus:39",
+                            "@id": "https://api.hel.fi/linkedevents/v1/image/97598/",
+                            "@context": "http://schema.org",
+                            "@type": "ImageObject"
+                        }
+                    ],
+                    "videos": [],
+                    "in_language": [],
+                    "audience": [
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p11617/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p13050/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5590/"
+                        }
+                    ],
+                    "created_time": "2023-09-11T13:15:05.527571Z",
+                    "last_modified_time": "2023-10-12T09:25:36.249633Z",
+                    "date_published": null,
+                    "start_time": "2023-09-27T08:00:00Z",
+                    "end_time": "2024-02-25T15:00:00Z",
+                    "custom_data": null,
+                    "environmental_certificate": "",
+                    "environment": "in",
+                    "audience_min_age": null,
+                    "audience_max_age": null,
+                    "super_event_type": "umbrella",
+                    "deleted": false,
+                    "maximum_attendee_capacity": null,
+                    "minimum_attendee_capacity": null,
+                    "enrolment_start_time": null,
+                    "enrolment_end_time": null,
+                    "local": false,
+                    "replaced_by": null,
+                    "location_extra_info": {
                         "fi": "",
                         "sv": "",
                         "en": ""
-                    }
-                }
-            ],
-            "data_source": "helsinki",
-            "publisher": "ytj:0586977-6",
-            "sub_events": [],
-            "images": [
-                {
-                    "id": 50367,
-                    "license": "event_only",
-                    "created_time": "2018-11-28T14:35:43.009588Z",
-                    "last_modified_time": "2021-11-02T13:01:16.570008Z",
-                    "name": "Slush",
-                    "url": "https://api.hel.fi/linkedevents/media/images/26987077109_dee06e5e1c_o.jpg",
-                    "cropping": "320,0,1600,1281",
-                    "photographer_name": "Slush (c)Kai Kuusisto",
-                    "alt_text": "Värivaloja ja tapahtuman logo",
-                    "data_source": "helsinki",
-                    "publisher": "ytj:0586977-6",
-                    "@id": "https://api.hel.fi/linkedevents/v1/image/50367/",
+                    },
+                    "provider": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "provider_contact_info": null,
+                    "description": {
+                        "fi": "<p>Räjähdyksenomainen paljous ja pelkistetty viivapiirrosestetiikka, ääni ja äänettömyys, säikkyvä valo ja pimenevät kuvaruudut – japanilainen säveltäjä ja taiteilija Ryoji Ikeda valtaa Amos Rexin tarkan äänimaiseman ja liikkuvan kuvan keinoin.</p><p>Japanilaisen säveltäjä ja taiteilija Ryoji Ikedan (1966) teokset perustuvat tarkkaan äänimaisemaan ja liikkuvaan kuvaan. Taiteilija työstää kaikkia materiaalejaan säveltäjän tapaan. Oli sitten kyse äänitaajuudesta, fyysisestä tilasta, kuvapikselistä, datapisteestä tai sykkivästä valosta, Ikedalle ne ovat kaikki osa sävellysprosessia.</p><p>Amos Rexin arkkitehtuurin innostama näyttely koostuu viidestä installaatiosta, jotka käsittelevät maailmankaikkeuden näkymättömiä ulottuvuuksia ja haastavat havainnon rajoja. Viiden installaation joukossa nähdään kaksi uutta teosta, joiden lähtökohtana on ollut taiteilijan välitön kokemus maanalaisesta museostamme.</p><p>Näyttelyn on kuratoinut Terhi Tuomi.&nbsp;</p><p>&nbsp;</p><p>Amos Rex</p><p>27.9.2023-25.2.2024</p><p>Sisäänpääsy 0-20€</p>",
+                        "sv": "<p>Ikedas konst gör det osynliga synligt – han arbetar med ljud, rytm, ljus och visualisering av data. Han inspireras också av de fysiska fenomenens och matematiska principernas värld. I centrum för konstnärens arbete står framför allt den helhetsbetonade komponeringsprocessen. &nbsp;<br>&nbsp;</p><p>På utställningen visas fem noggrant utvalda verk från 2019–2023. De ingår i en mer omfattande följd av verk som handlar om datauniversum. Konstnärens direkta upplevelse av rummet och arkitekturen har utgjort grunden till helheten som innefattar två nya rumsliga verk. Ikeda använder utställningssalarna som audiovisuella klangbottnar, vilket får sinnena att skärpas på överraskande sätt.</p><p>Konstnären har använt data som material i över 17 år. I det ändlösa snåret av data har han spjälkat upp, rytmiserat, kombinerat samt zoomat in och ut. Ikedas verk har figurerat på konst- och musikvärldens ansedda arenor runtom i världen. Helheten i Amos Rex är hans första separatutställning i Finland. Konstnären bor huvudsakligen i Paris, men arbetar också i Kyoto.</p><p>&nbsp;</p><p>Amos Rex</p><p>27.9.2023-25.2.2024</p><p>Inträde 0-20€</p>",
+                        "en": "<p>Explosive abundance and simple line drawings, sound and silence, pulsating light and suddenly darkening screens - Japanese composer and artist Ryoji Ikeda takes over the cavernous spaces of the museum with a precise soundscape and moving image.</p><p>Based on data visualisation, rhythm, light and sound, his installations explore the invisible dimensions of the universe and the limits of perception with almost mathematical precision. Ikeda’s exhibition at Amos Rex draws inspiration from the museum’s extraordinary architecture. On view are five installations, which explore the invisible dimensions of the universe and pushes the limits of perception. Among the five installations are two new works that Ikeda created on the basis of his immediate spatial experience of our subterranean museum.</p><p>The exhibition is curated by Terhi Tuomi.</p><p>&nbsp;</p><p>Amos Rex</p><p>27.9.2023-25.2.2024</p><p>Admission fee 0-20€</p>"
+                    },
+                    "short_description": {
+                        "fi": "Räjähdyksenomainen paljous ja pelkistetty viivapiirrosestetiikka, ääni ja äänettömyys, säikkyvä valo ja pimenevät kuvaruudut",
+                        "sv": "Den japanske kompositören och konstnären Ryoji Ikeda har tagit museets grottliknande utställningsutrymmen i besittning .",
+                        "en": "Explosive abundance and simple line drawings, sound and silence, pulsating light and suddenly darkening screens - Japanese composer and artist Ryoji Ikeda takes"
+                    },
+                    "name": {
+                        "fi": "Ryoji Ikeda",
+                        "sv": "Ryoji Ikeda",
+                        "en": "Ryoji Ikeda"
+                    },
+                    "info_url": {
+                        "fi": "https://amosrex.fi/nayttelyt/ryoji-ikeda/",
+                        "sv": "https://amosrex.fi/sv/utstallningar/ryoji-ikeda/",
+                        "en": "https://amosrex.fi/en/exhibitions/ryoji-ikeda/"
+                    },
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfiiynbvi/",
                     "@context": "http://schema.org",
-                    "@type": "ImageObject"
-                }
-            ],
-            "videos": [],
-            "in_language": [],
-            "audience": [],
-            "created_time": "2023-02-14T11:02:37.289984Z",
-            "last_modified_time": "2023-02-14T11:02:37.290025Z",
-            "date_published": null,
-            "start_time": "2023-11-29T22:01:00Z",
-            "end_time": "2023-12-01T21:59:00Z",
-            "custom_data": null,
-            "audience_min_age": null,
-            "audience_max_age": null,
-            "super_event_type": null,
-            "deleted": false,
-            "maximum_attendee_capacity": null,
-            "remaining_attendee_capacity": null,
-            "minimum_attendee_capacity": 1000,
-            "enrolment_start_time": null,
-            "enrolment_end_time": null,
-            "local": false,
-            "search_vector_fi": "'1.2.2023':50C '2023':2A '30.11':49C 'ala':9B,26C 'dynaamis':46C 'helsing':42C 'järjest':39C 'kaksipäiväin':37C 'kansainvälis':15B,32C 'kasvuyrityks':13B,30C 'kasvuyritys':5B,22C 'kesk':43C 'maailm':45C 'media':19B,36C 'merkittäv':14B,31C 'messukeskus':48C 'sijoittaj':17B,34C 'slush':1A,3B,20C 'talvis':41C 'tapahtum':10B,27C,38C 'teknolog':8B,25C 'teknologia-al':7B,24C 'teknologiaekosysteem':47C 'vaikuttaj':16B,33C 'vuosit':40C 'yh':44C 'yhdist':12B,29C",
-            "search_vector_en": "'1.12.2023':78C '2023':2A '30.11':77C 'amidst':65C 'asian':11B,35C 'bring':56C 'day':54C 'dynam':70C 'ecosystem':72C 'european':9B,33C 'event':55C 'focal':6B,30C 'influenc':23B,47C 'intern':22B,46C 'investor':24B,48C 'lead':59C 'media':26B,50C 'meet':17B,41C 'messukeskus':76C 'one':66C 'point':7B,31C 'scandinavia':64C 'scene':61C 'slush':1A,3B,27C 'startup':12B,36C 'talent':15B,39C 'tech':14B,38C,60C,71C 'tier':21B,45C 'togeth':57C 'top':20B,44C 'top-tier':19B,43C 'two':53C 'two-day':52C 'winteri':63C 'world':75C",
-            "search_vector_sv": "'1.12.2023':67C '2023':2A '30.11':66C 'ans':55C 'dag':39C,45C 'dynamisk':61C 'ekosystem':64C 'helsingfor':41C,52C 'industrin':49C 'internationell':15B,32C 'invester':16B,33C 'konferens':47C 'kärntrupp':50C 'lång':46C 'medi':19B,36C 'messukeskus':65C 'mest':60C 'möt':48C 'sammanför':10B,27C 'slush':1A,3B,20C 'stad':53C 'storföretag':17B,34C 'talang':11B,28C 'tech':63C 'tech-ekosystem':62C 'teknologi':6B,23C 'tillväxtföretagsevenemang':8B,25C 'två':38C,44C 'uppstartsbransch':13B,30C 'värld':59C",
-            "replaced_by": null,
-            "provider_contact_info": null,
-            "description": {
-                "fi": "<p>Slush on kasvuyritys- ja teknologia-alan tapahtuma, joka yhdistää kasvuyritykset merkittävimpiin kansainvälisiin vaikuttajiin, sijoittajiin ja mediaan.&nbsp;</p><p>Kaksipäiväinen tapahtuma järjestetään vuosittain talvisessa Helsingissä, keskellä yhtä maailman dynaamisimmista teknologiaekosysteemeistä.</p><p>&nbsp;</p><p>Messukeskus<br>30.11.-1.2.2023</p>",
-                "sv": "<p>Slush är ett teknologi- och tillväxtföretagsevenemang, som sammanför talang från uppstartsbranschen med internationella investerare, storföretag och medier under två dagar i Helsingfors.&nbsp;</p><p>Under den två dagar långa konferensen möts industrins kärntrupp i Helsingfors, staden som anses ha ett av världens mest dynamiska tech-ekosystem.</p><p>&nbsp;</p><p>Messukeskus<br>30.11.-1.12.2023</p>",
-                "en": "<p>Slush is the focal point for European and Asian startups and tech talent to meet with top-tier international influencers, investors and media.&nbsp;</p><p>The two-day event brings together the leading tech scene in wintery Scandinavia, amidst one of the most dynamic tech ecosystems in the world.</p><p>&nbsp;</p><p>Messukeskus<br>30.11.-1.12.2023</p>"
-            },
-            "name": {
-                "fi": "Slush 2023",
-                "sv": "Slush 2023",
-                "en": "Slush 2023"
-            },
-            "info_url": {
-                "fi": "http://www.slush.org",
-                "sv": "http://www.slush.org",
-                "en": "http://www.slush.org"
-            },
-            "location_extra_info": {
-                "fi": "",
-                "sv": "",
-                "en": ""
-            },
-            "short_description": {
-                "fi": "Slush on kasvuyritys- ja teknologia-alan tapahtuma, joka yhdistää kasvuyritykset merkittävimpiin kansainvälisiin vaikuttajiin, sijoittajiin ja mediaan.",
-                "sv": "Slush är ett teknologi- och tillväxtföretagsevenemang, som sammanför talang från uppstartsbranschen med internationella investerare, storföretag och medier",
-                "en": "Slush is the focal point for European and Asian startups and tech talent to meet with top-tier international influencers, investors and media."
-            },
-            "provider": {
-                "fi": "Slush",
-                "sv": "Slush",
-                "en": "Slush"
-            },
-            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agde7fz5zi/",
-            "@context": "http://schema.org",
-            "@type": "Event/LinkedEvent"
-        }
+                    "@type": "Event/LinkedEvent"
+                },
+                {
+                            "id": "helsinki:agcrbpk6im",
+                            "location": {
+                                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20444/"
+                            },
+                            "keywords": [
+                                {
+                                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2851/"
+                                },
+                                {
+                                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
+                                },
+                                {
+                                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p6889/"
+                                }
+                            ],
+                            "registration": null,
+                            "super_event": null,
+                            "event_status": "EventScheduled",
+                            "type_id": "General",
+                            "external_links": [],
+                            "offers": [
+                                {
+                                    "is_free": false,
+                                    "description": {
+                                        "fi": "",
+                                        "sv": "",
+                                        "en": ""
+                                    },
+                                    "price": {
+                                        "fi": "12/20€",
+                                        "sv": "12/20€",
+                                        "en": "12/20€"
+                                    },
+                                    "info_url": {
+                                        "fi": "",
+                                        "sv": "",
+                                        "en": ""
+                                    }
+                                }
+                            ],
+                            "data_source": "helsinki",
+                            "publisher": "ytj:0586977-6",
+                            "sub_events": [],
+                            "images": [
+                                {
+                                    "id": 87449,
+                                    "license": "event_only",
+                                    "created_time": "2022-12-14T13:04:20.290340Z",
+                                    "last_modified_time": "2022-12-14T13:05:23.762117Z",
+                                    "name": "Tyko Sallinen: Pyykkärit (1911)",
+                                    "url": "https://api.hel.fi/linkedevents/media/images/Sallinen-2_UCNX1kg.jpg",
+                                    "cropping": "164,0,814,650",
+                                    "photographer_name": "Kansallisgalleria / Ateneumin taidemuseo (c)  Hannu Aaltonen",
+                                    "alt_text": "Maalaus kahdesta naisesta",
+                                    "data_source": "helsinki",
+                                    "publisher": "ytj:0586977-6",
+                                    "@id": "https://api.hel.fi/linkedevents/v1/image/87449/",
+                                    "@context": "http://schema.org",
+                                    "@type": "ImageObject"
+                                }
+                            ],
+                            "videos": [],
+                            "in_language": [],
+                            "audience": [],
+                            "created_time": "2022-12-14T13:05:24.059614Z",
+                            "last_modified_time": "2023-12-13T10:36:19.530298Z",
+                            "date_published": null,
+                            "start_time": "2023-10-19T21:01:00Z",
+                            "end_time": "2024-02-25T21:59:00Z",
+                            "custom_data": null,
+                            "environmental_certificate": "",
+                            "environment": "in",
+                            "audience_min_age": null,
+                            "audience_max_age": null,
+                            "super_event_type": "umbrella",
+                            "deleted": false,
+                            "maximum_attendee_capacity": null,
+                            "minimum_attendee_capacity": 1000,
+                            "enrolment_start_time": null,
+                            "enrolment_end_time": null,
+                            "local": false,
+                            "replaced_by": null,
+                            "name": {
+                                "fi": "Väriä & valoa",
+                                "sv": "Färg & ljus",
+                                "en": "Colour and Light"
+                            },
+                            "provider": {
+                                "fi": "Ateneumin taidemuseo",
+                                "sv": "Konstmuseet Ateneum",
+                                "en": "Ateneum Art Museum"
+                            },
+                            "info_url": {
+                                "fi": "https://ateneum.fi/nayttelyt/varia-ja-valoa/",
+                                "sv": "https://ateneum.fi/sv/utstallningar/farg-och-ljus/",
+                                "en": "https://ateneum.fi/en/exhibitions/colour-and-light/"
+                            },
+                            "description": {
+                                "fi": "<p>Väriä &amp; valoa – Impressionismin perintö -näyttely esittelee impressionistista ja uusimpressionistista taidetta ajanjaksolta 1860–1916.&nbsp;</p><p>&nbsp;</p><p>Näyttely rinnastaa kansainvälisen taiteen huippunimet suomalaisen väritaiteen lyhyeen, mutta intensiiviseen kukoistuskauteen vuosina 1906–1916. Näyttelyn kansainvälisten taiteilijoiden joukossa ovat Claude Monet, August Renoir, Alfred Sisley, Camille Pissarro, Alfred William Finch, Paul Signac ja Theo van Rysselberghe.&nbsp;</p><p>&nbsp;</p><p>Kotimaisista taiteilijoista esillä ovat muun muassa Alvar Cawén, Antti Favén, Magnus Enckell, Pekka Halonen, Ellen Thesleff, Verner Thomé, Yrjö Ollila, Tyko Sallinen ja Wilho Sjöström.</p><p>&nbsp;</p><p>Ateneumin taidemuseo</p><p>20.10.2023–25.2.2024</p><p>&nbsp;</p><p>Sisäänpääsy 12/20€, alle 18-v. vapaa pääsy, 18-24-v. kuuluvat vuonna 2023 alennushintaisten lippujen piiriin</p>",
+                                "sv": "<p>Utställningen Färg &amp; ljus – arvet efter impressionismen presenterar impressionistisk och neoimpressionistisk konst från perioden 1860–1916.&nbsp;</p><p>&nbsp;</p><p>Utställningen jämför de främsta namnen inom den internationella konsten med den finländska färgkonstens korta men intensiva blomstringstid mellan 1906 och 1916. Bland utställningens internationella konstnärer kan nämnas Claude Monet, August Renoir, Alfred Sisley, Camille Pissarro, Alfred William Finch, Paul Signac och Theo van Rysselberghe.&nbsp;</p><p>&nbsp;</p><p>Verk visas också av bland annat följande inhemska konstnärer: Alvar Cawén, Antti Favén, Magnus Enckell, Pekka Halonen, Ellen Thesleff, Verner Thomé, Yrjö Ollila, Tyko Sallinen och Wilho Sjöström.</p><p>&nbsp;</p><p>Konstmuseet Ateneum</p><p>20.10.2023-25.2.2024</p><p>&nbsp;</p><p>Inträde 12/20€, under 18 år fritt inträde</p>",
+                                "en": "<p>Colour and Light – The Legacy of Impressionism exhibition introduces Impressionist and Neo-Impressionist art from the period 1860–1916.</p><p>The exhibition draws parallels between the great masters of international art and the brief but flourishing period in Finnish art from 1906 to 1916. Among the international artists included in the exhibition are Claude Monet, August Renoir, Alfred Sisley, Camille Pissarro, Alfred William Finch, Paul Signac and Theo van Rysselberghe.&nbsp;</p><p>&nbsp;</p><p>Finnish artists included in the exhibition are Alvar Cawén, Antti Favén, Magnus Enckell, Pekka Halonen, Ellen Thesleff, Verner Thóme, Yrjö Ollila, Tyko Sallinen and Wilho Sjöström, among others.<br>&nbsp;</p><p>Ateneum Art Museum</p><p>20.10.2023-25.2.2024</p><p>&nbsp;</p><p>Admission fee 12/20€, under 18 yrs free entry</p>"
+                            },
+                            "provider_contact_info": null,
+                            "short_description": {
+                                "fi": "Väriä & valoa – Impressionismin perintö",
+                                "sv": "Utställningen Färg & ljus – arvet efter impressionismen presenterar impressionistisk och neoimpressionistisk konst från perioden 1860–1916. ",
+                                "en": "Colour and Light – The Legacy of Impressionism exhibition introduces Impressionist and Neo-Impressionist art from the period 1860–1916."
+                            },
+                            "location_extra_info": {
+                                "fi": "",
+                                "sv": "",
+                                "en": ""
+                            },
+                            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agcrbpk6im/",
+                            "@context": "http://schema.org",
+                            "@type": "Event/LinkedEvent"
+                        }
     ]
 }
