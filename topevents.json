@@ -4,15 +4,608 @@
         "next": null,
         "previous": null
     },
-    "data": [
+    "data": [{
+        "id": "helsinki:aggpz665sq",
+        "location": {
+            "@id": "https://api.hel.fi/linkedevents/v1/place/matko:732/"
+        },
+        "keywords": [
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3670/"
+            }
+        ],
+        "registration": null,
+        "super_event": null,
+        "event_status": "EventScheduled",
+        "type_id": "General",
+        "external_links": [],
+        "offers": [
+            {
+                "is_free": true,
+                "info_url": {
+                    "fi": "",
+                    "sv": "",
+                    "en": ""
+                },
+                "price": null,
+                "description": null
+            }
+        ],
+        "data_source": "helsinki",
+        "publisher": "ytj:0586977-6",
+        "sub_events": [
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggtm5l7mm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agdqitwbwe/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggsb37j6m/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggiohxvsa/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agftqm6pve/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf42fmaby/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfy6f4hqq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf7wgeruu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfr34n2ka/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agft22yxli/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agftqnxpr4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agesb27esm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfbpl6s4e/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf3sfyywy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf7wa7kpa/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggblul2zq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggblu6xlu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggtkugnhi/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggtbj6ldi/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggvi6pem4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggvu7a4f4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggcjfebge/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggv6d22iu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggsc42o4u/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf7woub7m/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:af677xzshq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggyrwnpo4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggy3cigka/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggzyui4pe/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggzzbktvm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2dj5pqe/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2o6nndi/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2fa72zm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2ye2ura/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2yh5wci/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg3danacm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4ag4cq4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2n4idvu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg3ert77a/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4bkb4lm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4clky5q/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4k3qeh4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4luehb4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4q6wrry/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggwjfovka/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggfq3nlzy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5bcfokq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5fkf6ci/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5fmjpfy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg57i4gme/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5uxavte/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6kkewyy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6kbusdu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5clwjnq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6lw7kfa/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6lxxprq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6lwjanu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6ytilsa/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg664iqpm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7dmngam/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7a5v2pe/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7auqot4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7be3xoy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg66wiyd4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg677ypzi/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg663ogaq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6566z2q/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7ko4r6y/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6wvjjam/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67kpf6a/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7ddyz7a/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6wrawy4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6yw2cny/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7cjrxpi/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7c5qsf4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bdt3ku/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67qslwu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7joahyy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7lcf25a/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6w6dqze/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg674jdvu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67yc4we/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6xeynua/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67udcf4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67msfem/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67ched4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7cxtzvq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6wtudte/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg66zb44i/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7ak4qgi/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6y5foii/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7cynoky/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg663ykey/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bcragm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bbwwnq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67k7qj4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7afdjxy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7aihxhq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bginre/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6vmqd7y/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg65wjzm4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6vvca4i/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bp3fva/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg66heyai/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5vnfi7m/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg674nm24/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg65na5ja/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg64dvcpq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6ybefiq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6wvspiu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghbkvauwa/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7adngdq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agha5h3oci/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghajey7lm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghajdfoce/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghb3g2l2q/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7c5kise/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghczfu3by/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghc3ibg4i/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghc3iyn3i/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67dj7ue/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7cbkpxi/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghdqvdrxu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghdx2dypi/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghd2kyzky/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghefe2tri/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghefmgxeu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghefuu5ry/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghd23dtle/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghfdi3x7a/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghffbrzwu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghfe7h7v4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghffeiv6i/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghfotkcym/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghfoh7sb4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghgln3pwe/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhkmcxeq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhk2yawq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhxrrmbe/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhxtytx4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhxwnilm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghibf7zhu/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghibji4nq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghiahcdcm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghkhuydji/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghkriaxmm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghlty4sja/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghdz5awmy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghitlnnla/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghk2tb5h4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghk3hcerm/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghktevebq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6ink7ey/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmdu4nsi/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmn7ylzy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmo4lvpe/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmpols4a/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmpyh3ca/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghnc3nhuy/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghndugtx4/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghne3czte/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghnfjvcxq/"
+            },
+            {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghnfosvxq/"
+            }
+        ],
+        "images": [
+            {
+                "id": 101341,
+                "license": "event_only",
+                "created_time": "2024-01-12T09:19:55.323419Z",
+                "last_modified_time": "2024-01-12T09:23:33.311297Z",
+                "name": "Helsinki ruokavuosi 2024",
+                "url": "https://api.hel.fi/linkedevents/media/images/hki_paiva13_053_Lauri_Rotko_3335.jpg",
+                "cropping": "380,0,1900,1520",
+                "photographer_name": "© Lauri Rotko / Helsinki Partners",
+                "alt_text": "Henkilöitä istuu katetun pöydän äärellä",
+                "data_source": "helsinki",
+                "publisher": "ytj:0586977-6",
+                "@id": "https://api.hel.fi/linkedevents/v1/image/101341/",
+                "@context": "http://schema.org",
+                "@type": "ImageObject"
+            }
+        ],
+        "videos": [],
+        "in_language": [],
+        "audience": [],
+        "created_time": "2024-01-12T09:23:33.918063Z",
+        "last_modified_time": "2024-03-27T07:34:36.328961Z",
+        "date_published": null,
+        "start_time": "2023-12-31T22:01:00Z",
+        "end_time": "2024-12-31T21:59:00Z",
+        "custom_data": null,
+        "environmental_certificate": "",
+        "environment": "in",
+        "audience_min_age": null,
+        "audience_max_age": null,
+        "super_event_type": "umbrella",
+        "deleted": false,
+        "maximum_attendee_capacity": null,
+        "minimum_attendee_capacity": null,
+        "enrolment_start_time": null,
+        "enrolment_end_time": null,
+        "local": false,
+        "replaced_by": null,
+        "provider_contact_info": null,
+        "info_url": {
+            "fi": "https://www.hel.fi/ruokakaupunki",
+            "sv": "https://www.hel.fi/sv/beslutsfattande-och-forvaltning/information-om-helsingfors/matstaden-helsingfors",
+            "en": "https://www.hel.fi/en/decision-making/information-on-helsinki/food-city-helsinki"
+        },
+        "short_description": {
+            "fi": "Ruoka on yksi Helsingin tapahtumallisuuden ja matkailun keskeisiä teemoja vuonna 2024, jolloin Helsinki muuttuu upeiden ruokatapahtumien näyttämöksi.",
+            "sv": "Mat är ett centralt tema för Helsingfors evenemang och turism år 2024, då Helsingfors kommer att vara skådeplatsen för stora evenemang som kretsar kring mat. ",
+            "en": "Food is one of the central themes of Helsinki's events and tourism in 2024, when Helsinki will become the scene of wonderful food events. "
+        },
+        "description": {
+            "fi": "<p>Ruoka on yksi Helsingin tapahtumallisuuden ja matkailun keskeisiä teemoja vuonna 2024, jolloin Helsinki muuttuu upeiden ruokatapahtumien näyttämöksi. Yksi vuoden huipputapahtumista on Helsingin kaupungin 27. toukokuuta isännöimä pohjoismaisten ravintoloiden Michelin-tähtien julkistamistilaisuus. Se on maailman tunnetuimpia ruoka-alan tapahtumia, joka kokoaa Helsinkiin alan pohjoismaiset huiput.<br><br>Ruokavuoden tapahtumia on koko vuoden ajan. Erityisesti alkukesän ruokaviikkojen aikana 24.5.-16.6. ravintola-, matkailu- ja tapahtuma-alan toimijat esittelevät Helsingin monipuolista ruokakulttuuria kaupunkilaisille ja vierailijoille.</p>",
+            "sv": "<p>Mat är ett centralt tema för Helsingfors evenemang och turism år 2024, då Helsingfors kommer att vara skådeplatsen för stora evenemang som kretsar kring mat.&nbsp;</p><p>Ett av årets viktigaste händelser är offentliggörandet av de nordiska restaurangernas Michelin-stjärnor den 27 maj. Evenemanget som Helsingfors står värd för är ett av världens mest kända inom matbranschen och i Helsingfors samlas därför de allra främsta namnen inom matbranschen i Norden.&nbsp;</p><p>&nbsp;</p><p>Matårets evenemang ordnas under hela året. Aktörer inom restaurang-, turism- och evenemangbranschen presenterar Helsingfors mångsidiga matkultur till stadsbor och besökare särskilt under försommarens matveckor från 24.5.-16.6.2024.</p>",
+            "en": "<p>Food is one of the central themes of Helsinki's events and tourism in 2024, when Helsinki will become the scene of wonderful food events.&nbsp;</p><p>One of the top events of the year is the announcement of the Michelin stars of Nordic restaurants, hosted by the city of Helsinki on May 27. It is one of the world's most well-known events in the food industry, which gathers the Nordic tops of the industry in Helsinki.</p><p>There are food year events throughout the year. Especially during the early summer food weeks 24.5.-16.6. operators in the restaurant, tourism and event industries present Helsinki's diverse food culture to city dwellers and visitors.</p>"
+        },
+        "name": {
+            "fi": "Helsingin ruokavuosi 2024",
+            "sv": "Helsingfors matår 2024",
+            "en": "Helsinki’s Food Year  2024"
+        },
+        "location_extra_info": {
+            "fi": "",
+            "sv": "",
+            "en": ""
+        },
+        "provider": {
+            "fi": "Helsingin kaupunki",
+            "sv": "Helsingfors stad",
+            "en": "City of Helsinki"
+        },
+        "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggpz665sq/",
+        "@context": "http://schema.org",
+        "@type": "Event/LinkedEvent"
+    },
         {
-                   "id": "helsinki:agf5pkoobm",
+                   "id": "helsinki:aggf27yyli",
                    "location": {
-                       "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:8675/"
+                       "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20444/"
                    },
                    "keywords": [
                        {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p14722/"
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2739/"
                        },
                        {
                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2851/"
@@ -21,7 +614,7 @@
                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
                        },
                        {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p9593/"
+                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p6889/"
                        }
                    ],
                    "registration": null,
@@ -32,17 +625,17 @@
                    "offers": [
                        {
                            "is_free": false,
-                           "description": {
-                               "fi": "",
-                               "sv": "",
-                               "en": ""
+                           "info_url": {
+                               "fi": "https://ateneum.fi",
+                               "sv": "https://ateneum.fi",
+                               "en": "https://ateneum.fi"
                            },
                            "price": {
-                               "fi": "0-20€",
-                               "sv": "0-20€",
-                               "en": "0-20€"
+                               "fi": "https://ateneum.fi",
+                               "sv": "https://ateneum.fi",
+                               "en": "https://ateneum.fi"
                            },
-                           "info_url": {
+                           "description": {
                                "fi": "",
                                "sv": "",
                                "en": ""
@@ -50,66 +643,34 @@
                        }
                    ],
                    "data_source": "helsinki",
-                   "publisher": "ytj:3272340-6",
+                   "publisher": "ytj:0586977-6",
                    "sub_events": [],
                    "images": [
                        {
-                           "id": 99393,
+                           "id": 100293,
                            "license": "event_only",
-                           "created_time": "2023-11-16T10:17:08.114652Z",
-                           "last_modified_time": "2023-11-16T10:55:30.113715Z",
-                           "name": "Haegue Yang: Sonic Medicine Man – Hairy Mad Joint, 2023. Courtesy of the artist. Photo: Studio Haegue Yang",
-                           "url": "https://api.hel.fi/linkedevents/media/images/Haegue0-8M.jpg",
-                           "cropping": "313,0,1560,1247",
-                           "photographer_name": "Haegue Yang: Sonic Medicine Man – Hairy Mad Joint, 2023. Courtesy of the artist. Photo: Studio Haegue Yang",
-                           "alt_text": "Kulho, jossa erivärisiä tupsuja",
+                           "created_time": "2023-12-12T10:06:32.534968Z",
+                           "last_modified_time": "2023-12-12T10:07:38.958013Z",
+                           "name": "Gothic Modern",
+                           "url": "https://api.hel.fi/linkedevents/media/images/739f2ab3-e453-42d8-a463-0a3.jpg",
+                           "cropping": "380,0,1900,1520",
+                           "photographer_name": "Hugo Simberg: Kuoleman puutarha (1896). Kansallisgalleria / Ateneumin taidemuseo. Kansallisgalleria (c) Jenni Nurminen",
+                           "alt_text": "Kasveja ja puettuja luurankoja",
                            "data_source": "helsinki",
-                           "publisher": "ytj:3272340-6",
-                           "@id": "https://api.hel.fi/linkedevents/v1/image/99393/",
+                           "publisher": "ytj:0586977-6",
+                           "@id": "https://api.hel.fi/linkedevents/v1/image/100293/",
                            "@context": "http://schema.org",
                            "@type": "ImageObject"
                        }
                    ],
                    "videos": [],
-                   "in_language": [
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/language/en/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/language/fi/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
-                       }
-                   ],
-                   "audience": [
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/helsinki:aflfbatkwe/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p16486/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p23886/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3128/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p7179/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p7708/"
-                       }
-                   ],
-                   "created_time": "2023-11-16T10:25:11.707437Z",
-                   "last_modified_time": "2023-11-22T08:02:56.878338Z",
+                   "in_language": [],
+                   "audience": [],
+                   "created_time": "2023-12-12T10:07:39.619589Z",
+                   "last_modified_time": "2023-12-12T10:07:39.619609Z",
                    "date_published": null,
-                   "start_time": "2023-11-24T09:30:00Z",
-                   "end_time": "2024-04-07T16:00:00Z",
+                   "start_time": "2024-10-03T21:01:00Z",
+                   "end_time": "2025-01-26T21:59:00Z",
                    "custom_data": null,
                    "environmental_certificate": "",
                    "environment": "in",
@@ -123,52 +684,58 @@
                    "enrolment_end_time": null,
                    "local": false,
                    "replaced_by": null,
+                   "provider_contact_info": null,
+                   "info_url": {
+                       "fi": "https://ateneum.fi/nayttelyt/gothic-modern/",
+                       "sv": "https://ateneum.fi/sv/utstallningar/gothic-modern/",
+                       "en": "https://ateneum.fi/en/exhibitions/gothic-modern/"
+                   },
+                   "short_description": {
+                       "fi": "Kansainvälinen näyttely esittelee 1800- ja 1900-lukujen modernia taidetta, joka sai vaikutteita eurooppalaisesta keskiajan ja pohjoisen renessanssin taiteesta. ",
+                       "sv": "Utställningen Gothic Modern presenterar modern konst från 1800- och 1900-talen som tagit intryck från medeltidens europeiska konst ",
+                       "en": "This exhibition presents the extensive oeuvre of Eero Järnefelt (1863–1937), who grew up in a cultured, cosmopolitan family"
+                   },
+                   "description": {
+                       "fi": "<p>Kansainvälinen näyttely esittelee 1800- ja 1900-lukujen modernia taidetta, joka sai vaikutteita eurooppalaisesta keskiajan ja pohjoisen renessanssin taiteesta. Monipuolisen näyttelyn teemoihin kuuluvat kuolema ja rituaalit, mutta myös seksuaalisuus ja valaistuminen.</p><p>Pitkä tutkimusprojekti on tarkastellut ensimmäistä kertaa sitä, miten modernin ajan taiteilijat kiinnostuivat keskiajan taiteesta.&nbsp;</p><p>Näyttely kirjoittaa uudelleen modernin taiteen historiaa. Sen taiteilijoita ovat muun muassa Arnold Böcklin, Lucas Cranach vanhempi, Akseli Gallen-Kallela, Theodor Kittelsen, Käthe Kollwitz, Edvard Munch, Hugo Simberg, Helene Schjerfbeck ja Marianne Stokes.&nbsp;</p><p>Maalausten ja grafiikan teosten lisäksi esille saadaan myös esineitä, veistoksia ja huonekaluja.<br>&nbsp;</p><p>Ateneumin taidemuseo</p><p>4.10.2024-26.1.2025</p>",
+                       "sv": "<p>Utställningen Gothic Modern presenterar modern konst från 1800- och 1900-talen som tagit intryck från medeltidens europeiska konst och från nordisk renässanskonst. Till den mångsidiga utställningens teman hör död och ritualer, men också sexualitet och upplysning.</p><p>Ett långvarigt forskningsprojekt har för första gången undersökt hur moderna konstnärer blev intresserade av medeltida konst.&nbsp;</p><p>Utställningen gör en nytolkning av den moderna konstens historia. Bland konstnärerna kan nämnas Arnold Böcklin, Lucas Cranach d.ä., Akseli Gallen-Kallela, Theodor Kittelsen, Käthe Kollwitz, Edvard Munch, Hugo Simberg, Helene Schjerfbeck och Marianne Stokes.&nbsp;</p><p>Förutom målningar och grafik visas också föremål, skulpturer och möbler.<br>&nbsp;</p><p>Konstmuseet Ateneum</p><p>4.10.2024-26.1.2025</p>",
+                       "en": "<p>This international exhibition presents modern art from the 19th and 20th centuries that is inspired by European medieval and Northern Renaissance art. The themes of the diverse exhibition include death and rituals, but also sexuality and enlightenment.</p><p>A long research project has, for the first time, explored how artists of the modern era became interested in medieval art.&nbsp;</p><p>The exhibition rewrites the history of modern art. Featured artists include Arnold Böcklin, Lucas Cranach the Elder, Akseli Gallen-Kallela, Theodor Kittelsen, Käthe Kollwitz, Edvard Munch, Hugo Simberg, Helene Schjerfbeck and Marianne Stokes.&nbsp;</p><p>In addition to paintings and prints, the exhibition includes objects, sculptures and furniture.<br>&nbsp;</p><p>Ateneum Art Museum</p><p>4.10.2024-26.1.2025</p>"
+                   },
+                   "name": {
+                       "fi": "Gothic Modern",
+                       "sv": "Gothic Modern",
+                       "en": "Gothic Modern"
+                   },
                    "location_extra_info": {
                        "fi": "",
                        "sv": "",
                        "en": ""
                    },
                    "provider": {
-                       "fi": "",
-                       "sv": "HAM Helsingfors konstmuseum",
-                       "en": "HAM Helsinki Art Museum"
+                       "fi": "Ateneumin taidemuseo",
+                       "sv": "Konstmuseet Ateneum",
+                       "en": "Ateneum Art Museum"
                    },
-                   "provider_contact_info": null,
-                   "description": {
-                       "fi": "<p>Kansainvälisesti tunnetun nykytaiteilija Haegue Yangin ensimmäinen soolonäyttely Suomessa.</p><p>Loputon uteliaisuus on johdattanut Haegue Yangin (Soul, 1971) yhteiskunnan, tieteen ja ihmisyyden tutkimiseen – ja asemoinut hänet nykytaiteen tunnetuimpien nimien joukkoon. Saksassa ja Etelä-Koreassa 1990-luvun puolivälistä toiminut Yang on jatkuvassa liikkeessä ja kerää inspiraatiota erilaisista ympäristöistä. HAMiin hän tuo useita aisteja ruokkivan elämyksen.</p><p>Haegue Yang rakentaa Tennispalatsin suuriin kaarihalleihin kiehtovan veistoksellisen näyttämön, joka käsittelee toistamisen ja uudelleen esittämisen teemoja. Mukana on myös mukana ääntä ja teosten liikutteluun perustuvaa aktivointia, jota voi liittyä seuraamaan kahdesti kuukaudessa.</p><p>Näyttelyn ytimen muodostaa kaksi monumentaalista veistosryhmää: Handles (Kahvat) (2019) ja Warrior Believer Lover – Version Sonic (Soturi Uskova Rakastaja – Soiva versio) (2023).&nbsp;</p><p>Handles on kuudesta veistoksesta, seinille ripustetuista elementeistä, ja äänimaisemasta koostuva moniaistillinen kokemus. Kokonaisuus muuttaa arkiset esineet visuaalisesti vaikuttaviksi liikuteltaviksi teoksiksi, joita voidaan pitää inhimillisten ja mekaanisten olentojen hybrideinä<i>.&nbsp;</i></p><p>Warrior Believer Lover – Version Sonic<i>&nbsp;</i>on uudelleentulkinta vuonna 2011 nähdystä kunnianhimoisesta veistoskokonaisuudesta, joka koostui 33 valoveistoksesta. Nyt nähtävä soiva versio esittelee 21 kulkusilla päällystettyä ja peruukeilla, muovikasveilla, aurinkopaneeleilla, LED-valoilla ja erilaisilla luonnonmateriaaleilla kuten kävyillä koristeltua teosta.&nbsp;&nbsp;</p><p>Teoksia Handles ja Warrior Believer Lover – Version Sonic säestää ajoittain Isang Yunin<strong>&nbsp;</strong>(1917–1995) ja Igor Stravinskyn (1882–1971) musiikki, luoden immersiivisiä veistoksellisia sinfonioita.</p><p>&nbsp;</p><p>Helsingin taidemuseo HAM</p><p>24.11.2023-7.4.2024</p><p>Siasäänpääsy 0-20€</p>",
-                       "sv": "<p>På HAM visas den internationellt kända nutidskonstnären Haegue Yangs första separatutställning i Finland.&nbsp;</p><p>Haegue Yangs (Seoul, 1971) ändlösa nyfikenhet har lett henne till ett utforskande av samhället, vetenskapen och människans varande – och placerat henne bland de mest kända namnen inom nutidskonsten. Yang som har verkat i Tyskland och Sydkorea sedan mitten av 1990-talet, befinner sig i ständig rörelse och samlar inspiration ur olika miljöer.</p><p>Haegue Yang är känd för sin arbetsamma och på samma gång fria teknik som öser ur olika kulturers hantverkstraditioner, och i vilken industriellt framställda och naturliga material förenas. Hennes uttryckssätt överskrider gränser, föder immersiva och sinnliga upplevelser samt inspirerar till att se nya synvinklar.</p><p>Utställningens kärna utgörs av två monumentala skulpturgrupper: Handles (Handtag) (2019) och Warrior Believer Lover – Version Sonic (Krigare Troende Älskande – Sonisk version) (2023).&nbsp;</p><p>Handtag som visades första gången på MoMa i New York år 2019 är en multisensorisk upplevelse som består av sex skulpturer, element som är upphängda på väggarna samt ett ljudlandskap. Helheten förvandlar vardagliga föremål till visuellt imponerande rörliga verk som kan ses som hybrider mellan mänskliga och mekaniska varelser.&nbsp;</p><p>Warrior Believer Lover – Version Sonic är en nytolkning av en ambitiös skulpturhelhet som visades år 2011, och som består av 33 ljusskulpturer. Sonisk version som vi nu ser visar 21 verk täckta med bjällror och dekorerade med peruker, plastväxter, solpaneler, LED-ljus och olika slags naturmaterial som tex kottar. Verken Handles och Warrior Believer Lover – Version Sonic ackompanjeras emellanåt av Isang Yuns (1917–1995) och Igor Stravinskijs (1882–1971) musik, och skapar därigenom immersiva skulpturala symfonier.</p><p>&nbsp;</p><p>Helsingfors konstmuseum HAM</p><p>27.11.2023-7.4.2024</p><p>Inträde 0-20€</p>",
-                       "en": "<p>HAM is delighted to present Haegue Yang’s first solo exhibition in Finland. Taking over HAM’s two main exhibition halls.</p><p>Dividing her time between Germany and Korea since the mid-1990s, Haegue Yang (Seoul, 1971) has been gathering inspiration from a wide range of social, historical, and cultural environments.  Her relentless curiosity has led to philosophical inquiries into diverse fields, including socio-political narratives, scientific phenomena, and anthropological perspectives, positioning her at the forefront of the contemporary art world today. &nbsp;</p><p>For HAM’s main exhibition halls, Yang builds an enthralling arena with sonic and performative elements to examine the concepts of recurrence and reenactment.&nbsp;</p><p>At the heart of the exhibition, visitors will encounter two monumental sculptural ensembles: Handles (2019) and Warrior Believer Lover – Version Sonic (2023).&nbsp;</p><p> Handles is a multisensory installation comprising six sculptures with elements of wall objects and floor graphic adhesives, and an intricate soundscape. These sculptures are transformative, turning mundane objects into visually striking, movable artworks, and can be seen as hybrids, blurring the distinctions between human and technological beings.&nbsp;</p><p>Warrior Believer Lover – Version Sonic is a reenactment of Warrior Believer Lover, Yang’s ambitious sculptural ensemble from 2011. While the predecessor consists of 33 anthropomorphic light sculptures, the new <i>Version Sonic</i> has so far evolved into a group of 21 sculptures, still in process of its completion. Their skin is covered with bells and festooned with wigs, artificial plants, solar panels, and LED lights alongside authentic organic materials such as dried pinecones.&nbsp;</p><p>Periodically, music by Isang Yun (1917–1995) and Igor Stravinsky (1882–1971) will accompany Handles and Warrior Believer Lover – Version Sonic respectively, creating immersive sculptural symphonies.&nbsp;&nbsp;</p><p>&nbsp;</p><p>Helsinki Art Museum HAM</p><p>27.11.2023-7.4.2024</p><p>Admission fee 0-20€</p>"
-                   },
-                   "short_description": {
-                       "fi": "Kansainvälisesti tunnetun nykytaiteilija Haegue Yangin ensimmäinen soolonäyttely Suomessa.",
-                       "sv": "På HAM visas den internationellt kända nutidskonstnären Haegue Yangs första separatutställning i Finland. ",
-                       "en": "HAM is delighted to present Haegue Yang’s first solo exhibition in Finland. Taking over HAM’s two main exhibition halls."
-                   },
-                   "name": {
-                       "fi": "Haegue Yang: Kerroksellisia uudelleentulkintoja",
-                       "sv": "Haegue Yang: Kontinuerliga återskapanden",
-                       "en": "Haegue Yang: Continuous Reenactments"
-                   },
-                   "info_url": {
-                       "fi": "https://www.hamhelsinki.fi/exhibitions/haegue-yang/",
-                       "sv": "https://www.hamhelsinki.fi/sv/exhibitions/haegue-yang/",
-                       "en": "https://www.hamhelsinki.fi/en/exhibitions/haegue-yang/"
-                   },
-                   "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf5pkoobm/",
+                   "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggf27yyli/",
                    "@context": "http://schema.org",
                    "@type": "Event/LinkedEvent"
                },
         {
-                    "id": "helsinki:aggo4iz67m",
+                    "id": "helsinki:agapt26xz4",
                     "location": {
-                        "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:55959/"
+                        "@id": "https://api.hel.fi/linkedevents/v1/place/matko:732/"
                     },
                     "keywords": [
                         {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2149/"
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20211/"
                         },
                         {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2771/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p6231/"
+                        },
+                        {
+                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p965/"
                         }
                     ],
                     "registration": null,
@@ -178,22 +745,10 @@
                     "external_links": [],
                     "offers": [
                         {
-                            "is_free": false,
-                            "description": {
-                                "fi": "",
-                                "sv": "",
-                                "en": ""
-                            },
-                            "price": {
-                                "fi": "20€",
-                                "sv": "20€",
-                                "en": "20€"
-                            },
-                            "info_url": {
-                                "fi": "https://amosrex.johku.com/fi_FI/tapahtumat/ryoji-ikeda-avoin-intro",
-                                "sv": "https://amosrex.johku.com/sv_SE/evenemang/ryoji-ikeda-oppen-intro",
-                                "en": "https://amosrex.johku.com/en_US/events/ryoji-ikeda-open-intro"
-                            }
+                            "is_free": true,
+                            "info_url": null,
+                            "price": null,
+                            "description": null
                         }
                     ],
                     "data_source": "helsinki",
@@ -201,18 +756,18 @@
                     "sub_events": [],
                     "images": [
                         {
-                            "id": 101194,
+                            "id": 80217,
                             "license": "event_only",
-                            "created_time": "2024-01-09T12:11:02.622631Z",
-                            "last_modified_time": "2024-01-09T12:12:15.749271Z",
-                            "name": "Intro-opastukset Ryoji Ikedaan",
-                            "url": "https://api.hel.fi/linkedevents/media/images/Ryoji_Ikeda_data-verse_1_2019-Tuomas_Uusheimo-1920x1280.jpg",
-                            "cropping": "289,0,1439,1150",
-                            "photographer_name": "© Tuomas Uusheimo / Amos Rex",
-                            "alt_text": "Näyttelytila, jossa kaksi henkilöä seisoo taideteoksen edessä",
+                            "created_time": "2022-05-25T06:29:52.054344Z",
+                            "last_modified_time": "2022-05-25T06:33:44.475492Z",
+                            "name": "Tall Ships Races",
+                            "url": "https://api.hel.fi/linkedevents/media/images/969b1060-619c-4765-b6ab-ff6.jpg",
+                            "cropping": "182,0,983,800",
+                            "photographer_name": "Helsingin kaupunki (c) Kimmo Kivirinta",
+                            "alt_text": "Tuomiokirkko ja purjalaiva",
                             "data_source": "helsinki",
                             "publisher": "ytj:0586977-6",
-                            "@id": "https://api.hel.fi/linkedevents/v1/image/101194/",
+                            "@id": "https://api.hel.fi/linkedevents/v1/image/80217/",
                             "@context": "http://schema.org",
                             "@type": "ImageObject"
                         }
@@ -220,11 +775,11 @@
                     "videos": [],
                     "in_language": [],
                     "audience": [],
-                    "created_time": "2024-01-09T12:12:16.516203Z",
-                    "last_modified_time": "2024-01-09T12:12:16.516225Z",
+                    "created_time": "2022-05-25T06:33:44.672270Z",
+                    "last_modified_time": "2022-05-25T06:33:44.672310Z",
                     "date_published": null,
-                    "start_time": "2024-02-06T22:01:00Z",
-                    "end_time": "2024-02-09T21:59:00Z",
+                    "start_time": "2024-07-03T21:01:00Z",
+                    "end_time": "2024-07-07T20:59:00Z",
                     "custom_data": null,
                     "environmental_certificate": null,
                     "environment": null,
@@ -238,359 +793,35 @@
                     "enrolment_end_time": null,
                     "local": false,
                     "replaced_by": null,
+                    "provider_contact_info": null,
+                    "info_url": {
+                        "fi": "https://www.hel.fi/uutiset/fi/kaupunginkanslia/helsinki-yksi-tall-ships-races-2024-kohdesatamista",
+                        "en": "https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-one-of-the-host-ports-of-tall-ships-races-2024"
+                    },
+                    "short_description": {
+                        "fi": "Tuhansien nuorten kansainvälinen purjehdustapahtuma Tall Ships Races, järjestetään Itämerellä joka neljäs vuosi.",
+                        "en": "The annual Tall Ships Races event is held in the Baltic Sea region every fourth year. "
+                    },
+                    "description": {
+                        "fi": "<p>Tuhansien nuorten kansainvälinen purjehdustapahtuma Tall Ships Races, järjestetään Itämerellä joka neljäs vuosi. Tosin vuodelle 2021 suunniteltu tapahtuma jouduttiin perumaan koronapandemian vuoksi, joten vuonna 2024 se järjestetään ensimmäistä kertaa vuoden 2017 jälkeen.</p>\n<p>&nbsp;</p>\n<p>Tapahtuman pääpaino on nuorisotyössä. Tapahtuman tarkoitus on edistää yhteisen purjehdustapahtuman kautta nuorten koulutusta ja yhteistyötä kansallisuuteen, kulttuuritaustaan, uskontoon ja sosiaaliseen taustaan katsomatta.</p>\n<p></p>\n<p>Helsinki on toiminut Tall Ships Races -kilpailujen kohdesatamana vuosina 1972, 1988, 2000 ja viimeksi vuonna 2013. Tuolloin tapahtumaan osallistui noin 100 alusta eri puolilta maailmaa ja se keräsi Hietalahden alueelle yhteensä noin 500 000 kävijää.</p>\n<p></p>\n<p>Helsinki</p>\n<p>4.-7.7.2024</p>",
+                        "en": "<p>The annual Tall Ships Races event is held in the Baltic Sea region every fourth year.&nbsp;&nbsp;</p>\n<p></p>\n<p>An international sailing event for thousands of young people, Tall Ships Races is arranged in the Baltic Sea region for the first time since 2017, as the event planned for 2021 had to be cancelled due to the coronavirus pandemic.&nbsp;</p>\n<p></p>\n<p>The event puts emphasis on youth work. The aim of the event is to promote the education and development of young people of all nationalities, religions and social backgrounds, through sail training.&nbsp;</p>\n<p></p>\n<p>Helsinki has previously been a host port of the Tall Ships Races in 1972, 1988, 2000 and in 2013. In 2013, there were around 100 ships from all over the world participating in the event, which attracted some 500,000 visitors to the Hietalahti area.</p>\n<p></p>\n<p>Helsinki</p>\n<p>4.-7.7.2024</p>"
+                    },
+                    "name": {
+                        "fi": "Tall Ships Races 2024",
+                        "en": "Tall Ships Races 2024"
+                    },
                     "location_extra_info": {
                         "fi": "",
-                        "sv": "",
                         "en": ""
                     },
                     "provider": {
-                        "fi": "Amos Rex",
-                        "sv": "Amos Rex",
-                        "en": "Amos Rex"
+                        "fi": "Sail Training International (STI)",
+                        "en": "Sail Training International (STI)"
                     },
-                    "provider_contact_info": null,
-                    "description": {
-                        "fi": "<p>Amos Rexin järjestämällä intro-opastuksella pääsee kuulemaan lisää Ryoji Ikeadasta ja hänen taiteestaan, ja saada oppailta vinkkejä näyttelyvierailuun ennen näyttelyyn uppoutumista. Helmikuussa 2024 Amos Rex tarjoaa intro-opastuksia pääsylipun hinnalla.&nbsp;<br><br>Intro kestää noin 20 minuuttia, ja pidetään museon taidepajatila Studio Rexissä. Intron jälkeen voit vierailla näyttelyssä vapaasti.<br><br>Varaa paikkasi opastukselle ennakkoon; intro-opastusten pääsyliput myydään netissä. Introlle pääset museon pääsylipunhinnalla. Ennen varaamista, tarkista, minkä kieliselle opastukselle olet tulossa.<br><br>Amos Rex<br>Ke 7.2.2024<br>Klo 17.00 suomeksi<br>Klo 17.30 ruotsiksi<br>Klo 18.00 englanniksi<br><br>To 8.2.2024<br>Klo 17.00 suomeksi<br>Klo 17.30 ruotsiksi<br>Klo 18.00 englanniksi<br><br>Pe 9.2.2024<br>Klo 17.00 suomeksi<br>Klo 17.30 ruotsiksi<br>Klo 18.00 englanniksi<br><br>Liput:<br>20 € - normaalihintainen<br>15 € - eläkeläinen<br>5 € - opiskelijat / alle 30-vuotiaat / työttömät<br>0 € - museokortti / alle 18-vuotiaat</p>",
-                        "sv": "<p>Under intro-guidningen som ordnas av Amos Rex får man veta mer om konstnären Ryoji Ikeda och hans verk, och få tips av museets guider inför besöket innan man upplever utställningen. Under den andra veckan i februari erbjuder Amos Rex intro-guidningar till priset av en inträdesbiljett.<br><br>Introt tar ungefär 20 minuter och arrangeras i museets konstverkstad Studio Rex. Efter introt kan man besöka utställningen fritt.&nbsp;<br><br>Boka din plats för guidningen i förväg. Själva introduktionen är gratis, men man behöver en inträdesbiljett från Amos Rex nätsida. Innan du bokar, observera språket då du bokar guidningen.<br><br>Öppna intro-guidningar hålls:<br><br>Onsdag 7.2.2024<br>kl. 17.00 på finska<br>kl. 17.30 på svenska<br>kl. 18.00 på engelska<br><br>Torsdag 8.2.2024<br>kl. 17.00 på finska<br>kl. 17.30 på svenska<br>kl. 18.00 på engelska<br><br>Fredag 9.2.2024<br>kl. 17.00 på finska<br>kl. 17.30 på svenska<br>kl. 18.00 på engelska<br><br>Biljettpriser:<br>20 € - normalpris<br>15 € - pensionärer<br>5 € - studerande, arbetslösa och alla under 30 år<br>0 € - med museikort och alla under 18 år</p>",
-                        "en": "<p>During the guided introduction you can hear more about Ryoji Ikeda and his art before visiting the exhibition. During the second week of February, Amos Rex offers guided introductions to the exhibition for the price of your entrance ticket.<br><br>The guided introds are approximately 20 minutes long. They are held in Amos Rex’s art workshop space Studio Rex. After the intro, you can visit Amos Rex and the exhibition freely.<br><br>Book your intro tickets in advance online. Intro tickets cost the same as Amos Rex’s admission. Before booking, please check what language your guided introduction is held in.<br><br>Wednesday 7 February 2024<br>5:00 PM in Finnish<br>5:30 PM in Swedish<br>6:00 PM in English</p><p>Thursday 8 February 2024<br>5:00 PM in Finnish<br>5:30 PM in Swedish<br>6:00 PM in English</p><p>Friday 9 February 2024<br>5:00 PM in Finnish<br>5:30 PM in Swedish<br>6:00 PM in English<br><br>Tickets:&nbsp;<br>20 € – General admission<br>15 € – Reduced price<br>5 € – Students, unemployed and everyone under 30 years old<br>0 € – Museum Card/children 0-17 years/ICOM card/press card</p>"
-                    },
-                    "short_description": {
-                        "fi": "Amos Rexin järjestämällä intro-opastuksella pääsee kuulemaan lisää Ryoji Ikeadasta",
-                        "sv": "Under intro-guidningen som ordnas av Amos Rex får man veta mer om konstnären Ryoji Ikeda och hans verk",
-                        "en": "During the guided introduction you can hear more about Ryoji Ikeda and his art"
-                    },
-                    "name": {
-                        "fi": "Intro-opastukset Ryoji Ikedaan",
-                        "sv": "Öppna intro-guidningar till Ryoji Ikeda",
-                        "en": "Guided introductions to Ryoji Ikeda"
-                    },
-                    "info_url": {
-                        "fi": "https://amosrex.fi/tapahtumat/intro-opastukset/",
-                        "sv": "https://amosrex.fi/sv/evenemang/intro-guidningar/",
-                        "en": "https://amosrex.fi/en/events/guided-introductions/"
-                    },
-                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggo4iz67m/",
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agapt26xz4/",
                     "@context": "http://schema.org",
                     "@type": "Event/LinkedEvent"
-                },
-                {
-                    "id": "helsinki:agfiiynbvi",
-                    "location": {
-                        "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:55959/"
-                    },
-                    "keywords": [
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p11955/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15737/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2739/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2851/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4934/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5450/"
-                        }
-                    ],
-                    "registration": null,
-                    "super_event": null,
-                    "event_status": "EventScheduled",
-                    "type_id": "General",
-                    "external_links": [],
-                    "offers": [
-                        {
-                            "is_free": false,
-                            "description": {
-                                "fi": "Normaali sisäänpääsy",
-                                "sv": "Biljettpris",
-                                "en": "General admission"
-                            },
-                            "price": {
-                                "fi": "20 €",
-                                "sv": "20 €",
-                                "en": "20 €"
-                            },
-                            "info_url": {
-                                "fi": "https://amosrex.fi/tule-meille/#liput",
-                                "sv": "https://amosrex.fi/sv/besok-oss/#Biljetter",
-                                "en": "https://amosrex.fi/en/visit-us/#tickets"
-                            }
-                        },
-                        {
-                            "is_free": false,
-                            "description": {
-                                "fi": "Alennettu hinta: \tEläkeläiset, opettajat OAJ -kortilla sekä vammaiskortilla",
-                                "sv": "Rabatterat pris: Pensioner, lärare med OAJ-kort, eller med funktionshinderkort.",
-                                "en": "Reduced price: For pensioners, teachers with a union card, conscripts, non-military servicemen, or with an EU disability card."
-                            },
-                            "price": {
-                                "fi": "15 €",
-                                "sv": "15 €",
-                                "en": "15 €"
-                            },
-                            "info_url": {
-                                "fi": "",
-                                "sv": "",
-                                "en": ""
-                            }
-                        },
-                        {
-                            "is_free": false,
-                            "description": {
-                                "fi": "Alle 30-vuotiaat, työttömät, varushenkilöt, siviilipalvelushenkilöt sekä opiskelijat",
-                                "sv": "Studerande, arbetslösa, beväringar, civiltjänstepliktiga och alla under 30 år",
-                                "en": "Students, unemployed, conscripts, non-military servicemen and everyone under 30 years old:"
-                            },
-                            "price": {
-                                "fi": "5 €",
-                                "sv": "5 €",
-                                "en": "5 €"
-                            },
-                            "info_url": {
-                                "fi": "",
-                                "sv": "",
-                                "en": ""
-                            }
-                        },
-                        {
-                            "is_free": false,
-                            "description": {
-                                "fi": "Alle 18-vuotiaat & muut: Museokortti, lapset ja nuoret (0–17v.), henkilökohtainen avustaja, Helsinki Card, ICOM-kortti, pressikortti.",
-                                "sv": "Under 18 år och övriga: \tMuseikort, barn (0–17 år), Helsinki Card, personliga assistenter, ICOM-kort, presskort.",
-                                "en": "Under 18 year olds & others: Museum Card, children (0–17 years), personal assistant, Helsinki Card, press card, ICOM card"
-                            },
-                            "price": {
-                                "fi": "0 €",
-                                "sv": "0 €",
-                                "en": "0 €"
-                            },
-                            "info_url": {
-                                "fi": "",
-                                "sv": "",
-                                "en": ""
-                            }
-                        }
-                    ],
-                    "data_source": "helsinki",
-                    "publisher": "kultus:39",
-                    "sub_events": [
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfp7oh2ha/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfwcxwsye/"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "id": 97598,
-                            "license": "cc_by",
-                            "created_time": "2023-10-12T09:24:03.039844Z",
-                            "last_modified_time": "2023-10-12T09:25:35.729454Z",
-                            "name": "Ryoji Ikeda",
-                            "url": "https://api.hel.fi/linkedevents/media/images/Ryoji-Ikeda-data-verse-1-20.jpg",
-                            "cropping": "338,0,1687,1348",
-                            "photographer_name": "Ryoji Ikeda, data-verse 2, 2019  (c) Tuomas Uusheimo / Amos Rex",
-                            "alt_text": "Kaksi ihmistä ja valotaideteos",
-                            "data_source": "helsinki",
-                            "publisher": "kultus:39",
-                            "@id": "https://api.hel.fi/linkedevents/v1/image/97598/",
-                            "@context": "http://schema.org",
-                            "@type": "ImageObject"
-                        }
-                    ],
-                    "videos": [],
-                    "in_language": [],
-                    "audience": [
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p11617/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p13050/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5590/"
-                        }
-                    ],
-                    "created_time": "2023-09-11T13:15:05.527571Z",
-                    "last_modified_time": "2023-10-12T09:25:36.249633Z",
-                    "date_published": null,
-                    "start_time": "2023-09-27T08:00:00Z",
-                    "end_time": "2024-02-25T15:00:00Z",
-                    "custom_data": null,
-                    "environmental_certificate": "",
-                    "environment": "in",
-                    "audience_min_age": null,
-                    "audience_max_age": null,
-                    "super_event_type": "umbrella",
-                    "deleted": false,
-                    "maximum_attendee_capacity": null,
-                    "minimum_attendee_capacity": null,
-                    "enrolment_start_time": null,
-                    "enrolment_end_time": null,
-                    "local": false,
-                    "replaced_by": null,
-                    "location_extra_info": {
-                        "fi": "",
-                        "sv": "",
-                        "en": ""
-                    },
-                    "provider": {
-                        "fi": "",
-                        "sv": "",
-                        "en": ""
-                    },
-                    "provider_contact_info": null,
-                    "description": {
-                        "fi": "<p>Räjähdyksenomainen paljous ja pelkistetty viivapiirrosestetiikka, ääni ja äänettömyys, säikkyvä valo ja pimenevät kuvaruudut – japanilainen säveltäjä ja taiteilija Ryoji Ikeda valtaa Amos Rexin tarkan äänimaiseman ja liikkuvan kuvan keinoin.</p><p>Japanilaisen säveltäjä ja taiteilija Ryoji Ikedan (1966) teokset perustuvat tarkkaan äänimaisemaan ja liikkuvaan kuvaan. Taiteilija työstää kaikkia materiaalejaan säveltäjän tapaan. Oli sitten kyse äänitaajuudesta, fyysisestä tilasta, kuvapikselistä, datapisteestä tai sykkivästä valosta, Ikedalle ne ovat kaikki osa sävellysprosessia.</p><p>Amos Rexin arkkitehtuurin innostama näyttely koostuu viidestä installaatiosta, jotka käsittelevät maailmankaikkeuden näkymättömiä ulottuvuuksia ja haastavat havainnon rajoja. Viiden installaation joukossa nähdään kaksi uutta teosta, joiden lähtökohtana on ollut taiteilijan välitön kokemus maanalaisesta museostamme.</p><p>Näyttelyn on kuratoinut Terhi Tuomi.&nbsp;</p><p>&nbsp;</p><p>Amos Rex</p><p>27.9.2023-25.2.2024</p><p>Sisäänpääsy 0-20€</p>",
-                        "sv": "<p>Ikedas konst gör det osynliga synligt – han arbetar med ljud, rytm, ljus och visualisering av data. Han inspireras också av de fysiska fenomenens och matematiska principernas värld. I centrum för konstnärens arbete står framför allt den helhetsbetonade komponeringsprocessen. &nbsp;<br>&nbsp;</p><p>På utställningen visas fem noggrant utvalda verk från 2019–2023. De ingår i en mer omfattande följd av verk som handlar om datauniversum. Konstnärens direkta upplevelse av rummet och arkitekturen har utgjort grunden till helheten som innefattar två nya rumsliga verk. Ikeda använder utställningssalarna som audiovisuella klangbottnar, vilket får sinnena att skärpas på överraskande sätt.</p><p>Konstnären har använt data som material i över 17 år. I det ändlösa snåret av data har han spjälkat upp, rytmiserat, kombinerat samt zoomat in och ut. Ikedas verk har figurerat på konst- och musikvärldens ansedda arenor runtom i världen. Helheten i Amos Rex är hans första separatutställning i Finland. Konstnären bor huvudsakligen i Paris, men arbetar också i Kyoto.</p><p>&nbsp;</p><p>Amos Rex</p><p>27.9.2023-25.2.2024</p><p>Inträde 0-20€</p>",
-                        "en": "<p>Explosive abundance and simple line drawings, sound and silence, pulsating light and suddenly darkening screens - Japanese composer and artist Ryoji Ikeda takes over the cavernous spaces of the museum with a precise soundscape and moving image.</p><p>Based on data visualisation, rhythm, light and sound, his installations explore the invisible dimensions of the universe and the limits of perception with almost mathematical precision. Ikeda’s exhibition at Amos Rex draws inspiration from the museum’s extraordinary architecture. On view are five installations, which explore the invisible dimensions of the universe and pushes the limits of perception. Among the five installations are two new works that Ikeda created on the basis of his immediate spatial experience of our subterranean museum.</p><p>The exhibition is curated by Terhi Tuomi.</p><p>&nbsp;</p><p>Amos Rex</p><p>27.9.2023-25.2.2024</p><p>Admission fee 0-20€</p>"
-                    },
-                    "short_description": {
-                        "fi": "Räjähdyksenomainen paljous ja pelkistetty viivapiirrosestetiikka, ääni ja äänettömyys, säikkyvä valo ja pimenevät kuvaruudut",
-                        "sv": "Den japanske kompositören och konstnären Ryoji Ikeda har tagit museets grottliknande utställningsutrymmen i besittning .",
-                        "en": "Explosive abundance and simple line drawings, sound and silence, pulsating light and suddenly darkening screens - Japanese composer and artist Ryoji Ikeda takes"
-                    },
-                    "name": {
-                        "fi": "Ryoji Ikeda",
-                        "sv": "Ryoji Ikeda",
-                        "en": "Ryoji Ikeda"
-                    },
-                    "info_url": {
-                        "fi": "https://amosrex.fi/nayttelyt/ryoji-ikeda/",
-                        "sv": "https://amosrex.fi/sv/utstallningar/ryoji-ikeda/",
-                        "en": "https://amosrex.fi/en/exhibitions/ryoji-ikeda/"
-                    },
-                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfiiynbvi/",
-                    "@context": "http://schema.org",
-                    "@type": "Event/LinkedEvent"
-                },
-                {
-                            "id": "helsinki:agcrbpk6im",
-                            "location": {
-                                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20444/"
-                            },
-                            "keywords": [
-                                {
-                                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2851/"
-                                },
-                                {
-                                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
-                                },
-                                {
-                                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p6889/"
-                                }
-                            ],
-                            "registration": null,
-                            "super_event": null,
-                            "event_status": "EventScheduled",
-                            "type_id": "General",
-                            "external_links": [],
-                            "offers": [
-                                {
-                                    "is_free": false,
-                                    "description": {
-                                        "fi": "",
-                                        "sv": "",
-                                        "en": ""
-                                    },
-                                    "price": {
-                                        "fi": "12/20€",
-                                        "sv": "12/20€",
-                                        "en": "12/20€"
-                                    },
-                                    "info_url": {
-                                        "fi": "",
-                                        "sv": "",
-                                        "en": ""
-                                    }
-                                }
-                            ],
-                            "data_source": "helsinki",
-                            "publisher": "ytj:0586977-6",
-                            "sub_events": [],
-                            "images": [
-                                {
-                                    "id": 87449,
-                                    "license": "event_only",
-                                    "created_time": "2022-12-14T13:04:20.290340Z",
-                                    "last_modified_time": "2022-12-14T13:05:23.762117Z",
-                                    "name": "Tyko Sallinen: Pyykkärit (1911)",
-                                    "url": "https://api.hel.fi/linkedevents/media/images/Sallinen-2_UCNX1kg.jpg",
-                                    "cropping": "164,0,814,650",
-                                    "photographer_name": "Kansallisgalleria / Ateneumin taidemuseo (c)  Hannu Aaltonen",
-                                    "alt_text": "Maalaus kahdesta naisesta",
-                                    "data_source": "helsinki",
-                                    "publisher": "ytj:0586977-6",
-                                    "@id": "https://api.hel.fi/linkedevents/v1/image/87449/",
-                                    "@context": "http://schema.org",
-                                    "@type": "ImageObject"
-                                }
-                            ],
-                            "videos": [],
-                            "in_language": [],
-                            "audience": [],
-                            "created_time": "2022-12-14T13:05:24.059614Z",
-                            "last_modified_time": "2023-12-13T10:36:19.530298Z",
-                            "date_published": null,
-                            "start_time": "2023-10-19T21:01:00Z",
-                            "end_time": "2024-02-25T21:59:00Z",
-                            "custom_data": null,
-                            "environmental_certificate": "",
-                            "environment": "in",
-                            "audience_min_age": null,
-                            "audience_max_age": null,
-                            "super_event_type": "umbrella",
-                            "deleted": false,
-                            "maximum_attendee_capacity": null,
-                            "minimum_attendee_capacity": 1000,
-                            "enrolment_start_time": null,
-                            "enrolment_end_time": null,
-                            "local": false,
-                            "replaced_by": null,
-                            "name": {
-                                "fi": "Väriä & valoa",
-                                "sv": "Färg & ljus",
-                                "en": "Colour and Light"
-                            },
-                            "provider": {
-                                "fi": "Ateneumin taidemuseo",
-                                "sv": "Konstmuseet Ateneum",
-                                "en": "Ateneum Art Museum"
-                            },
-                            "info_url": {
-                                "fi": "https://ateneum.fi/nayttelyt/varia-ja-valoa/",
-                                "sv": "https://ateneum.fi/sv/utstallningar/farg-och-ljus/",
-                                "en": "https://ateneum.fi/en/exhibitions/colour-and-light/"
-                            },
-                            "description": {
-                                "fi": "<p>Väriä &amp; valoa – Impressionismin perintö -näyttely esittelee impressionistista ja uusimpressionistista taidetta ajanjaksolta 1860–1916.&nbsp;</p><p>&nbsp;</p><p>Näyttely rinnastaa kansainvälisen taiteen huippunimet suomalaisen väritaiteen lyhyeen, mutta intensiiviseen kukoistuskauteen vuosina 1906–1916. Näyttelyn kansainvälisten taiteilijoiden joukossa ovat Claude Monet, August Renoir, Alfred Sisley, Camille Pissarro, Alfred William Finch, Paul Signac ja Theo van Rysselberghe.&nbsp;</p><p>&nbsp;</p><p>Kotimaisista taiteilijoista esillä ovat muun muassa Alvar Cawén, Antti Favén, Magnus Enckell, Pekka Halonen, Ellen Thesleff, Verner Thomé, Yrjö Ollila, Tyko Sallinen ja Wilho Sjöström.</p><p>&nbsp;</p><p>Ateneumin taidemuseo</p><p>20.10.2023–25.2.2024</p><p>&nbsp;</p><p>Sisäänpääsy 12/20€, alle 18-v. vapaa pääsy, 18-24-v. kuuluvat vuonna 2023 alennushintaisten lippujen piiriin</p>",
-                                "sv": "<p>Utställningen Färg &amp; ljus – arvet efter impressionismen presenterar impressionistisk och neoimpressionistisk konst från perioden 1860–1916.&nbsp;</p><p>&nbsp;</p><p>Utställningen jämför de främsta namnen inom den internationella konsten med den finländska färgkonstens korta men intensiva blomstringstid mellan 1906 och 1916. Bland utställningens internationella konstnärer kan nämnas Claude Monet, August Renoir, Alfred Sisley, Camille Pissarro, Alfred William Finch, Paul Signac och Theo van Rysselberghe.&nbsp;</p><p>&nbsp;</p><p>Verk visas också av bland annat följande inhemska konstnärer: Alvar Cawén, Antti Favén, Magnus Enckell, Pekka Halonen, Ellen Thesleff, Verner Thomé, Yrjö Ollila, Tyko Sallinen och Wilho Sjöström.</p><p>&nbsp;</p><p>Konstmuseet Ateneum</p><p>20.10.2023-25.2.2024</p><p>&nbsp;</p><p>Inträde 12/20€, under 18 år fritt inträde</p>",
-                                "en": "<p>Colour and Light – The Legacy of Impressionism exhibition introduces Impressionist and Neo-Impressionist art from the period 1860–1916.</p><p>The exhibition draws parallels between the great masters of international art and the brief but flourishing period in Finnish art from 1906 to 1916. Among the international artists included in the exhibition are Claude Monet, August Renoir, Alfred Sisley, Camille Pissarro, Alfred William Finch, Paul Signac and Theo van Rysselberghe.&nbsp;</p><p>&nbsp;</p><p>Finnish artists included in the exhibition are Alvar Cawén, Antti Favén, Magnus Enckell, Pekka Halonen, Ellen Thesleff, Verner Thóme, Yrjö Ollila, Tyko Sallinen and Wilho Sjöström, among others.<br>&nbsp;</p><p>Ateneum Art Museum</p><p>20.10.2023-25.2.2024</p><p>&nbsp;</p><p>Admission fee 12/20€, under 18 yrs free entry</p>"
-                            },
-                            "provider_contact_info": null,
-                            "short_description": {
-                                "fi": "Väriä & valoa – Impressionismin perintö",
-                                "sv": "Utställningen Färg & ljus – arvet efter impressionismen presenterar impressionistisk och neoimpressionistisk konst från perioden 1860–1916. ",
-                                "en": "Colour and Light – The Legacy of Impressionism exhibition introduces Impressionist and Neo-Impressionist art from the period 1860–1916."
-                            },
-                            "location_extra_info": {
-                                "fi": "",
-                                "sv": "",
-                                "en": ""
-                            },
-                            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agcrbpk6im/",
-                            "@context": "http://schema.org",
-                            "@type": "Event/LinkedEvent"
-                        }
+                }
+        
     ]
 }
