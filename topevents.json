@@ -4,824 +4,401 @@
         "next": null,
         "previous": null
     },
-    "data": [{
-        "id": "helsinki:aggpz665sq",
-        "location": {
-            "@id": "https://api.hel.fi/linkedevents/v1/place/matko:732/"
-        },
-        "keywords": [
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3670/"
-            }
-        ],
-        "registration": null,
-        "super_event": null,
-        "event_status": "EventScheduled",
-        "type_id": "General",
-        "external_links": [],
-        "offers": [
-            {
-                "is_free": true,
-                "info_url": {
-                    "fi": "",
-                    "sv": "",
-                    "en": ""
+    "data": [
+        {
+            "id": "helsinki:agjnprufue",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/matko:732/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/matko:festivaali/"
                 },
-                "price": null,
-                "description": null
-            }
-        ],
-        "data_source": "helsinki",
-        "publisher": "ytj:0586977-6",
-        "sub_events": [
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggtm5l7mm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agdqitwbwe/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggsb37j6m/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggiohxvsa/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agftqm6pve/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf42fmaby/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfy6f4hqq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf7wgeruu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfr34n2ka/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agft22yxli/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agftqnxpr4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agesb27esm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agfbpl6s4e/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf3sfyywy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf7wa7kpa/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggblul2zq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggblu6xlu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggtkugnhi/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggtbj6ldi/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggvi6pem4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggvu7a4f4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggcjfebge/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggv6d22iu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggsc42o4u/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agf7woub7m/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:af677xzshq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggyrwnpo4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggy3cigka/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggzyui4pe/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggzzbktvm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2dj5pqe/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2o6nndi/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2fa72zm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2ye2ura/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2yh5wci/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg3danacm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4ag4cq4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg2n4idvu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg3ert77a/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4bkb4lm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4clky5q/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4k3qeh4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4luehb4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg4q6wrry/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggwjfovka/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggfq3nlzy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5bcfokq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5fkf6ci/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5fmjpfy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg57i4gme/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5uxavte/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6kkewyy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6kbusdu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5clwjnq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6lw7kfa/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6lxxprq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6lwjanu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6ytilsa/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg664iqpm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7dmngam/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7a5v2pe/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7auqot4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7be3xoy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg66wiyd4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg677ypzi/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg663ogaq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6566z2q/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7ko4r6y/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6wvjjam/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67kpf6a/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7ddyz7a/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6wrawy4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6yw2cny/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7cjrxpi/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7c5qsf4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bdt3ku/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67qslwu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7joahyy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7lcf25a/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6w6dqze/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg674jdvu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67yc4we/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6xeynua/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67udcf4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67msfem/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67ched4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7cxtzvq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6wtudte/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg66zb44i/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7ak4qgi/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6y5foii/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7cynoky/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg663ykey/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bcragm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bbwwnq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67k7qj4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7afdjxy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7aihxhq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bginre/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6vmqd7y/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg65wjzm4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6vvca4i/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7bp3fva/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg66heyai/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg5vnfi7m/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg674nm24/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg65na5ja/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg64dvcpq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6ybefiq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6wvspiu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghbkvauwa/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7adngdq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agha5h3oci/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghajey7lm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghajdfoce/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghb3g2l2q/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7c5kise/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghczfu3by/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghc3ibg4i/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghc3iyn3i/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg67dj7ue/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg7cbkpxi/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghdqvdrxu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghdx2dypi/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghd2kyzky/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghefe2tri/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghefmgxeu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghefuu5ry/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghd23dtle/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghfdi3x7a/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghffbrzwu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghfe7h7v4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghffeiv6i/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghfotkcym/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghfoh7sb4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghgln3pwe/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhkmcxeq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhk2yawq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhxrrmbe/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhxtytx4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghhxwnilm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghibf7zhu/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghibji4nq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghiahcdcm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghkhuydji/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghkriaxmm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghlty4sja/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghdz5awmy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghitlnnla/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghk2tb5h4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghk3hcerm/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghktevebq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agg6ink7ey/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmdu4nsi/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmn7ylzy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmo4lvpe/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmpols4a/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghmpyh3ca/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghnc3nhuy/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghndugtx4/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghne3czte/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghnfjvcxq/"
-            },
-            {
-                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghnfosvxq/"
-            }
-        ],
-        "images": [
-            {
-                "id": 101341,
-                "license": "event_only",
-                "created_time": "2024-01-12T09:19:55.323419Z",
-                "last_modified_time": "2024-01-12T09:23:33.311297Z",
-                "name": "Helsinki ruokavuosi 2024",
-                "url": "https://api.hel.fi/linkedevents/media/images/hki_paiva13_053_Lauri_Rotko_3335.jpg",
-                "cropping": "380,0,1900,1520",
-                "photographer_name": "© Lauri Rotko / Helsinki Partners",
-                "alt_text": "Henkilöitä istuu katetun pöydän äärellä",
-                "data_source": "helsinki",
-                "publisher": "ytj:0586977-6",
-                "@id": "https://api.hel.fi/linkedevents/v1/image/101341/",
-                "@context": "http://schema.org",
-                "@type": "ImageObject"
-            }
-        ],
-        "videos": [],
-        "in_language": [],
-        "audience": [],
-        "created_time": "2024-01-12T09:23:33.918063Z",
-        "last_modified_time": "2024-03-27T07:34:36.328961Z",
-        "date_published": null,
-        "start_time": "2023-12-31T22:01:00Z",
-        "end_time": "2024-12-31T21:59:00Z",
-        "custom_data": null,
-        "environmental_certificate": "",
-        "environment": "in",
-        "audience_min_age": null,
-        "audience_max_age": null,
-        "super_event_type": "umbrella",
-        "deleted": false,
-        "maximum_attendee_capacity": null,
-        "minimum_attendee_capacity": null,
-        "enrolment_start_time": null,
-        "enrolment_end_time": null,
-        "local": false,
-        "replaced_by": null,
-        "provider_contact_info": null,
-        "info_url": {
-            "fi": "https://www.hel.fi/ruokakaupunki",
-            "sv": "https://www.hel.fi/sv/beslutsfattande-och-forvaltning/information-om-helsingfors/matstaden-helsingfors",
-            "en": "https://www.hel.fi/en/decision-making/information-on-helsinki/food-city-helsinki"
-        },
-        "short_description": {
-            "fi": "Ruoka on yksi Helsingin tapahtumallisuuden ja matkailun keskeisiä teemoja vuonna 2024, jolloin Helsinki muuttuu upeiden ruokatapahtumien näyttämöksi.",
-            "sv": "Mat är ett centralt tema för Helsingfors evenemang och turism år 2024, då Helsingfors kommer att vara skådeplatsen för stora evenemang som kretsar kring mat. ",
-            "en": "Food is one of the central themes of Helsinki's events and tourism in 2024, when Helsinki will become the scene of wonderful food events. "
-        },
-        "description": {
-            "fi": "<p>Ruoka on yksi Helsingin tapahtumallisuuden ja matkailun keskeisiä teemoja vuonna 2024, jolloin Helsinki muuttuu upeiden ruokatapahtumien näyttämöksi. Yksi vuoden huipputapahtumista on Helsingin kaupungin 27. toukokuuta isännöimä pohjoismaisten ravintoloiden Michelin-tähtien julkistamistilaisuus. Se on maailman tunnetuimpia ruoka-alan tapahtumia, joka kokoaa Helsinkiin alan pohjoismaiset huiput.<br><br>Ruokavuoden tapahtumia on koko vuoden ajan. Erityisesti alkukesän ruokaviikkojen aikana 24.5.-16.6. ravintola-, matkailu- ja tapahtuma-alan toimijat esittelevät Helsingin monipuolista ruokakulttuuria kaupunkilaisille ja vierailijoille.</p>",
-            "sv": "<p>Mat är ett centralt tema för Helsingfors evenemang och turism år 2024, då Helsingfors kommer att vara skådeplatsen för stora evenemang som kretsar kring mat.&nbsp;</p><p>Ett av årets viktigaste händelser är offentliggörandet av de nordiska restaurangernas Michelin-stjärnor den 27 maj. Evenemanget som Helsingfors står värd för är ett av världens mest kända inom matbranschen och i Helsingfors samlas därför de allra främsta namnen inom matbranschen i Norden.&nbsp;</p><p>&nbsp;</p><p>Matårets evenemang ordnas under hela året. Aktörer inom restaurang-, turism- och evenemangbranschen presenterar Helsingfors mångsidiga matkultur till stadsbor och besökare särskilt under försommarens matveckor från 24.5.-16.6.2024.</p>",
-            "en": "<p>Food is one of the central themes of Helsinki's events and tourism in 2024, when Helsinki will become the scene of wonderful food events.&nbsp;</p><p>One of the top events of the year is the announcement of the Michelin stars of Nordic restaurants, hosted by the city of Helsinki on May 27. It is one of the world's most well-known events in the food industry, which gathers the Nordic tops of the industry in Helsinki.</p><p>There are food year events throughout the year. Especially during the early summer food weeks 24.5.-16.6. operators in the restaurant, tourism and event industries present Helsinki's diverse food culture to city dwellers and visitors.</p>"
-        },
-        "name": {
-            "fi": "Helsingin ruokavuosi 2024",
-            "sv": "Helsingfors matår 2024",
-            "en": "Helsinki’s Food Year  2024"
-        },
-        "location_extra_info": {
-            "fi": "",
-            "sv": "",
-            "en": ""
-        },
-        "provider": {
-            "fi": "Helsingin kaupunki",
-            "sv": "Helsingfors stad",
-            "en": "City of Helsinki"
-        },
-        "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggpz665sq/",
-        "@context": "http://schema.org",
-        "@type": "Event/LinkedEvent"
-    },
-        {
-                   "id": "helsinki:aggf27yyli",
-                   "location": {
-                       "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20444/"
-                   },
-                   "keywords": [
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2739/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2851/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
-                       },
-                       {
-                           "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p6889/"
-                       }
-                   ],
-                   "registration": null,
-                   "super_event": null,
-                   "event_status": "EventScheduled",
-                   "type_id": "General",
-                   "external_links": [],
-                   "offers": [
-                       {
-                           "is_free": false,
-                           "info_url": {
-                               "fi": "https://ateneum.fi",
-                               "sv": "https://ateneum.fi",
-                               "en": "https://ateneum.fi"
-                           },
-                           "price": {
-                               "fi": "https://ateneum.fi",
-                               "sv": "https://ateneum.fi",
-                               "en": "https://ateneum.fi"
-                           },
-                           "description": {
-                               "fi": "",
-                               "sv": "",
-                               "en": ""
-                           }
-                       }
-                   ],
-                   "data_source": "helsinki",
-                   "publisher": "ytj:0586977-6",
-                   "sub_events": [],
-                   "images": [
-                       {
-                           "id": 100293,
-                           "license": "event_only",
-                           "created_time": "2023-12-12T10:06:32.534968Z",
-                           "last_modified_time": "2023-12-12T10:07:38.958013Z",
-                           "name": "Gothic Modern",
-                           "url": "https://api.hel.fi/linkedevents/media/images/739f2ab3-e453-42d8-a463-0a3.jpg",
-                           "cropping": "380,0,1900,1520",
-                           "photographer_name": "Hugo Simberg: Kuoleman puutarha (1896). Kansallisgalleria / Ateneumin taidemuseo. Kansallisgalleria (c) Jenni Nurminen",
-                           "alt_text": "Kasveja ja puettuja luurankoja",
-                           "data_source": "helsinki",
-                           "publisher": "ytj:0586977-6",
-                           "@id": "https://api.hel.fi/linkedevents/v1/image/100293/",
-                           "@context": "http://schema.org",
-                           "@type": "ImageObject"
-                       }
-                   ],
-                   "videos": [],
-                   "in_language": [],
-                   "audience": [],
-                   "created_time": "2023-12-12T10:07:39.619589Z",
-                   "last_modified_time": "2023-12-12T10:07:39.619609Z",
-                   "date_published": null,
-                   "start_time": "2024-10-03T21:01:00Z",
-                   "end_time": "2025-01-26T21:59:00Z",
-                   "custom_data": null,
-                   "environmental_certificate": "",
-                   "environment": "in",
-                   "audience_min_age": null,
-                   "audience_max_age": null,
-                   "super_event_type": null,
-                   "deleted": false,
-                   "maximum_attendee_capacity": null,
-                   "minimum_attendee_capacity": null,
-                   "enrolment_start_time": null,
-                   "enrolment_end_time": null,
-                   "local": false,
-                   "replaced_by": null,
-                   "provider_contact_info": null,
-                   "info_url": {
-                       "fi": "https://ateneum.fi/nayttelyt/gothic-modern/",
-                       "sv": "https://ateneum.fi/sv/utstallningar/gothic-modern/",
-                       "en": "https://ateneum.fi/en/exhibitions/gothic-modern/"
-                   },
-                   "short_description": {
-                       "fi": "Kansainvälinen näyttely esittelee 1800- ja 1900-lukujen modernia taidetta, joka sai vaikutteita eurooppalaisesta keskiajan ja pohjoisen renessanssin taiteesta. ",
-                       "sv": "Utställningen Gothic Modern presenterar modern konst från 1800- och 1900-talen som tagit intryck från medeltidens europeiska konst ",
-                       "en": "This exhibition presents the extensive oeuvre of Eero Järnefelt (1863–1937), who grew up in a cultured, cosmopolitan family"
-                   },
-                   "description": {
-                       "fi": "<p>Kansainvälinen näyttely esittelee 1800- ja 1900-lukujen modernia taidetta, joka sai vaikutteita eurooppalaisesta keskiajan ja pohjoisen renessanssin taiteesta. Monipuolisen näyttelyn teemoihin kuuluvat kuolema ja rituaalit, mutta myös seksuaalisuus ja valaistuminen.</p><p>Pitkä tutkimusprojekti on tarkastellut ensimmäistä kertaa sitä, miten modernin ajan taiteilijat kiinnostuivat keskiajan taiteesta.&nbsp;</p><p>Näyttely kirjoittaa uudelleen modernin taiteen historiaa. Sen taiteilijoita ovat muun muassa Arnold Böcklin, Lucas Cranach vanhempi, Akseli Gallen-Kallela, Theodor Kittelsen, Käthe Kollwitz, Edvard Munch, Hugo Simberg, Helene Schjerfbeck ja Marianne Stokes.&nbsp;</p><p>Maalausten ja grafiikan teosten lisäksi esille saadaan myös esineitä, veistoksia ja huonekaluja.<br>&nbsp;</p><p>Ateneumin taidemuseo</p><p>4.10.2024-26.1.2025</p>",
-                       "sv": "<p>Utställningen Gothic Modern presenterar modern konst från 1800- och 1900-talen som tagit intryck från medeltidens europeiska konst och från nordisk renässanskonst. Till den mångsidiga utställningens teman hör död och ritualer, men också sexualitet och upplysning.</p><p>Ett långvarigt forskningsprojekt har för första gången undersökt hur moderna konstnärer blev intresserade av medeltida konst.&nbsp;</p><p>Utställningen gör en nytolkning av den moderna konstens historia. Bland konstnärerna kan nämnas Arnold Böcklin, Lucas Cranach d.ä., Akseli Gallen-Kallela, Theodor Kittelsen, Käthe Kollwitz, Edvard Munch, Hugo Simberg, Helene Schjerfbeck och Marianne Stokes.&nbsp;</p><p>Förutom målningar och grafik visas också föremål, skulpturer och möbler.<br>&nbsp;</p><p>Konstmuseet Ateneum</p><p>4.10.2024-26.1.2025</p>",
-                       "en": "<p>This international exhibition presents modern art from the 19th and 20th centuries that is inspired by European medieval and Northern Renaissance art. The themes of the diverse exhibition include death and rituals, but also sexuality and enlightenment.</p><p>A long research project has, for the first time, explored how artists of the modern era became interested in medieval art.&nbsp;</p><p>The exhibition rewrites the history of modern art. Featured artists include Arnold Böcklin, Lucas Cranach the Elder, Akseli Gallen-Kallela, Theodor Kittelsen, Käthe Kollwitz, Edvard Munch, Hugo Simberg, Helene Schjerfbeck and Marianne Stokes.&nbsp;</p><p>In addition to paintings and prints, the exhibition includes objects, sculptures and furniture.<br>&nbsp;</p><p>Ateneum Art Museum</p><p>4.10.2024-26.1.2025</p>"
-                   },
-                   "name": {
-                       "fi": "Gothic Modern",
-                       "sv": "Gothic Modern",
-                       "en": "Gothic Modern"
-                   },
-                   "location_extra_info": {
-                       "fi": "",
-                       "sv": "",
-                       "en": ""
-                   },
-                   "provider": {
-                       "fi": "Ateneumin taidemuseo",
-                       "sv": "Konstmuseet Ateneum",
-                       "en": "Ateneum Art Museum"
-                   },
-                   "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aggf27yyli/",
-                   "@context": "http://schema.org",
-                   "@type": "Event/LinkedEvent"
-               },
-        {
-                    "id": "helsinki:agapt26xz4",
-                    "location": {
-                        "@id": "https://api.hel.fi/linkedevents/v1/place/matko:732/"
-                    },
-                    "keywords": [
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20211/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2771/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p6231/"
-                        },
-                        {
-                            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p965/"
-                        }
-                    ],
-                    "registration": null,
-                    "super_event": null,
-                    "event_status": "EventScheduled",
-                    "type_id": "General",
-                    "external_links": [],
-                    "offers": [
-                        {
-                            "is_free": true,
-                            "info_url": null,
-                            "price": null,
-                            "description": null
-                        }
-                    ],
-                    "data_source": "helsinki",
-                    "publisher": "ytj:0586977-6",
-                    "sub_events": [],
-                    "images": [
-                        {
-                            "id": 80217,
-                            "license": "event_only",
-                            "created_time": "2022-05-25T06:29:52.054344Z",
-                            "last_modified_time": "2022-05-25T06:33:44.475492Z",
-                            "name": "Tall Ships Races",
-                            "url": "https://api.hel.fi/linkedevents/media/images/969b1060-619c-4765-b6ab-ff6.jpg",
-                            "cropping": "182,0,983,800",
-                            "photographer_name": "Helsingin kaupunki (c) Kimmo Kivirinta",
-                            "alt_text": "Tuomiokirkko ja purjalaiva",
-                            "data_source": "helsinki",
-                            "publisher": "ytj:0586977-6",
-                            "@id": "https://api.hel.fi/linkedevents/v1/image/80217/",
-                            "@context": "http://schema.org",
-                            "@type": "ImageObject"
-                        }
-                    ],
-                    "videos": [],
-                    "in_language": [],
-                    "audience": [],
-                    "created_time": "2022-05-25T06:33:44.672270Z",
-                    "last_modified_time": "2022-05-25T06:33:44.672310Z",
-                    "date_published": null,
-                    "start_time": "2024-07-03T21:01:00Z",
-                    "end_time": "2024-07-07T20:59:00Z",
-                    "custom_data": null,
-                    "environmental_certificate": null,
-                    "environment": null,
-                    "audience_min_age": null,
-                    "audience_max_age": null,
-                    "super_event_type": null,
-                    "deleted": false,
-                    "maximum_attendee_capacity": null,
-                    "minimum_attendee_capacity": null,
-                    "enrolment_start_time": null,
-                    "enrolment_end_time": null,
-                    "local": false,
-                    "replaced_by": null,
-                    "provider_contact_info": null,
-                    "info_url": {
-                        "fi": "https://www.hel.fi/uutiset/fi/kaupunginkanslia/helsinki-yksi-tall-ships-races-2024-kohdesatamista",
-                        "en": "https://www.hel.fi/uutiset/en/kaupunginkanslia/helsinki-one-of-the-host-ports-of-tall-ships-races-2024"
-                    },
-                    "short_description": {
-                        "fi": "Tuhansien nuorten kansainvälinen purjehdustapahtuma Tall Ships Races, järjestetään Itämerellä joka neljäs vuosi.",
-                        "en": "The annual Tall Ships Races event is held in the Baltic Sea region every fourth year. "
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1828/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2402/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [
+                {
+                    "name": "extlink_facebook",
+                    "link": "https://www.facebook.com/helsinkiprideyhteiso",
+                    "language": "fi"
+                },
+                {
+                    "name": "extlink_instagram",
+                    "link": "https://www.instagram.com/helsinkipride/",
+                    "language": "fi"
+                }
+            ],
+            "offers": [
+                {
+                    "is_free": false,
+                    "price": {
+                        "fi": "https://www.pride.fi/",
+                        "sv": "https://www.pride.fi/",
+                        "en": "https://www.pride.fi/"
                     },
                     "description": {
-                        "fi": "<p>Tuhansien nuorten kansainvälinen purjehdustapahtuma Tall Ships Races, järjestetään Itämerellä joka neljäs vuosi. Tosin vuodelle 2021 suunniteltu tapahtuma jouduttiin perumaan koronapandemian vuoksi, joten vuonna 2024 se järjestetään ensimmäistä kertaa vuoden 2017 jälkeen.</p>\n<p>&nbsp;</p>\n<p>Tapahtuman pääpaino on nuorisotyössä. Tapahtuman tarkoitus on edistää yhteisen purjehdustapahtuman kautta nuorten koulutusta ja yhteistyötä kansallisuuteen, kulttuuritaustaan, uskontoon ja sosiaaliseen taustaan katsomatta.</p>\n<p></p>\n<p>Helsinki on toiminut Tall Ships Races -kilpailujen kohdesatamana vuosina 1972, 1988, 2000 ja viimeksi vuonna 2013. Tuolloin tapahtumaan osallistui noin 100 alusta eri puolilta maailmaa ja se keräsi Hietalahden alueelle yhteensä noin 500 000 kävijää.</p>\n<p></p>\n<p>Helsinki</p>\n<p>4.-7.7.2024</p>",
-                        "en": "<p>The annual Tall Ships Races event is held in the Baltic Sea region every fourth year.&nbsp;&nbsp;</p>\n<p></p>\n<p>An international sailing event for thousands of young people, Tall Ships Races is arranged in the Baltic Sea region for the first time since 2017, as the event planned for 2021 had to be cancelled due to the coronavirus pandemic.&nbsp;</p>\n<p></p>\n<p>The event puts emphasis on youth work. The aim of the event is to promote the education and development of young people of all nationalities, religions and social backgrounds, through sail training.&nbsp;</p>\n<p></p>\n<p>Helsinki has previously been a host port of the Tall Ships Races in 1972, 1988, 2000 and in 2013. In 2013, there were around 100 ships from all over the world participating in the event, which attracted some 500,000 visitors to the Hietalahti area.</p>\n<p></p>\n<p>Helsinki</p>\n<p>4.-7.7.2024</p>"
-                    },
-                    "name": {
-                        "fi": "Tall Ships Races 2024",
-                        "en": "Tall Ships Races 2024"
-                    },
-                    "location_extra_info": {
                         "fi": "",
+                        "sv": "",
                         "en": ""
                     },
-                    "provider": {
-                        "fi": "Sail Training International (STI)",
-                        "en": "Sail Training International (STI)"
-                    },
-                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agapt26xz4/",
-                    "@context": "http://schema.org",
-                    "@type": "Event/LinkedEvent"
+                    "info_url": {
+                        "fi": "https://www.pride.fi/",
+                        "sv": "https://www.pride.fi/",
+                        "en": "https://www.pride.fi/"
+                    }
                 }
-        
+            ],
+            "data_source": "helsinki",
+            "publisher": "ytj:0586977-6",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 100364,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2023-12-15T06:53:01.457523Z",
+                    "last_modified_time": "2023-12-15T06:53:47.294746Z",
+                    "name": "Helsinki Pride Week",
+                    "url": "https://api.hel.fi/linkedevents/media/images/Kulkue-c-Alejandro-Lorenzo.jpg",
+                    "cropping": "381,0,1899,1518",
+                    "photographer_name": "Helsinki Pride -yhteisö (c) Alejandro Lorenzo",
+                    "alt_text": "Ihmisiä ja sateenkaarilippu",
+                    "data_source": "helsinki",
+                    "publisher": "ytj:0586977-6",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/100364/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [],
+            "audience": [],
+            "created_time": "2024-10-29T10:16:04.778788Z",
+            "last_modified_time": "2025-03-12T13:59:21.830638Z",
+            "date_published": null,
+            "start_time": "2025-06-22T21:01:00Z",
+            "end_time": "2025-06-29T20:59:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": null,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 100000,
+            "minimum_attendee_capacity": null,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Helsinki Pride Week 2025",
+                "sv": "Helsinki Pride 2025",
+                "en": "Helsinki Pride Week 2025"
+            },
+            "provider_contact_info": null,
+            "short_description": {
+                "fi": "Helsinki Pride on Suomen suurin ihmisoikeus- ja kulttuuritapahtuma, joka pitää sisällään kaikissa sateenkaaren väreissä loistavaa ohjelmaa.",
+                "sv": "Helsinki Pride är Finlands största evenemang inom kultur och mänskliga rättigheter för sexuella minoriteter och könsminoriteter.",
+                "en": "Helsinki Pride is Finland's biggest human rights and cultural event, with a fantastic program in all colours of the rainbow. "
+            },
+            "description": {
+                "fi": "<p>Helsinki Pride on Suomen suurin ihmisoikeus- ja kulttuuritapahtuma, joka pitää sisällään kaikissa sateenkaaren väreissä loistavaa ohjelmaa. Helsinki Pride -tapahtumat ovat kaikille avoimia, ja suurin osa ohjelmasta on maksutonta.&nbsp;</p><p>Helsinki Pride -viikko huipentuu lauantaina 28.6. kulkueeseen ja puistojuhlaan.</p><p>Ohjelmasta tiedotetaan lisää keväällä 2025.</p><p>&nbsp;</p><p>Helsinki</p><p>23.-29.6.2025</p><p>Suurin osa ohjelmasta on maksutonta</p>",
+                "sv": "<p>Helsinki Pride är Finlands största evenemang inom kultur och mänskliga rättigheter för sexuella minoriteter och könsminoriteter.</p><p>&nbsp;</p><p>Helsingfors<br>23.-29.6.2025</p>",
+                "en": "<p>Helsinki Pride is Finland's biggest human rights and cultural event, with a fantastic program in all colours of the rainbow.&nbsp;</p><p>Helsinki Pride events are open to all and most of the events are free of charge.&nbsp;</p><p>The Helsinki Pride week will peak with a Pride parade and park celebration on Saturday, June 28th.</p><p>More information about the program will be provided during spring 2025.&nbsp;<br>&nbsp;</p><p>Helsinki<br>23.-29.6.2025</p><p>Most of the events are free of charge.</p>"
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "https://www.pride.fi/",
+                "sv": "https://www.pride.fi/en",
+                "en": "https://www.pride.fi/en"
+            },
+            "provider": {
+                "fi": "Helsinki Pride -yhteisö",
+                "sv": "Helsinki Pride ",
+                "en": "Helsinki Pride  Community"
+            },
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agjnprufue/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent"
+        },
+        {
+            "id": "helsinki:agltvi7p3m",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20916/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1278/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3670/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [
+                {
+                    "name": "extlink_instagram",
+                    "link": "https://www.instagram.com/indonesiafinlandfest/",
+                    "language": "fi"
+                }
+            ],
+            "offers": [
+                {
+                    "is_free": true,
+                    "price": null,
+                    "description": null,
+                    "info_url": {
+                        "fi": "",
+                        "en": ""
+                    }
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "others",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 154499,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2025-06-04T11:08:42.751306Z",
+                    "last_modified_time": "2025-06-04T11:11:51.340383Z",
+                    "name": "Event Flyer.png",
+                    "url": "https://api.hel.fi/linkedevents/media/images/Event_Flyer.png",
+                    "cropping": "236,0,1177,942",
+                    "photographer_name": "",
+                    "alt_text": "Indonesia Suomi Festivaali",
+                    "data_source": "helsinki",
+                    "publisher": null,
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/154499/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [],
+            "audience": [],
+            "created_time": "2025-06-04T11:11:51.829391Z",
+            "last_modified_time": "2025-06-05T11:07:14.271994Z",
+            "date_published": null,
+            "start_time": "2025-06-14T08:00:00Z",
+            "end_time": "2025-06-14T15:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "out",
+            "audience_min_age": null,
+            "audience_max_age": null,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 2000,
+            "minimum_attendee_capacity": null,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Indonesia - Suomi Festivaali 2025",
+                "en": "Indonesia - Finland Festival 2025"
+            },
+            "provider_contact_info": null,
+            "short_description": {
+                "fi": "Indonesia–Suomi Festivaali palaa! Liity mukaan eläväiseen indonesialaisen kulttuurin juhlaan Helsingin sydämessä, jossa perinteet kohtaavat modernin luovuuden. ",
+                "en": "Indonesia–Suomi Festival returns! Join in the heart of Helsinki for a vibrant celebration of Indonesian culture, where tradition meets modern creativity."
+            },
+            "description": {
+                "fi": "<p>Indonesia–Suomi Festivaali palaa! Liity mukaan eläväiseen indonesialaisen kulttuurin juhlaan Helsingin sydämessä, jossa perinteet kohtaavat modernin luovuuden.&nbsp;</p><p>Nauti koko päivän ajan live-esiintymisistä, musiikista, ruokakojuista, taide- ja käsityönäyttelyistä, lasten aktiviteeteista ja paljosta muusta.</p><p>Tänä vuonna IFF 2025 tekee yhteistyötä Turkish Airlinesin kanssa sen virallisena lentoyhtiösponsorina. Yksi onnekas vierailija voittaa Ilmaisen meno-paluulipun Helsingistä Jakartaan.</p><p>&nbsp;</p><p>Narinkkatori</p><p>14.6.2025</p><p>11.00-18.00</p><p>&nbsp;</p><p>Vapaa pääsy</p>",
+                "en": "<p>Indonesia–Suomi Festival returns! Join in the heart of Helsinki for a vibrant celebration of Indonesian culture, where tradition meets modern creativity.</p><p>Enjoy a full day of live performances, music, food stalls, art and craft exhibitions, children's activities, and much more.</p><p>&nbsp;</p><p>Narinkkatori Square</p><p>14.6.2025</p><p>11.00-18.00</p><p>&nbsp;</p><p>Free entry</p>"
+            },
+            "location_extra_info": {
+                "fi": "",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "https://www.instagram.com/indonesiafinlandfest/",
+                "en": "https://www.instagram.com/indonesiafinlandfest/"
+            },
+            "provider": {
+                "fi": "Indonesian Helsingin Suurlähetystö",
+                "en": "Indonesian Embassy"
+            },
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agltvi7p3m/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent"
+        },
+        {
+            "id": "kulke:66382",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:7260/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:105/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:31/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:32/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:45/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:50/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:53/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:54/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:55/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:669/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:732/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1278/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p21812/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p29865/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3046/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p39924/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventRescheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "price": null,
+                    "description": null,
+                    "info_url": null
+                }
+            ],
+            "data_source": "kulke",
+            "publisher": "ahjo:u48040010",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 153631,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2025-05-15T13:14:34.468638Z",
+                    "last_modified_time": "2025-05-15T13:14:34.468656Z",
+                    "name": "",
+                    "url": "http://www.vuotalo.fi/instancedata/prime_product_resurssivaraus/kulke/embeds/EventPic_760355.jpg",
+                    "cropping": "",
+                    "photographer_name": null,
+                    "alt_text": null,
+                    "data_source": "kulke",
+                    "publisher": "ahjo:u48040010",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/153631/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                }
+            ],
+            "created_time": "2025-05-15T13:14:34.420914Z",
+            "last_modified_time": "2025-05-15T13:14:34.578454Z",
+            "date_published": null,
+            "start_time": "2025-08-14T12:00:00Z",
+            "end_time": "2025-08-14T17:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": null,
+            "environment": null,
+            "audience_min_age": null,
+            "audience_max_age": null,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": null,
+            "minimum_attendee_capacity": null,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Vuotalon Taiteiden yö 2025",
+                "sv": "Konstens natt på Nordhuset 2025",
+                "en": "Night of the Arts at Vuotalo 2025"
+            },
+            "provider_contact_info": null,
+            "short_description": {
+                "fi": "Taiteiden yössä on musiikkia ja tekemistä koko perheelle! Ihaile uutta valokuvataidetta ja virkistäydy tanssia ja musiikkia yhdistelevässä show’ssa.",
+                "sv": "På Konstens natt finns musik för hela familjen! Beundra den nya fotokonsten och njut av showen som kombinerar dans och musik.",
+                "en": "The Night of the Arts offers music for the whole family! Admire new photographic art and enjoy a refreshing show that combines dance and music."
+            },
+            "description": {
+                "fi": "<p>Taiteiden yössä on musiikkia ja tekemistä koko perheelle! Ihaile uutta valokuvataidetta ja virkistäydy tanssia ja musiikkia yhdistelevässä show’ssa.</p><p>Tule tunnelmoimaan Taiteiden yötä Vuotorille ja Vuotalon aulaan! Osallistu Jättimuskariin, taidenäyttelyn avajaisiin ja monikulttuuristen perhejärjestöjen tapahtumatorille. Kuuntele kuinka huippulaulajat laulavat rauhan puolesta ja koe vauhdikas Delado Internationalin vesiputouksesta inspiroitunut tanssi- ja musiikkiesitys!</p><p><b>Ohjelma Vuotorilla</b><br>klo 15 Annika Cleo, Paul Elias, Ari Stockås & Ramy Essam: SING FOR PEACE<br>klo 16–18 MONikULttUURiStEn perhejärjestöjen tapahtumatori<br>klo 18 Delado International: Puhdistava vesiputous</p><p><b>Ohjelma Vuotalon aulassa</b><br>klo 16–17 Vuomun ja IHMO:n Jättimuskari<br>klo 17–20 Todellisuuksia / Realities -näyttelyn avajaiset</p><p><b>klo 15 Annika Cleo, Paul Elias, Ari Stockås & Ramy Essam: SING FOR PEACE</b><br>Sing for Peace-konsertti on täynnä aurinkoa! Laulu minulta sinulle. Meiltä teille. Kylästä toiseen. Maasta toiseen maahan. Ympäri maapalloa ja takaisin. Yhdessä luomme paremman maailman, joten tule, kuuntele ja laula! Annika Cleon Paul Eliaksen & Ari Stockåsin kanssa esiintymässä myös egyptiläinen Ramy Essam. Luvassa on Lauluja eri puolilta maailmaa ruotsiksi, suomeksi ja englanniksi. <br>Kesto: noin 35 minuuttia<br>Paikka: Vuotori</p><p><b>klo 16–18 <br>MONikULttUURiStEn perhejärjestöjen tapahtumatori</b> <br>Monikulttuuriset perhejärjestöt kertovat toiminnastaan ja palveluistaan. Tiedon lisäksi on tarjolla pienimuotoista ohjelmaa lapsille ja lapsiperheille. Tervetuloa!</p><p><b><br>klo 16–17 Vuomun ja IHMO:n Jättimuskari</b><br>Lämpimästi tervetuloa kesäiselle muskariretkelle! Vuosaaren alueella lapset ja nuoret voivat opiskella musiikkia Vuosaaren musiikkiopistossa ja Itä-Helsingin musiikkiopistossa. Nyt Vuomu ja IHMO yhdistävät voimansa ja laittavat pystyyn Jättimuskarin: Muskariopettajat ja bändi laulattavat ja leikittävät koko perhettä!<br>Paikka: Vuotalon aula<br> <br><b>klo 17–20 Todellisuuksia / Realities -näyttelyn avajaiset</b><br>Vuotalon näyttelytila täyttyy Taiteiden yönä 2025 valokuvataiteesta, kun Turussa marraskuussa 2024 esillä ollut ryhmänäyttely Todellisuuksia | Realities rantautuu päivitettynä versiona Helsinkiin. Ryhmänäyttelyyn osallistuvia yhdistää Turun taideakatemian historian ensimmäinen valokuvataiteen YAMK-koulutus, jota kaikki osallistujat opiskelivat vuosina 2023–2024.</p><p>Avajaisissa klo 17.30 esiintyy nuori duo, Hilda Aho ja Tuukka Hokkala, jotka soittavat omia pop-kappaleitaan sekä yhden cover-kappaleen flyygelin ja kitaran säestyksellä.<br>Paikka: Vuotalon aula</p><p><b>klo 18<br>Delado International: Puhdistava vesiputous</b><br>Tanssia ja musiikkia sisältävä esitys, joka ylistää elämäniloa, ystävällisyyttä ja vapauden riemua!</p><p>Burkina Fason moniääniset rytmit, perinteinen tanssi, latinalaisamerikkalainen merengue, suomalainen mystiikka sekä suomenruotsalainen tanssi ja laulu kietoutuvat yhteen ainutlaatuisessa kulttuurien fuusiossa.</p><p>Delado Internationalin riveissä soittaa ja tanssii ammattitaiteilijoita Burkina Fasosta ja Suomesta. Ryhmän karismaattinen johtaja, koreografi ja tanssija Sanna Karlsson-Sutisna johdattaa yleisön rytmien, työpajojen ja liikkeen maailmaan yhdessä muusikko Rodrigo Rodriguesin sekä Burkina Fason griottiperinnettä jatkavien muusikoiden kanssa.</p><p>Esitys sopii kaikenikäisille ja kaiken kielisille!<br>Paikka: Vuotori</p>",
+                "sv": "<p>På Konstens natt finns musik för hela familjen! Beundra den nya fotokonsten och njut av showen som kombinerar dans och musik.</p><p>Kom och trivs under Konstens natt på Nortorget och i Nordhuset! Delta i Jättimuskari, invigningen av konstutställningen och de mångkulturella familjeorganisationernas evenemangstorg. Lyssna på hur toppsångare sjunger för fred och upplev Delado Internationals fartfyllda dans- och musikföreställning inspirerat av ett vattenfall!</p><p><b>Program på Nortorget</b><br>kl. 15 Annika Cleo, Paul Elias, Ari Stockås & Ramy Essam: SING FOR PEACE<br>kl. 16–18 De mångkulturella familjeorganisationernas evenemangstorg<br>kl. 18 Delado International: Renande vattenfall</p><p><b>Program i Nordhusets entréhall</b><br>kl. 16–17 Vuomus och IHMO:s Jättimuskari<br>kl. 17–20 Invigning av utställningen Verkligheter / Realities</p><p><b>kl. 15 Annika Cleo, Paul Elias, Ari Stockås & Ramy Essam: SING FOR PEACE</b><br>Sing for Peace – en konsert full av solsken! En sång från mig till dig. Från oss till er. Från en by till en annan. Från ett land till ett annat. Runt jorden och tillbaka. Tillsammans skapar vi en bättre värld så kom, lyssna och sjung! Annika Cleo tillsammans med Paul Elias & Ari Stockås Gästade av Ramy Essam (Egypten) Sånger från världens alla hörn på svenska, finska, och engelska. <br>Tid: ca 35 minuter</p><p><b>kl. 16–18 De mångkulturella familjeorganisationernas evenemangstorg </b><br>Mångkulturella familjeorganisationer berättar om sin verksamhet och sina tjänster. Utöver information erbjuds småskaligt program för barn och barnfamiljer. Välkommen!</p><p><b>kl. 16–17 Vuomus och IHMO:s Jättimuskari</b><br>Varmt välkomna till den somriga musiklekisutflykten! I Nordsjöområdet kan barn och unga studera musik vid Vuosaaren musiikkiopisto och Itä-Helsingin musiikkiopisto. Nu förenar Vuomu och IHMO sina krafter med Jättimuskari: Musiklekislärarna och bandet sjunger och leker med hela familjen!<br> <br><b>kl. 17–20 Invigning av utställningen Verkligheter / Realities</b><br>Utställningslokalen i Nordhuset fylls med fotokonst under Konstens natt 2025 då grupputställningen Verkligheter | Realities, som ställdes ut i Åbo i november 2024, kommer till Helsingfors som en uppdaterad version. De som deltar i grupputställningen förenas av den första utbildningen i historien med högre yrkeshögskoleexamen i fotokonst vid Konstakademin vid Åbo yrkeshögskola, där alla deltagare studerade 2023–2024.<br> <br>Vid invigningen kl. 17.30 uppträder den unga duon Hilda Aho och Tuukka Hokkala, som spelar egna poplåtar och en cover med flygel och gitarr.</p><p><b>kl. 18 Delado International: Renande vattenfall</b><br>Ett uppträdande med dans och musik som hyllar livsglädje, vänlighet och frihetsglädje!<br>Burkina Fasos mångstämmiga rytmer, traditionell dans, latinamerikansk merengue, finländsk mystik samt finlandssvensk dans och sång sammanflätas i en unik kulturfusion. <br>I Delado International spelar och dansar professionella konstnärer från Burkina Faso och Finland. Gruppens karismatiska ledare, koreograf och dansare Sanna Karlsson-Sutisna leder publiken in i rytmernas, verkstädernas och rörelsens värld tillsammans med musikern Rodrigo Rodrigues samt musikerna som fortsätter Burkina Fasos griot-tradition.</p><p>Passar för alla åldrar och alla språk.</p>",
+                "en": "<p>The Night of the Arts offers music for the whole family! Admire new photographic art and enjoy a refreshing show that combines dance and music.</p><p>Come and enjoy the spirit of the Night of the Arts at Vuotori Square and the lobby of Cultural Centre Vuotalo! Participate in a music playschool event, the opening of an art exhibition and the event square for multicultural family organisations. Listen to top singers singing for peace and experience the fast-paced dance and music performance by Delado International that takes inspiration from a waterfall!</p><p><b>Programme at Vuotori Square</b><br>15.00 Annika Cleo, Paul Elias, Ari Stockås & Ramy Essam: SING FOR PEACE<br>16.00–18.00 Event square of multicultural family organisations<br>18.00 Delado International: Cleansing Waterfall</p><p><b>Programme in the lobby of Cultural Centre Vuotalo</b><br>16.00–17.00 Jättimuskari – a music playschool event by Vuosaari Music Institute and East Helsinki Music Institute<br>17.00–20.00 Opening of the ‘Todellisuuksia/Realities’ exhibition</p><p><b>15.00 Annika Cleo, Paul Elias, Ari Stockås & Ramy Essam: SING FOR PEACE </b><br>Sing for Peace – a concert full of sunshine! A song from me to you. From us to you. From one village to another. From one country to another. Around the world and back. Together we create a better world so come, listen, and sing! Annika Cleo together with Paul Elias & Ari Stockås Guest featuring Ramy Essam (Egypt) Songs from all around the world in Swedish, Finnish and English. <br>Duration: approximately 35 minutes</p><p><b>16.00–18.00 Event square of multicultural family organisations </b><br>Multicultural family organisations talk about their activities and services. In addition to information, the event features small-scale activities for children and families with children. See you there!</p><p><b>16.00–17.00 Jättimuskari – a music playschool event by Vuosaari Music Institute and East Helsinki Music Institute</b><br>Come and join us for a summertime music playschool excursion! In the Vuosaari area, children and young people can study music at Vuosaari Music Institute and East Helsinki Music Institute. This time, the two music institutes are joining forces to present a Jättimuskari music playschool event, where music playschool teachers and the band will invite the entire family to sing and play along!<br> <br><b>17.00–20.00 Opening of the ‘Todellisuuksia/Realities’ exhibition</b><br>On the Night of the Arts 2025, the exhibition space at Cultural Centre Vuotalo will be filled with photographic art when an updated version of the group exhibition ‘Todellisuuksia/Realities’ that was displayed in Turku in November 2024 comes to Helsinki. The group exhibition’s participants are connected through the first ever Master’s Degree Programme in Photography offered by the Turku Arts Academy, in which all of the participants took part between 2023 and 2024.</p><p>The young duo Hilda Aho and Tuukka Hokkala will perform at the opening event at 17.30, playing their own pop songs and one cover song on the grand piano and guitar.</p><p><b>18.00 Delado International: Cleansing Waterfall</b><br>A performance containing dance and music that celebrates the joy of life, kindness and the joy of freedom!</p><p>This unique fusion of cultures combines polyphonic rhythms from Burkina Faso, traditional dance, merengue from Latin America, Finnish mysticism and Finland-Swedish dance and singing. <br>The line-up of Delado International includes professional musicians and dancers from Burkina Faso and Finland. The group’s charismatic leader, choreographer and dancer Sanna Karlsson-Sutisna, leads the audience to the world of rhythm, workshops and movement together with musician Rodrigo Rodrigues and musicians who continue the griot tradition of Burkina Faso.</p><p>Suitable for people of all ages and languages.</p>"
+            },
+            "location_extra_info": null,
+            "info_url": {
+                "fi": "http://www.vuotalo.fi/fi/tapahtumat/event/012A00A9CA6E4F8F104FAC6C1532AEC3/Vuotalon_Taiteiden_yo_2025",
+                "sv": "http://www.vuotalo.fi/sv/evenemang/event/012A00A9CA6E4F8F104FAC6C1532AEC3/Konstens_natt_pa_Nordhuset_2025",
+                "en": "http://www.vuotalo.fi/en/events/event/012A00A9CA6E4F8F104FAC6C1532AEC3/Night_of_the_Arts_at_Vuotalo_2025"
+            },
+            "provider": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/kulke:66382/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent"
+        }
+ 
     ]
 }
