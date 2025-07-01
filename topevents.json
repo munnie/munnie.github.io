@@ -6,20 +6,17 @@
     },
     "data": [
         {
-            "id": "helsinki:agjnprufue",
+            "id": "helsinki:aglyoxonsi",
             "has_user_editable_resources": true,
             "location": {
-                "@id": "https://api.hel.fi/linkedevents/v1/place/matko:732/"
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20633/"
             },
             "keywords": [
                 {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/matko:festivaali/"
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1808/"
                 },
                 {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1828/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2402/"
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2149/"
                 },
                 {
                     "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
@@ -29,57 +26,93 @@
             "super_event": null,
             "event_status": "EventScheduled",
             "type_id": "General",
-            "external_links": [
-                {
-                    "name": "extlink_facebook",
-                    "link": "https://www.facebook.com/helsinkiprideyhteiso",
-                    "language": "fi"
-                },
-                {
-                    "name": "extlink_instagram",
-                    "link": "https://www.instagram.com/helsinkipride/",
-                    "language": "fi"
-                }
-            ],
+            "external_links": [],
             "offers": [
                 {
-                    "is_free": false,
-                    "price": {
-                        "fi": "https://www.pride.fi/",
-                        "sv": "https://www.pride.fi/",
-                        "en": "https://www.pride.fi/"
-                    },
-                    "description": {
+                    "is_free": true,
+                    "description": null,
+                    "info_url": {
                         "fi": "",
                         "sv": "",
                         "en": ""
                     },
-                    "info_url": {
-                        "fi": "https://www.pride.fi/",
-                        "sv": "https://www.pride.fi/",
-                        "en": "https://www.pride.fi/"
-                    }
+                    "price": null
                 }
             ],
             "data_source": "helsinki",
-            "publisher": "ytj:0586977-6",
-            "sub_events": [],
+            "publisher": "others",
+            "sub_events": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxmzwe/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxm4km/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxm5ny/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxm6qm/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnajq/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnd2a/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnhuy/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnkj4/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnnby/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnpd4/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnqgq/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnrla/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnsq4/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnute/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnxxy/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxnzxi/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxn27a/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxn4bm/"
+                }
+            ],
             "images": [
                 {
-                    "id": 100364,
+                    "id": 155040,
                     "has_user_editable_resources": true,
                     "license": "event_only",
                     "license_url": "",
-                    "created_time": "2023-12-15T06:53:01.457523Z",
-                    "last_modified_time": "2023-12-15T06:53:47.294746Z",
-                    "name": "Helsinki Pride Week",
-                    "url": "https://api.hel.fi/linkedevents/media/images/Kulkue-c-Alejandro-Lorenzo.jpg",
-                    "cropping": "381,0,1899,1518",
-                    "photographer_name": "Helsinki Pride -yhteisö (c) Alejandro Lorenzo",
-                    "alt_text": "Ihmisiä ja sateenkaarilippu",
+                    "created_time": "2025-06-19T08:44:32.232518Z",
+                    "last_modified_time": "2025-06-19T08:45:43.631814Z",
+                    "name": "Musiikkitalon Konserttisali",
+                    "url": "https://api.hel.fi/linkedevents/media/images/Konserttisali_urut_2024-06-07_Arno_de_la_Chapelle_3.jpg",
+                    "cropping": "266,0,1343,1076",
+                    "photographer_name": "Arno de la Chapelle",
+                    "alt_text": "Musiikkitalon Konserttisali",
                     "data_source": "helsinki",
-                    "publisher": "ytj:0586977-6",
-                    "@id": "https://api.hel.fi/linkedevents/v1/image/100364/",
+                    "publisher": null,
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/155040/",
                     "@context": "http://schema.org",
                     "@type": "ImageObject"
                 }
@@ -87,171 +120,56 @@
             "videos": [],
             "in_language": [],
             "audience": [],
-            "created_time": "2024-10-29T10:16:04.778788Z",
-            "last_modified_time": "2025-03-12T13:59:21.830638Z",
+            "created_time": "2025-06-19T08:46:01.156444Z",
+            "last_modified_time": "2025-06-19T09:59:42.427770Z",
             "date_published": null,
-            "start_time": "2025-06-22T21:01:00Z",
-            "end_time": "2025-06-29T20:59:00Z",
+            "start_time": "2025-07-07T10:00:00Z",
+            "end_time": "2025-07-26T14:00:00Z",
             "custom_data": null,
             "environmental_certificate": "",
             "environment": "in",
             "audience_min_age": null,
             "audience_max_age": null,
-            "super_event_type": null,
+            "super_event_type": "recurring",
             "deleted": false,
-            "maximum_attendee_capacity": 100000,
+            "maximum_attendee_capacity": 200,
             "minimum_attendee_capacity": null,
             "enrolment_start_time": null,
             "enrolment_end_time": null,
             "local": false,
             "replaced_by": null,
-            "name": {
-                "fi": "Helsinki Pride Week 2025",
-                "sv": "Helsinki Pride 2025",
-                "en": "Helsinki Pride Week 2025"
-            },
-            "provider_contact_info": null,
-            "short_description": {
-                "fi": "Helsinki Pride on Suomen suurin ihmisoikeus- ja kulttuuritapahtuma, joka pitää sisällään kaikissa sateenkaaren väreissä loistavaa ohjelmaa.",
-                "sv": "Helsinki Pride är Finlands största evenemang inom kultur och mänskliga rättigheter för sexuella minoriteter och könsminoriteter.",
-                "en": "Helsinki Pride is Finland's biggest human rights and cultural event, with a fantastic program in all colours of the rainbow. "
-            },
-            "description": {
-                "fi": "<p>Helsinki Pride on Suomen suurin ihmisoikeus- ja kulttuuritapahtuma, joka pitää sisällään kaikissa sateenkaaren väreissä loistavaa ohjelmaa. Helsinki Pride -tapahtumat ovat kaikille avoimia, ja suurin osa ohjelmasta on maksutonta.&nbsp;</p><p>Helsinki Pride -viikko huipentuu lauantaina 28.6. kulkueeseen ja puistojuhlaan.</p><p>Ohjelmasta tiedotetaan lisää keväällä 2025.</p><p>&nbsp;</p><p>Helsinki</p><p>23.-29.6.2025</p><p>Suurin osa ohjelmasta on maksutonta</p>",
-                "sv": "<p>Helsinki Pride är Finlands största evenemang inom kultur och mänskliga rättigheter för sexuella minoriteter och könsminoriteter.</p><p>&nbsp;</p><p>Helsingfors<br>23.-29.6.2025</p>",
-                "en": "<p>Helsinki Pride is Finland's biggest human rights and cultural event, with a fantastic program in all colours of the rainbow.&nbsp;</p><p>Helsinki Pride events are open to all and most of the events are free of charge.&nbsp;</p><p>The Helsinki Pride week will peak with a Pride parade and park celebration on Saturday, June 28th.</p><p>More information about the program will be provided during spring 2025.&nbsp;<br>&nbsp;</p><p>Helsinki<br>23.-29.6.2025</p><p>Most of the events are free of charge.</p>"
-            },
             "location_extra_info": {
                 "fi": "",
                 "sv": "",
                 "en": ""
             },
+            "short_description": {
+                "fi": "Tutustu Musiikkitalon Konserttisaliin ja upeisiin urkuihin oman aikataulusi mukaan!",
+                "sv": "Bekanta dig med Musikhusets Konsertsal och den magnifika orgeln i din egen takt!",
+                "en": "Explore the Concert Hall and its magnificent organ at your own pace!"
+            },
+            "name": {
+                "fi": "Musiikkitalon Konserttisalin avoimet ovet",
+                "sv": "Öppna dörrar till Musikhusets Konsertsalen",
+                "en": "Open Doors to the Concert Hall"
+            },
             "info_url": {
-                "fi": "https://www.pride.fi/",
-                "sv": "https://www.pride.fi/en",
-                "en": "https://www.pride.fi/en"
+                "fi": "https://musiikkitalo.fi/kategoria/esittelykierrokset",
+                "sv": "https://musiikkitalo.fi/sv/kategori/guidade-turer",
+                "en": "https://musiikkitalo.fi/en/category/guided-tours"
             },
             "provider": {
-                "fi": "Helsinki Pride -yhteisö",
-                "sv": "Helsinki Pride ",
-                "en": "Helsinki Pride  Community"
-            },
-            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agjnprufue/",
-            "@context": "http://schema.org",
-            "@type": "Event/LinkedEvent"
-        },
-        {
-            "id": "helsinki:agltvi7p3m",
-            "has_user_editable_resources": true,
-            "location": {
-                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:20916/"
-            },
-            "keywords": [
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1278/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3670/"
-                },
-                {
-                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5121/"
-                }
-            ],
-            "registration": null,
-            "super_event": null,
-            "event_status": "EventScheduled",
-            "type_id": "General",
-            "external_links": [
-                {
-                    "name": "extlink_instagram",
-                    "link": "https://www.instagram.com/indonesiafinlandfest/",
-                    "language": "fi"
-                }
-            ],
-            "offers": [
-                {
-                    "is_free": true,
-                    "price": null,
-                    "description": null,
-                    "info_url": {
-                        "fi": "",
-                        "en": ""
-                    }
-                }
-            ],
-            "data_source": "helsinki",
-            "publisher": "others",
-            "sub_events": [],
-            "images": [
-                {
-                    "id": 154499,
-                    "has_user_editable_resources": true,
-                    "license": "event_only",
-                    "license_url": "",
-                    "created_time": "2025-06-04T11:08:42.751306Z",
-                    "last_modified_time": "2025-06-04T11:11:51.340383Z",
-                    "name": "Event Flyer.png",
-                    "url": "https://api.hel.fi/linkedevents/media/images/Event_Flyer.png",
-                    "cropping": "236,0,1177,942",
-                    "photographer_name": "",
-                    "alt_text": "Indonesia Suomi Festivaali",
-                    "data_source": "helsinki",
-                    "publisher": null,
-                    "@id": "https://api.hel.fi/linkedevents/v1/image/154499/",
-                    "@context": "http://schema.org",
-                    "@type": "ImageObject"
-                }
-            ],
-            "videos": [],
-            "in_language": [],
-            "audience": [],
-            "created_time": "2025-06-04T11:11:51.829391Z",
-            "last_modified_time": "2025-06-05T11:07:14.271994Z",
-            "date_published": null,
-            "start_time": "2025-06-14T08:00:00Z",
-            "end_time": "2025-06-14T15:00:00Z",
-            "custom_data": null,
-            "environmental_certificate": "",
-            "environment": "out",
-            "audience_min_age": null,
-            "audience_max_age": null,
-            "super_event_type": null,
-            "deleted": false,
-            "maximum_attendee_capacity": 2000,
-            "minimum_attendee_capacity": null,
-            "enrolment_start_time": null,
-            "enrolment_end_time": null,
-            "local": false,
-            "replaced_by": null,
-            "name": {
-                "fi": "Indonesia - Suomi Festivaali 2025",
-                "en": "Indonesia - Finland Festival 2025"
+                "fi": "Musiikkitalo",
+                "sv": "Musikhuset",
+                "en": "Helsinki Music Center"
             },
             "provider_contact_info": null,
-            "short_description": {
-                "fi": "Indonesia–Suomi Festivaali palaa! Liity mukaan eläväiseen indonesialaisen kulttuurin juhlaan Helsingin sydämessä, jossa perinteet kohtaavat modernin luovuuden. ",
-                "en": "Indonesia–Suomi Festival returns! Join in the heart of Helsinki for a vibrant celebration of Indonesian culture, where tradition meets modern creativity."
-            },
             "description": {
-                "fi": "<p>Indonesia–Suomi Festivaali palaa! Liity mukaan eläväiseen indonesialaisen kulttuurin juhlaan Helsingin sydämessä, jossa perinteet kohtaavat modernin luovuuden.&nbsp;</p><p>Nauti koko päivän ajan live-esiintymisistä, musiikista, ruokakojuista, taide- ja käsityönäyttelyistä, lasten aktiviteeteista ja paljosta muusta.</p><p>Tänä vuonna IFF 2025 tekee yhteistyötä Turkish Airlinesin kanssa sen virallisena lentoyhtiösponsorina. Yksi onnekas vierailija voittaa Ilmaisen meno-paluulipun Helsingistä Jakartaan.</p><p>&nbsp;</p><p>Narinkkatori</p><p>14.6.2025</p><p>11.00-18.00</p><p>&nbsp;</p><p>Vapaa pääsy</p>",
-                "en": "<p>Indonesia–Suomi Festival returns! Join in the heart of Helsinki for a vibrant celebration of Indonesian culture, where tradition meets modern creativity.</p><p>Enjoy a full day of live performances, music, food stalls, art and craft exhibitions, children's activities, and much more.</p><p>&nbsp;</p><p>Narinkkatori Square</p><p>14.6.2025</p><p>11.00-18.00</p><p>&nbsp;</p><p>Free entry</p>"
+                "fi": "<p>Tutustu Musiikkitalon Konserttisaliin ja upeisiin urkuihin oman aikataulusi mukaan!</p><p>Konserttisalin ovet ovat avoinna, ja Musiikkitalon taskuopas tarjoaa olennaiset tiedot maailman suurimmista moderneista konserttisaliuruista. Omatoimisella mobiilikierroksella tulevat tutuksi ennennäkemättömät urut, jotka nostavat Musiikkitalon kertaheitolla maailman suurten konserttitalojen joukkoon.&nbsp;</p><p>Sovelluksen kautta tutustut uruista lähteviin erikoisempiinkin ääniin ja kuulet myös tällä maailmanluokan soittimella soitettua musiikkia.</p><p>&nbsp;</p><p>Musiikkitalo</p><p>7.-26.7.2025</p><p>13.00-17.00</p><p>Vapaa pääsy, kesto n. 20-30 min</p><p>Mobiilikierrokselle tarvitaan oma älylaite. Voit halutessasi hakea lainakuulokkeet ja ohjeet Musiikkitalon Info-pisteeltä.&nbsp;</p><p>Esittely sopii myös liikuntaesteisille.<br>Musiikkitalo pidättää oikeudet muutoksiin.</p>",
+                "sv": "<p>Bekanta dig med Musikhusets Konsertsal och den magnifika orgeln i din egen takt!</p><p>Musikhusets Konsertsalen är öppen för besökare, och fickguide ger dig det väsentliga om världens största moderna konsertsalsorgel.&nbsp;</p><p>På en självständig mobilrundtur bekantar du dig med denna unika orgel, som genast placerar Musikhuset bland världens främsta konserthus.&nbsp;</p><p>Via appen får du höra ovanliga ljud från orgeln och lyssna på musik spelad på detta världsinstrument.</p><p>&nbsp;</p><p>Musikhuset</p><p>7.-26.7.2025</p><p>13.00-17.00</p><p>Fritt inträde, längd ca. 20-30 min</p><p>&nbsp;</p><p>För mobilrundturen behöver du en egen smart enhet. Vid behov kan du låna hörlurar och få instruktioner vid Musikhusets Infopunkt.&nbsp;</p><p>Visningen lämpar sig även för personer med nedsatt rörlighet.<br>Musikhuset förbehåller sig rätten till ändringar.</p>",
+                "en": "<p>Explore the Concert Hall and its magnificent organ at your own pace!</p><p>The Musiikkitalo's Concert Hall is open for visitors, and the Pocket Guide provides essential information about the world’s largest modern concert hall organ. During the self-guided mobile tour, you’ll discover this extraordinary instrument, which places the Musiikkitalo among the world’s leading concert halls. Through the app, you can explore some of the organ’s more unusual sounds and listen to music performed on this world-class instrument.</p><p>&nbsp;</p><p>Musiikkitalo</p><p>7.-26.7.2025</p><p>13.00-17.00</p><p>Free entry, duration approx. 20-30 min</p><p>&nbsp;</p><p>A smart device is required for the mobile tour. If needed, you can borrow headphones and get instructions at the Musiikkitalo’s Info Desk.&nbsp;</p><p>The tour is accessible for people with reduced mobility.<br>The Music Centre reserves the right to make changes.</p>"
             },
-            "location_extra_info": {
-                "fi": "",
-                "en": ""
-            },
-            "info_url": {
-                "fi": "https://www.instagram.com/indonesiafinlandfest/",
-                "en": "https://www.instagram.com/indonesiafinlandfest/"
-            },
-            "provider": {
-                "fi": "Indonesian Helsingin Suurlähetystö",
-                "en": "Indonesian Embassy"
-            },
-            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agltvi7p3m/",
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglyoxonsi/",
             "@context": "http://schema.org",
             "@type": "Event/LinkedEvent"
         },
@@ -399,6 +317,150 @@
             "@context": "http://schema.org",
             "@type": "Event/LinkedEvent"
         }
- 
+ ,{
+    "id": "helsinki:aglppw4fyq",
+    "has_user_editable_resources": true,
+    "location": {
+        "@id": "https://api.hel.fi/linkedevents/v1/place/matko:732/"
+    },
+    "keywords": [
+        {
+            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p11185/"
+        },
+        {
+            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1235/"
+        },
+        {
+            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1278/"
+        },
+        {
+            "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1808/"
+        }
+    ],
+    "registration": null,
+    "super_event": null,
+    "event_status": "EventScheduled",
+    "type_id": "General",
+    "external_links": [
+        {
+            "name": "extlink_facebook",
+            "link": "https://www.facebook.com/helsinkifestival/",
+            "language": "fi"
+        },
+        {
+            "name": "extlink_instagram",
+            "link": "http://instagram.com/helsinkifestival",
+            "language": "fi"
+        },
+        {
+            "name": "extlink_twitter",
+            "link": "https://twitter.com/helsinkifest",
+            "language": "fi"
+        },
+        {
+            "name": "extlink_youtube",
+            "link": "https://www.youtube.com/channel/UC8FvN6fh8_XuXZW1eUR4d7w",
+            "language": "fi"
+        }
+    ],
+    "offers": [
+        {
+            "is_free": false,
+            "info_url": {
+                "fi": "https://helsinkifestival.fi/liput/",
+                "sv": "https://helsinkifestival.fi/sv/biljetter/",
+                "en": "https://helsinkifestival.fi/en/tickets/"
+            },
+            "description": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "price": {
+                "fi": "0–142 €",
+                "sv": "0–142 €",
+                "en": "0–142 €"
+            }
+        }
+    ],
+    "data_source": "helsinki",
+    "publisher": "ytj:0224232-9",
+    "sub_events": [],
+    "images": [
+        {
+            "id": 137880,
+            "has_user_editable_resources": true,
+            "license": "event_only",
+            "license_url": "",
+            "created_time": "2024-04-09T09:44:08.881045Z",
+            "last_modified_time": "2024-04-09T09:47:12.762541Z",
+            "name": "Helsingin juhlaviikot",
+            "url": "https://helsinkifestival.fi/app/uploads/sites/8/2023/06/cropped-HJV_Vesta_Arppa_2022_c_Petri_Anttila.jpg?ver=30ee6669",
+            "cropping": "",
+            "photographer_name": "Petri Anttila",
+            "alt_text": "Helsingin juhlaviikot",
+            "data_source": "helsinki",
+            "publisher": "ytj:0224232-9",
+            "@id": "https://api.hel.fi/linkedevents/v1/image/137880/",
+            "@context": "http://schema.org",
+            "@type": "ImageObject"
+        }
+    ],
+    "videos": [],
+    "in_language": [],
+    "audience": [],
+    "created_time": "2025-05-22T11:58:01.199600Z",
+    "last_modified_time": "2025-05-22T11:58:01.199618Z",
+    "date_published": null,
+    "start_time": "2025-08-14T07:00:00Z",
+    "end_time": "2025-08-31T19:00:00Z",
+    "custom_data": null,
+    "environmental_certificate": "",
+    "environment": "in",
+    "audience_min_age": null,
+    "audience_max_age": null,
+    "super_event_type": "umbrella",
+    "deleted": false,
+    "maximum_attendee_capacity": 230000,
+    "minimum_attendee_capacity": null,
+    "enrolment_start_time": null,
+    "enrolment_end_time": null,
+    "local": false,
+    "replaced_by": null,
+    "provider_contact_info": null,
+    "name": {
+        "fi": "Helsingin juhlaviikot 2025",
+        "sv": "Helsingfors festspel 2025",
+        "en": "Helsinki Festival 2025"
+    },
+    "info_url": {
+        "fi": "https://helsinkifestival.fi/",
+        "sv": "https://helsinkifestival.fi/sv/",
+        "en": "https://helsinkifestival.fi/en/"
+    },
+    "description": {
+        "fi": "<p><strong>Helsingin juhlaviikot</strong> on Pohjoismaiden suurin monitaidefestivaali, joka järjestetään vuosittain elo-syyskuun vaihteessa. Juhlaviikkojen tehtävänä on tarjota laajalle kotimaiselle ja ulkomaiselle yleisölle ainutlaatuisia taide-elämyksiä. Festivaalin taiteellisena johtajana toimii Johanna Freundlich.</p>",
+        "sv": "<p><strong>Helsingfors festspel</strong> är den största universalfestivalen i Norden. Festspelen arrangeras i månadsskiftet augusti-september och har som sin uppgift att låta alla helsingforsare komma i åtnjutande av konst.</p>",
+        "en": "<p><strong>Helsinki Festival</strong> is the largest arts festival in the Nordic countries, held annually in late summer. The festival’s aim is to make art accessible for all. The programme features classical and world music, theatre, dance, circus and visual arts as well as a range of urban events.</p>"
+    },
+    "short_description": {
+        "fi": "Helsingin juhlaviikot on Pohjoismaiden suurin monitaidefestivaali, joka järjestetään vuosittain elo-syyskuun vaihteessa.",
+        "sv": "Helsingfors festspel är den största universalfestivalen i Norden. Festspelen arrangeras i månadsskiftet augusti-september.",
+        "en": "Helsinki Festival is the largest arts festival in the Nordic countries, held annually in late summer."
+    },
+    "provider": {
+        "fi": "",
+        "sv": "",
+        "en": ""
+    },
+    "location_extra_info": {
+        "fi": "",
+        "sv": "",
+        "en": ""
+    },
+    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aglppw4fyq/",
+    "@context": "http://schema.org",
+    "@type": "Event/LinkedEvent"
+}
     ]
 }
